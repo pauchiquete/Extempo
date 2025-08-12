@@ -1,0 +1,96 @@
+
+=============================================================================
+INFORME EJECUTIVO - ANÁLISIS DE VENTAS E-COMMERCE 2024
+=============================================================================
+
+ESTUDIANTE: [Tu Nombre]
+MATRÍCULA: [Tu Matrícula]
+FECHA: [Fecha del Examen]
+
+-----------------------------------------------------------------------------
+RESUMEN DE HALLAZGOS CLAVE
+-----------------------------------------------------------------------------
+
+1. PATRONES TEMPORALES:
+   - Mes de mayor venta: _______________
+   - Hora pico de ventas: ______________
+   - Estacionalidad observada: _________
+
+2. PERFIL DEMOGRÁFICO RENTABLE:
+   - Grupo de edad: ___________________
+   - Género predominante: _____________
+   - Ticket promedio: _________________
+   - Satisfacción promedio: ___________
+
+3. PERFORMANCE POR CATEGORÍA:
+   - Categoría líder: __________________
+   - Mejor margen (con descuentos): ____
+   - Mayor satisfacción: _______________
+
+-----------------------------------------------------------------------------
+RECOMENDACIONES ESTRATÉGICAS
+-----------------------------------------------------------------------------
+
+RECOMENDACIÓN 1: OPTIMIZACIÓN TEMPORAL
+Problema: ___________________________
+Solución propuesta: __________________
+Impacto esperado: ____________________
+
+RECOMENDACIÓN 2: MEJORA LOGÍSTICA  
+Problema: ___________________________
+Solución propuesta: __________________
+Impacto esperado: ____________________
+
+RECOMENDACIÓN 3: SEGMENTACIÓN DE CLIENTES
+Problema: ___________________________
+Solución propuesta: __________________
+Impacto esperado: ____________________
+
+-----------------------------------------------------------------------------
+RESPUESTAS A PREGUNTAS ESPECÍFICAS
+-----------------------------------------------------------------------------
+
+1. ¿En qué meses y horas del día se concentran las ventas?
+   Respuesta: _________________________
+   _________________________________
+
+2. ¿Cuál es el perfil demográfico más rentable?
+   Respuesta: _________________________
+   _________________________________
+
+3. ¿Qué categorías tienen mejor margen considerando descuentos?
+   Respuesta: _________________________
+   _________________________________
+
+4. ¿Qué variables predicen mejor la satisfacción del cliente?
+   Respuesta: _________________________
+   _________________________________
+
+5. ¿Cómo afecta el tiempo de entrega a las devoluciones?
+   Respuesta: _________________________
+   _________________________________
+
+-----------------------------------------------------------------------------
+CONCLUSIONES FINALES
+-----------------------------------------------------------------------------
+
+FORTALEZAS DEL NEGOCIO:
+1. _____________________________________
+2. _____________________________________
+3. _____________________________________
+
+OPORTUNIDADES DE MEJORA:
+1. _____________________________________
+2. _____________________________________
+3. _____________________________________
+
+PROYECCIÓN DE CRECIMIENTO:
+Con las recomendaciones implementadas se espera:
+- Incremento en ventas: ____%
+- Mejora en satisfacción: ____%
+- Reducción en devoluciones: ____%
+
+=============================================================================
+FIN DEL INFORME
+=============================================================================
+    

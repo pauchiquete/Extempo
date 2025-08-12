@@ -1,0 +1,1001 @@
+transaction_id,customer_id,customer_age,customer_gender,customer_city,product_category,product_subcategory,product_price,quantity,total_amount,discount_applied,payment_method,purchase_date,purchase_hour,purchase_day_of_week,purchase_month,shipping_cost,delivery_days,customer_satisfaction,return_flag,seasonal_multiplier,is_repeat_customer
+TXN000001,CUST000655,40,F,Puebla,Deportes,Basketball,1623.67,1,1149.56,29.2,Tarjeta,2024-01-13,20,Saturday,1,0,5,4.4,No,1.3,No
+TXN000002,CUST000693,29,M,Cancún,Hogar,Muebles,1249.4,3,3748.2,0.0,PayPal,2024-02-14,14,Wednesday,2,0,3,4.4,Sí,0.9,No
+TXN000003,CUST000239,36,M,Veracruz,Electrónicos,Smartwatches,5064.74,2,10129.48,0.0,Tarjeta,2024-11-08,13,Friday,11,0,5,3.8,No,1.4,No
+TXN000004,CUST000007,32,F,León,Ropa,Vestidos,792.89,4,2730.71,13.9,Tarjeta,2024-12-23,5,Monday,12,0,15,3.7,No,1.1,No
+TXN000005,CUST000095,18,F,Aguascalientes,Ropa,Vestidos,586.82,3,1135.5,35.5,Transferencia,2024-02-19,18,Monday,2,0,15,3.2,Sí,0.9,No
+TXN000006,CUST000471,24,F,Cancún,Hogar,Jardinería,901.17,3,2087.11,22.8,PayPal,2024-03-04,19,Monday,3,0,7,4.3,No,1.2,No
+TXN000007,CUST000634,34,F,Mexicali,Ropa,Camisetas,295.68,3,887.04,0.0,Tarjeta,2024-10-25,19,Friday,10,107,4,5.0,No,1.2,No
+TXN000008,CUST000104,32,M,Aguascalientes,Belleza,Fragancias,993.91,4,3975.64,0.0,Tarjeta,2024-05-22,7,Wednesday,5,0,8,3.9,Sí,1.2,No
+TXN000009,CUST000364,50,F,Juárez,Electrónicos,Smartwatches,3549.82,3,10649.46,0.0,Efectivo,2024-12-13,12,Friday,12,0,6,4.0,No,1.6,No
+TXN000010,CUST000168,18,M,Saltillo,Electrónicos,Audífonos,2719.02,2,5438.04,0.0,Tarjeta,2024-07-13,23,Saturday,7,0,7,4.2,No,1.0,No
+TXN000011,CUST000225,48,M,Mérida,Libros,Académicos,106.39,2,200.01,6.0,PayPal,2024-02-02,15,Friday,2,78,6,4.7,No,1.0,No
+TXN000012,CUST000581,35,M,Mérida,Deportes,Running,1546.08,1,1546.08,0.0,Transferencia,2024-04-18,21,Thursday,4,0,13,3.1,No,1.2,No
+TXN000013,CUST000272,44,F,Tijuana,Deportes,Natación,1737.16,2,2671.75,23.1,Transferencia,2024-05-06,21,Monday,5,0,12,2.8,No,1.2,No
+TXN000014,CUST000598,42,M,Aguascalientes,Ropa,Pantalones,507.83,2,1015.66,0.0,PayPal,2024-07-04,17,Thursday,7,0,5,5.0,No,0.7,No
+TXN000015,CUST000094,43,M,Guadalajara,Hogar,Jardinería,2275.71,2,4551.42,0.0,Efectivo,2024-03-01,10,Friday,3,0,4,3.5,No,1.2,No
+TXN000016,CUST000480,45,F,Veracruz,Libros,Técnicos,511.58,1,511.58,0.0,Tarjeta,2024-05-08,16,Wednesday,5,71,13,3.2,No,1.0,No
+TXN000017,CUST000699,32,M,Cancún,Belleza,Cabello,600.1,3,1460.04,18.9,PayPal,2024-05-16,21,Thursday,5,0,9,5.0,No,1.2,No
+TXN000018,CUST000004,24,F,Querétaro,Belleza,Maquillaje,795.1,2,1590.2,0.0,Transferencia,2024-09-13,20,Friday,9,0,4,4.3,No,1.0,No
+TXN000019,CUST000306,41,F,Veracruz,Deportes,Fútbol,456.75,2,761.86,16.6,Tarjeta,2024-11-07,14,Thursday,11,90,11,5.0,No,0.9,No
+TXN000020,CUST000544,30,M,Ciudad de México,Libros,Académicos,264.65,1,264.65,0.0,PayPal,2024-11-02,5,Saturday,11,50,1,4.8,No,1.0,No
+TXN000021,CUST000315,60,F,Torreón,Belleza,Skincare,185.03,1,185.03,0.0,Transferencia,2024-02-02,22,Friday,2,78,15,3.8,No,1.2,No
+TXN000022,CUST000129,25,M,Tijuana,Electrónicos,Smartwatches,2415.36,4,8144.59,15.7,Transferencia,2024-12-03,12,Tuesday,12,0,6,5.0,No,1.6,No
+TXN000023,CUST000434,40,M,Juárez,Electrónicos,Laptops,2427.58,2,4855.16,0.0,PayPal,2024-10-03,12,Thursday,10,0,5,4.7,No,1.1,No
+TXN000024,CUST000666,48,F,Mexicali,Ropa,Zapatos,611.37,3,770.33,58.0,Efectivo,2024-08-12,12,Monday,8,98,4,4.5,No,0.8,No
+TXN000025,CUST000603,29,M,Cancún,Libros,Técnicos,639.55,5,2436.69,23.8,Efectivo,2024-04-27,20,Saturday,4,0,4,4.6,No,1.0,No
+TXN000026,CUST000061,18,F,Torreón,Electrónicos,Audífonos,2917.23,4,7199.72,38.3,Tarjeta,2024-02-04,12,Sunday,2,0,3,4.1,No,0.7,No
+TXN000027,CUST000498,38,F,Juárez,Hogar,Cocina,600.0,3,1800.0,0.0,Tarjeta,2024-10-03,13,Thursday,10,0,12,3.3,No,1.0,No
+TXN000028,CUST000249,18,F,Villahermosa,Ropa,Pantalones,194.32,2,195.49,49.7,Tarjeta,2024-07-27,6,Saturday,7,125,8,5.0,No,0.7,No
+TXN000029,CUST000479,48,F,Guadalajara,Belleza,Skincare,665.32,2,1100.44,17.3,Tarjeta,2024-12-10,1,Tuesday,12,0,3,4.7,No,1.2,No
+TXN000030,CUST000112,38,F,Torreón,Hogar,Cocina,573.4,1,573.4,0.0,Tarjeta,2024-04-13,22,Saturday,4,105,10,2.8,Sí,1.0,No
+TXN000031,CUST000078,35,Other,Saltillo,Electrónicos,Smartphones,2670.44,4,10681.76,0.0,Efectivo,2024-10-11,11,Friday,10,0,8,4.9,No,1.1,No
+TXN000032,CUST000417,33,F,Villahermosa,Ropa,Camisetas,651.53,4,1680.95,35.5,Tarjeta,2024-09-07,17,Saturday,9,0,3,5.0,No,1.1,No
+TXN000033,CUST000272,19,F,Saltillo,Libros,Técnicos,725.16,7,5076.12,0.0,Tarjeta,2024-05-26,12,Sunday,5,0,10,4.9,No,1.0,Sí
+TXN000034,CUST000304,35,F,Juárez,Belleza,Cuidado personal,524.89,3,1354.22,14.0,PayPal,2024-01-30,7,Tuesday,1,0,8,4.2,Sí,0.9,No
+TXN000035,CUST000599,53,F,Villahermosa,Libros,Técnicos,182.13,4,667.32,8.4,Tarjeta,2024-09-14,1,Saturday,9,135,4,4.3,No,1.3,No
+TXN000036,CUST000071,18,M,Oaxaca,Libros,No ficción,415.1,3,1029.86,17.3,PayPal,2024-02-04,10,Sunday,2,0,12,4.7,No,1.0,No
+TXN000037,CUST000609,34,M,Guadalajara,Deportes,Fitness,288.21,2,576.42,0.0,Transferencia,2024-11-13,11,Wednesday,11,50,5,4.5,No,0.9,No
+TXN000038,CUST000324,59,M,Querétaro,Ropa,Vestidos,453.01,2,727.53,19.7,PayPal,2024-04-14,14,Sunday,4,120,5,4.3,No,1.3,No
+TXN000039,CUST000308,26,F,Saltillo,Belleza,Skincare,265.11,3,682.39,14.2,Transferencia,2024-06-10,13,Monday,6,149,12,3.5,No,1.0,No
+TXN000040,CUST000076,41,F,Cancún,Hogar,Muebles,1230.35,1,1230.35,0.0,Tarjeta,2024-04-19,11,Friday,4,0,8,4.4,No,1.0,No
+TXN000041,CUST000251,25,F,Mexicali,Hogar,Cocina,951.23,3,2853.69,0.0,PayPal,2024-05-25,11,Saturday,5,0,11,3.2,No,1.0,No
+TXN000042,CUST000627,46,M,Veracruz,Belleza,Cuidado personal,187.23,2,374.46,0.0,Transferencia,2024-01-05,9,Friday,1,83,5,5.0,No,0.9,No
+TXN000043,CUST000110,35,M,Cancún,Belleza,Cabello,406.04,2,812.08,0.0,PayPal,2024-03-20,21,Wednesday,3,96,14,2.8,No,1.1,No
+TXN000044,CUST000704,18,F,Querétaro,Electrónicos,Smartphones,2056.54,3,4701.25,23.8,Tarjeta,2024-09-15,14,Sunday,9,0,5,4.9,No,1.1,No
+TXN000045,CUST000046,24,M,Ciudad de México,Belleza,Maquillaje,780.5,3,2341.5,0.0,Transferencia,2024-06-19,21,Wednesday,6,0,3,4.4,No,1.0,No
+TXN000046,CUST000453,37,M,Cancún,Electrónicos,Tablets,5915.63,2,11831.26,0.0,PayPal,2024-12-27,20,Friday,12,0,2,4.8,Sí,1.6,No
+TXN000047,CUST000708,18,F,Tijuana,Ropa,Accesorios,799.3,2,1598.6,0.0,PayPal,2024-10-12,21,Saturday,10,0,9,4.5,No,1.2,No
+TXN000048,CUST000316,45,F,Mexicali,Electrónicos,Laptops,3380.27,4,13521.08,0.0,Tarjeta,2024-01-21,11,Sunday,1,0,7,4.3,Sí,0.8,No
+TXN000049,CUST000799,53,F,Cancún,Hogar,Muebles,1734.82,2,3469.64,0.0,Transferencia,2024-07-27,18,Saturday,7,0,6,4.5,No,0.9,No
+TXN000050,CUST000182,51,F,Cuernavaca,Ropa,Pantalones,245.67,3,737.01,0.0,PayPal,2024-01-13,14,Saturday,1,112,15,4.1,No,0.8,No
+TXN000051,CUST000686,36,F,Torreón,Belleza,Maquillaje,838.65,4,3354.6,0.0,Transferencia,2024-05-16,23,Thursday,5,0,4,4.7,No,1.2,No
+TXN000052,CUST000040,35,F,Villahermosa,Ropa,Vestidos,596.37,4,1603.04,32.8,Tarjeta,2024-04-27,13,Saturday,4,0,15,4.5,No,1.3,No
+TXN000053,CUST000229,21,M,Ciudad de México,Ropa,Vestidos,1533.02,2,3066.04,0.0,Tarjeta,2024-12-07,22,Saturday,12,0,3,4.6,No,1.1,No
+TXN000054,CUST000522,25,Other,Aguascalientes,Hogar,Muebles,1431.62,2,2863.24,0.0,PayPal,2024-12-13,13,Friday,12,0,3,4.6,No,1.0,No
+TXN000055,CUST000268,51,M,León,Hogar,Limpieza,424.04,3,1200.88,5.6,Transferencia,2024-10-24,8,Thursday,10,0,12,1.5,No,1.0,No
+TXN000056,CUST000747,33,M,Mérida,Electrónicos,Smartwatches,2923.04,2,4939.94,15.5,Transferencia,2024-08-11,18,Sunday,8,0,6,4.5,No,1.0,No
+TXN000057,CUST000046,30,F,Cuernavaca,Electrónicos,Smartwatches,1309.8,2,2619.6,0.0,Transferencia,2024-01-01,12,Monday,1,0,7,5.0,No,0.8,Sí
+TXN000058,CUST000202,28,M,Mexicali,Ropa,Camisetas,319.75,4,1279.0,0.0,PayPal,2024-08-08,20,Thursday,8,0,8,4.9,No,0.8,No
+TXN000059,CUST000680,36,M,Puebla,Electrónicos,Tablets,1535.33,3,3846.0,16.5,Efectivo,2024-06-02,2,Sunday,6,0,7,4.6,No,1.0,No
+TXN000060,CUST000131,37,M,Juárez,Hogar,Jardinería,485.05,5,2425.25,0.0,Tarjeta,2024-08-03,21,Saturday,8,0,5,3.5,No,1.1,No
+TXN000061,CUST000309,39,M,Aguascalientes,Electrónicos,Audífonos,3415.08,3,7499.52,26.8,PayPal,2024-10-07,13,Monday,10,0,5,2.8,No,1.1,No
+TXN000062,CUST000622,36,M,Mérida,Electrónicos,Laptops,1386.23,2,2772.46,0.0,Transferencia,2024-08-26,6,Monday,8,0,8,4.3,No,1.0,No
+TXN000063,CUST000754,58,M,León,Ropa,Camisetas,1081.2,1,1081.2,0.0,Tarjeta,2024-12-07,21,Saturday,12,0,15,3.4,No,1.1,No
+TXN000064,CUST000318,34,M,Torreón,Hogar,Cocina,1485.28,2,2658.65,10.5,Efectivo,2024-04-11,23,Thursday,4,0,6,4.6,No,1.0,No
+TXN000065,CUST000626,44,M,Monterrey,Libros,Infantiles,577.18,4,2308.72,0.0,Tarjeta,2024-08-21,15,Wednesday,8,0,5,4.3,No,1.2,No
+TXN000066,CUST000714,22,F,Aguascalientes,Electrónicos,Laptops,1731.9,3,5195.7,0.0,Tarjeta,2024-09-10,20,Tuesday,9,0,2,5.0,No,1.1,No
+TXN000067,CUST000789,35,F,Puebla,Libros,Ficción,481.1,5,1842.61,23.4,Tarjeta,2024-08-10,10,Saturday,8,0,4,5.0,No,1.2,No
+TXN000068,CUST000476,18,M,Veracruz,Electrónicos,Tablets,580.65,4,2322.6,0.0,Transferencia,2024-10-13,12,Sunday,10,0,7,3.6,No,1.1,No
+TXN000069,CUST000437,34,F,Cancún,Electrónicos,Laptops,5020.18,2,10040.36,0.0,Tarjeta,2024-08-16,10,Friday,8,0,5,4.7,No,1.0,No
+TXN000070,CUST000770,27,M,Torreón,Belleza,Cabello,808.42,2,1616.84,0.0,Tarjeta,2024-11-22,20,Friday,11,0,11,4.2,No,1.1,No
+TXN000071,CUST000245,37,F,Querétaro,Hogar,Cocina,702.17,5,2977.2,15.2,Tarjeta,2024-08-17,12,Saturday,8,0,8,3.4,No,1.1,No
+TXN000072,CUST000083,34,M,Tijuana,Electrónicos,Laptops,3279.55,4,10979.93,16.3,Transferencia,2024-03-22,21,Friday,3,0,5,5.0,No,0.9,No
+TXN000073,CUST000478,46,F,Cuernavaca,Libros,No ficción,555.34,3,1666.02,0.0,Tarjeta,2024-02-01,20,Thursday,2,0,9,4.5,No,1.0,No
+TXN000074,CUST000599,49,M,Ciudad de México,Libros,Ficción,703.36,3,2110.08,0.0,PayPal,2024-10-21,14,Monday,10,0,3,4.3,No,1.1,Sí
+TXN000075,CUST000430,38,F,Cancún,Belleza,Maquillaje,820.49,1,820.49,0.0,Transferencia,2024-10-06,11,Sunday,10,104,9,3.9,No,1.0,No
+TXN000076,CUST000399,36,M,Mérida,Deportes,Running,1096.73,2,2193.46,0.0,Tarjeta,2024-12-08,2,Sunday,12,0,10,2.9,No,0.8,No
+TXN000077,CUST000638,53,F,Cancún,Hogar,Muebles,1088.76,3,3266.28,0.0,PayPal,2024-01-14,17,Sunday,1,0,3,4.7,Sí,1.1,No
+TXN000078,CUST000439,32,F,Tijuana,Ropa,Pantalones,491.66,2,513.29,47.8,Transferencia,2024-08-24,12,Saturday,8,118,8,3.7,No,0.8,No
+TXN000079,CUST000335,41,M,Mérida,Libros,Académicos,479.75,1,479.75,0.0,PayPal,2024-07-13,21,Saturday,7,123,7,4.2,No,1.0,No
+TXN000080,CUST000482,33,M,Ciudad de México,Electrónicos,Smartphones,4278.33,3,12834.99,0.0,Tarjeta,2024-10-03,13,Thursday,10,0,3,5.0,No,1.1,No
+TXN000081,CUST000071,32,M,Guadalajara,Deportes,Fútbol,1707.62,1,1707.62,0.0,Efectivo,2024-01-16,10,Tuesday,1,0,5,3.9,No,1.3,Sí
+TXN000082,CUST000130,34,F,Villahermosa,Deportes,Running,621.5,1,621.5,0.0,Tarjeta,2024-12-13,6,Friday,12,117,5,3.4,No,0.8,No
+TXN000083,CUST000766,37,F,Puebla,Libros,Ficción,612.58,2,1225.16,0.0,Transferencia,2024-03-24,14,Sunday,3,0,7,3.5,No,1.1,No
+TXN000084,CUST000385,39,F,Aguascalientes,Ropa,Camisetas,277.57,4,1110.28,0.0,Tarjeta,2024-04-11,5,Thursday,4,0,13,3.9,No,1.3,No
+TXN000085,CUST000714,22,F,San Luis Potosí,Deportes,Fitness,351.65,2,703.3,0.0,Tarjeta,2024-12-16,17,Monday,12,142,15,3.2,Sí,0.8,Sí
+TXN000086,CUST000546,48,F,Cuernavaca,Libros,Académicos,67.81,4,198.55,26.8,Tarjeta,2024-12-04,21,Wednesday,12,113,3,4.9,No,0.9,No
+TXN000087,CUST000502,42,F,Puebla,Ropa,Vestidos,636.16,2,750.67,41.0,PayPal,2024-08-09,20,Friday,8,128,14,2.6,Sí,0.8,No
+TXN000088,CUST000181,41,M,Veracruz,Hogar,Limpieza,349.82,4,1399.28,0.0,PayPal,2024-11-29,22,Friday,11,0,11,3.1,No,1.0,No
+TXN000089,CUST000477,35,M,Cuernavaca,Libros,Académicos,180.56,1,138.31,23.4,PayPal,2024-10-30,17,Wednesday,10,101,4,3.6,No,1.1,No
+TXN000090,CUST000462,39,F,Torreón,Libros,Infantiles,499.53,1,459.07,8.1,Efectivo,2024-08-25,13,Sunday,8,133,8,4.5,No,1.2,No
+TXN000091,CUST000218,35,M,Mexicali,Electrónicos,Smartwatches,4236.53,3,12709.59,0.0,Tarjeta,2024-05-12,17,Sunday,5,0,4,2.8,No,1.0,No
+TXN000092,CUST000530,23,F,Juárez,Belleza,Fragancias,786.06,7,5502.42,0.0,Transferencia,2024-02-17,3,Saturday,2,0,6,4.7,No,1.2,No
+TXN000093,CUST000662,48,M,Villahermosa,Libros,Ficción,889.85,6,3897.54,27.0,Tarjeta,2024-08-17,12,Saturday,8,0,6,5.0,No,1.2,No
+TXN000094,CUST000250,47,F,San Luis Potosí,Libros,Técnicos,51.11,3,130.79,14.7,Tarjeta,2024-12-05,13,Thursday,12,140,11,3.8,No,0.9,No
+TXN000095,CUST000764,19,M,Cancún,Hogar,Jardinería,981.73,2,1698.39,13.5,PayPal,2024-06-18,12,Tuesday,6,0,7,3.8,No,0.9,No
+TXN000096,CUST000739,47,F,Juárez,Libros,No ficción,181.03,4,677.05,6.5,Tarjeta,2024-06-14,21,Friday,6,131,7,5.0,No,1.0,No
+TXN000097,CUST000779,34,M,Veracruz,Ropa,Vestidos,878.65,2,1757.3,0.0,Tarjeta,2024-11-01,7,Friday,11,0,6,3.5,No,1.0,No
+TXN000098,CUST000370,23,F,León,Deportes,Basketball,1404.5,2,2224.73,20.8,PayPal,2024-06-07,22,Friday,6,0,3,5.0,No,1.0,No
+TXN000099,CUST000715,35,M,Tijuana,Electrónicos,Tablets,4240.28,4,11804.94,30.4,PayPal,2024-11-22,16,Friday,11,0,2,5.0,No,1.4,No
+TXN000100,CUST000481,20,F,Villahermosa,Libros,Ficción,562.09,2,900.47,19.9,Efectivo,2024-08-13,13,Tuesday,8,131,4,4.7,No,1.2,No
+TXN000101,CUST000411,39,M,Villahermosa,Ropa,Accesorios,713.87,3,1927.45,10.0,Tarjeta,2024-02-07,21,Wednesday,2,0,3,4.2,No,0.9,No
+TXN000102,CUST000577,21,M,San Luis Potosí,Electrónicos,Smartphones,1954.1,3,5862.3,0.0,PayPal,2024-02-13,11,Tuesday,2,0,5,3.7,No,0.7,No
+TXN000103,CUST000634,55,M,Torreón,Electrónicos,Tablets,2721.2,1,2100.77,22.8,Tarjeta,2024-09-24,19,Tuesday,9,0,6,5.0,No,1.1,Sí
+TXN000104,CUST000313,48,F,Chihuahua,Ropa,Camisetas,290.88,3,872.64,0.0,Tarjeta,2024-11-13,19,Wednesday,11,82,15,3.8,No,1.0,No
+TXN000105,CUST000217,41,F,Querétaro,Electrónicos,Smartphones,2767.84,2,4279.08,22.7,PayPal,2024-12-04,15,Wednesday,12,0,3,5.0,No,1.6,No
+TXN000106,CUST000161,34,Other,Ciudad de México,Libros,Técnicos,413.75,5,1756.37,15.1,PayPal,2024-07-28,9,Sunday,7,0,1,5.0,No,1.0,No
+TXN000107,CUST000724,35,F,San Luis Potosí,Libros,Infantiles,476.12,2,809.4,15.0,Tarjeta,2024-12-25,8,Wednesday,12,99,7,4.2,No,0.9,No
+TXN000108,CUST000641,41,M,Chihuahua,Hogar,Cocina,266.13,2,532.26,0.0,Transferencia,2024-12-04,5,Wednesday,12,139,6,4.2,No,1.0,No
+TXN000109,CUST000273,26,Other,Tijuana,Electrónicos,Smartwatches,2627.65,1,2627.65,0.0,Tarjeta,2024-02-10,17,Saturday,2,0,6,4.2,No,0.7,No
+TXN000110,CUST000450,36,F,Puebla,Deportes,Running,682.76,2,1365.52,0.0,Tarjeta,2024-08-27,12,Tuesday,8,0,11,3.4,No,1.0,No
+TXN000111,CUST000449,41,F,Monterrey,Electrónicos,Smartphones,3415.96,2,6831.92,0.0,Tarjeta,2024-11-02,1,Saturday,11,0,3,5.0,No,1.4,No
+TXN000112,CUST000027,34,M,Monterrey,Hogar,Muebles,313.34,3,940.02,0.0,Tarjeta,2024-04-27,12,Saturday,4,50,1,5.0,No,1.0,No
+TXN000113,CUST000689,38,F,Querétaro,Libros,Infantiles,817.49,6,4904.94,0.0,Tarjeta,2024-10-25,15,Friday,10,0,10,3.5,No,1.1,No
+TXN000114,CUST000186,20,F,Chihuahua,Ropa,Zapatos,143.64,1,143.64,0.0,Transferencia,2024-08-11,22,Sunday,8,130,8,4.2,No,0.8,No
+TXN000115,CUST000329,18,M,Puebla,Deportes,Basketball,228.31,2,456.62,0.0,Efectivo,2024-03-23,6,Saturday,3,133,7,3.5,No,1.0,No
+TXN000116,CUST000411,46,F,Cancún,Hogar,Jardinería,1529.2,1,1082.67,29.2,Tarjeta,2024-01-19,20,Friday,1,0,7,4.2,No,1.1,Sí
+TXN000117,CUST000792,35,F,Aguascalientes,Deportes,Fitness,480.9,3,1442.7,0.0,Efectivo,2024-09-20,15,Friday,9,0,11,3.6,No,0.9,No
+TXN000118,CUST000056,29,M,Juárez,Libros,Infantiles,829.65,3,2488.95,0.0,Transferencia,2024-09-22,20,Sunday,9,0,15,3.2,Sí,1.3,No
+TXN000119,CUST000274,42,M,Cancún,Hogar,Limpieza,216.92,3,650.76,0.0,Transferencia,2024-03-08,20,Friday,3,132,4,5.0,Sí,1.2,No
+TXN000120,CUST000646,62,F,Oaxaca,Ropa,Pantalones,780.93,2,1318.21,15.6,Efectivo,2024-05-02,18,Thursday,5,0,3,5.0,No,1.1,No
+TXN000121,CUST000096,32,F,Torreón,Electrónicos,Tablets,1849.06,2,3698.12,0.0,Tarjeta,2024-02-28,19,Wednesday,2,0,7,3.6,No,0.7,No
+TXN000122,CUST000511,25,F,San Luis Potosí,Ropa,Zapatos,348.65,5,1743.25,0.0,PayPal,2024-09-17,12,Tuesday,9,0,10,3.9,No,1.1,No
+TXN000123,CUST000565,48,M,Tijuana,Deportes,Fitness,983.02,4,2925.47,25.6,Tarjeta,2024-07-19,13,Friday,7,0,15,3.3,No,1.0,No
+TXN000124,CUST000349,32,F,Veracruz,Deportes,Fitness,318.19,1,284.78,10.5,Transferencia,2024-05-16,15,Thursday,5,108,12,3.1,No,1.2,No
+TXN000125,CUST000676,22,F,Villahermosa,Deportes,Running,579.38,2,1158.76,0.0,Tarjeta,2024-03-17,11,Sunday,3,0,11,4.7,No,1.0,No
+TXN000126,CUST000387,36,M,Saltillo,Belleza,Maquillaje,756.23,3,2268.69,0.0,Transferencia,2024-06-13,6,Thursday,6,0,6,3.0,No,1.0,No
+TXN000127,CUST000240,18,F,Cuernavaca,Deportes,Running,1351.65,1,1351.65,0.0,Tarjeta,2024-01-23,5,Tuesday,1,0,15,3.3,No,1.3,No
+TXN000128,CUST000680,24,F,Tijuana,Electrónicos,Laptops,1815.17,1,1815.17,0.0,Transferencia,2024-09-10,6,Tuesday,9,0,6,3.8,No,1.1,Sí
+TXN000129,CUST000103,36,M,Saltillo,Ropa,Accesorios,141.0,1,141.0,0.0,Tarjeta,2024-02-21,12,Wednesday,2,71,14,2.6,Sí,0.9,No
+TXN000130,CUST000671,44,M,Tijuana,Deportes,Running,559.68,2,1119.36,0.0,PayPal,2024-02-08,20,Thursday,2,0,7,3.3,No,0.9,No
+TXN000131,CUST000710,22,F,Aguascalientes,Deportes,Fitness,181.41,3,544.23,0.0,PayPal,2024-11-28,17,Thursday,11,138,9,4.2,No,0.9,No
+TXN000132,CUST000642,56,F,Villahermosa,Electrónicos,Smartphones,2510.79,2,5021.58,0.0,Transferencia,2024-10-04,11,Friday,10,0,3,4.0,No,1.1,No
+TXN000133,CUST000295,18,F,Torreón,Libros,Infantiles,569.53,1,569.53,0.0,Transferencia,2024-02-16,13,Friday,2,82,10,3.5,Sí,1.0,No
+TXN000134,CUST000307,32,M,Ciudad de México,Deportes,Basketball,2269.25,3,6807.75,0.0,PayPal,2024-01-24,16,Wednesday,1,0,3,5.0,No,1.3,No
+TXN000135,CUST000442,44,F,Tijuana,Ropa,Accesorios,1154.04,3,3462.12,0.0,Transferencia,2024-05-05,9,Sunday,5,0,5,4.1,No,1.1,No
+TXN000136,CUST000081,23,M,Oaxaca,Hogar,Cocina,1198.77,4,4795.08,0.0,PayPal,2024-07-14,21,Sunday,7,0,12,3.7,Sí,0.9,No
+TXN000137,CUST000473,49,F,Querétaro,Libros,Académicos,863.21,3,2589.63,0.0,PayPal,2024-08-23,20,Friday,8,0,15,5.0,No,1.2,No
+TXN000138,CUST000295,33,F,Cancún,Ropa,Camisetas,1197.35,3,2521.62,29.8,Tarjeta,2024-03-21,16,Thursday,3,0,8,3.1,No,1.2,Sí
+TXN000139,CUST000307,33,Other,Cuernavaca,Deportes,Basketball,800.01,4,3200.04,0.0,PayPal,2024-12-19,16,Thursday,12,0,7,5.0,No,0.8,Sí
+TXN000140,CUST000394,18,M,Villahermosa,Electrónicos,Laptops,1153.7,4,3387.26,26.6,PayPal,2024-02-24,7,Saturday,2,0,4,4.6,No,0.7,No
+TXN000141,CUST000717,48,F,San Luis Potosí,Hogar,Jardinería,981.84,3,2945.52,0.0,Transferencia,2024-01-12,21,Friday,1,0,12,3.3,No,1.1,No
+TXN000142,CUST000797,45,M,Guadalajara,Libros,Infantiles,265.12,3,795.36,0.0,Tarjeta,2024-11-06,11,Wednesday,11,50,3,4.3,No,1.0,No
+TXN000143,CUST000236,46,F,Oaxaca,Ropa,Pantalones,263.09,3,504.34,36.1,Tarjeta,2024-06-29,15,Saturday,6,149,7,5.0,No,0.8,No
+TXN000144,CUST000739,46,F,Tijuana,Deportes,Basketball,698.71,6,4192.26,0.0,Tarjeta,2024-11-22,18,Friday,11,0,3,5.0,No,0.9,Sí
+TXN000145,CUST000750,23,M,Tijuana,Ropa,Vestidos,1091.48,1,917.93,15.9,PayPal,2024-02-16,12,Friday,2,123,5,4.5,No,0.9,No
+TXN000146,CUST000553,32,M,Mexicali,Deportes,Natación,90.4,1,90.4,0.0,Tarjeta,2024-09-28,7,Saturday,9,91,7,2.8,No,0.9,No
+TXN000147,CUST000494,38,F,San Luis Potosí,Ropa,Camisetas,463.9,6,2321.36,16.6,Tarjeta,2024-06-22,12,Saturday,6,0,4,5.0,No,0.8,No
+TXN000148,CUST000232,44,F,Aguascalientes,Deportes,Basketball,1050.79,1,931.0,11.4,PayPal,2024-10-12,5,Saturday,10,120,3,4.6,No,0.9,No
+TXN000149,CUST000127,26,M,Saltillo,Hogar,Limpieza,734.23,5,3671.15,0.0,Tarjeta,2024-07-07,15,Sunday,7,0,13,3.6,No,0.9,No
+TXN000150,CUST000111,43,F,Torreón,Libros,Ficción,502.14,1,502.14,0.0,Tarjeta,2024-08-29,12,Thursday,8,141,8,4.4,No,1.2,No
+TXN000151,CUST000227,65,M,Monterrey,Electrónicos,Tablets,4309.08,3,12927.24,0.0,PayPal,2024-11-21,11,Thursday,11,0,3,4.4,No,1.4,No
+TXN000152,CUST000120,51,F,Tijuana,Libros,Ficción,311.26,4,1048.32,15.8,Transferencia,2024-01-24,8,Wednesday,1,0,10,3.5,Sí,0.9,No
+TXN000153,CUST000241,23,M,Cancún,Hogar,Limpieza,289.96,3,869.88,0.0,PayPal,2024-03-10,23,Sunday,3,139,9,3.9,No,1.2,No
+TXN000154,CUST000745,25,F,Tijuana,Electrónicos,Smartphones,2696.14,2,5392.28,0.0,PayPal,2024-07-31,19,Wednesday,7,0,6,4.5,No,1.0,No
+TXN000155,CUST000287,41,M,Guadalajara,Belleza,Cabello,497.11,4,1620.58,18.5,PayPal,2024-12-19,8,Thursday,12,0,4,4.3,No,1.2,No
+TXN000156,CUST000372,53,F,Puebla,Hogar,Limpieza,451.3,4,1651.76,8.5,PayPal,2024-12-17,13,Tuesday,12,0,7,4.4,No,1.0,No
+TXN000157,CUST000126,18,Other,Saltillo,Libros,No ficción,313.6,3,940.8,0.0,Transferencia,2024-02-16,22,Friday,2,146,3,4.5,Sí,1.0,No
+TXN000158,CUST000342,38,F,Torreón,Electrónicos,Laptops,3210.45,2,3769.07,41.3,Transferencia,2024-03-05,13,Tuesday,3,0,8,5.0,No,0.9,No
+TXN000159,CUST000601,18,M,Juárez,Electrónicos,Laptops,3046.38,7,21324.66,0.0,Transferencia,2024-04-29,7,Monday,4,0,6,5.0,Sí,0.9,No
+TXN000160,CUST000149,48,F,Tijuana,Electrónicos,Audífonos,4673.46,5,23367.3,0.0,Tarjeta,2024-10-03,11,Thursday,10,0,2,4.6,No,1.1,No
+TXN000161,CUST000027,27,M,Tijuana,Belleza,Maquillaje,106.77,4,427.08,0.0,Transferencia,2024-01-08,19,Monday,1,72,5,5.0,No,0.9,Sí
+TXN000162,CUST000130,49,F,Cuernavaca,Deportes,Fitness,562.66,2,1125.32,0.0,Efectivo,2024-09-26,20,Thursday,9,0,10,4.1,No,0.9,Sí
+TXN000163,CUST000371,18,M,Veracruz,Ropa,Camisetas,947.19,2,1229.45,35.1,PayPal,2024-10-30,21,Wednesday,10,0,6,4.6,No,1.2,No
+TXN000164,CUST000045,31,M,Veracruz,Electrónicos,Smartphones,2717.53,4,7728.66,28.9,PayPal,2024-06-03,6,Monday,6,0,5,4.9,No,1.0,No
+TXN000165,CUST000437,44,F,Puebla,Libros,Infantiles,323.62,2,513.26,20.7,Transferencia,2024-09-08,5,Sunday,9,80,8,4.0,No,1.3,Sí
+TXN000166,CUST000068,27,M,Tijuana,Deportes,Natación,571.8,1,571.8,0.0,Tarjeta,2024-05-20,12,Monday,5,111,9,4.2,No,1.2,No
+TXN000167,CUST000544,29,F,San Luis Potosí,Libros,Infantiles,144.7,3,335.99,22.6,Tarjeta,2024-08-20,0,Tuesday,8,84,13,4.5,No,1.2,Sí
+TXN000168,CUST000788,46,Other,Cancún,Libros,Infantiles,710.18,1,710.18,0.0,Efectivo,2024-04-20,12,Saturday,4,99,9,5.0,No,1.0,No
+TXN000169,CUST000465,18,M,Aguascalientes,Electrónicos,Smartphones,1798.43,3,4127.4,23.5,Tarjeta,2024-07-31,21,Wednesday,7,0,4,4.5,No,1.0,No
+TXN000170,CUST000384,46,M,Tijuana,Electrónicos,Smartphones,5072.36,3,12188.88,19.9,Tarjeta,2024-12-17,5,Tuesday,12,0,2,5.0,No,1.6,No
+TXN000171,CUST000099,18,F,Mexicali,Electrónicos,Smartwatches,1744.23,3,4850.7,7.3,Efectivo,2024-03-07,13,Thursday,3,0,6,4.3,No,0.9,No
+TXN000172,CUST000687,59,M,Puebla,Libros,Infantiles,61.24,2,122.48,0.0,Tarjeta,2024-07-29,10,Monday,7,76,7,4.4,No,1.0,No
+TXN000173,CUST000361,46,F,Puebla,Hogar,Cocina,647.4,1,647.4,0.0,Transferencia,2024-10-22,21,Tuesday,10,98,4,3.7,No,1.0,No
+TXN000174,CUST000570,32,M,Mexicali,Ropa,Vestidos,318.02,1,189.22,40.5,Transferencia,2024-02-28,21,Wednesday,2,124,11,4.7,No,0.9,No
+TXN000175,CUST000637,35,Other,Oaxaca,Electrónicos,Smartwatches,2421.08,2,3128.04,35.4,Tarjeta,2024-12-11,16,Wednesday,12,0,7,4.7,No,1.6,No
+TXN000176,CUST000274,20,M,Ciudad de México,Libros,Académicos,117.45,1,93.02,20.8,Tarjeta,2024-04-06,13,Saturday,4,50,2,5.0,No,1.0,Sí
+TXN000177,CUST000580,35,M,Aguascalientes,Hogar,Decoración,494.54,2,989.08,0.0,Tarjeta,2024-02-09,8,Friday,2,97,9,4.6,No,0.9,No
+TXN000178,CUST000350,40,M,León,Belleza,Cabello,596.56,2,1193.12,0.0,Tarjeta,2024-07-08,15,Monday,7,0,12,3.7,No,1.0,No
+TXN000179,CUST000054,36,M,Tijuana,Libros,Técnicos,913.88,2,1407.38,23.0,PayPal,2024-03-21,10,Thursday,3,0,4,4.5,No,1.1,No
+TXN000180,CUST000678,23,F,Cuernavaca,Deportes,Natación,501.93,3,1505.79,0.0,Transferencia,2024-09-05,20,Thursday,9,0,7,4.5,No,0.9,No
+TXN000181,CUST000525,33,M,Puebla,Hogar,Limpieza,555.3,1,555.3,0.0,Tarjeta,2024-06-25,19,Tuesday,6,145,10,2.8,No,0.9,No
+TXN000182,CUST000316,52,F,Guadalajara,Belleza,Cuidado personal,471.87,3,1019.24,28.0,PayPal,2024-04-22,7,Monday,4,0,2,4.8,No,1.0,Sí
+TXN000183,CUST000217,30,F,Tijuana,Hogar,Limpieza,1145.02,7,8015.14,0.0,Tarjeta,2024-05-10,13,Friday,5,0,3,5.0,No,1.0,Sí
+TXN000184,CUST000441,19,M,León,Libros,Infantiles,453.46,5,2267.3,0.0,Tarjeta,2024-03-07,16,Thursday,3,0,6,4.5,No,1.1,No
+TXN000185,CUST000685,36,M,Mexicali,Ropa,Camisetas,231.34,1,136.26,41.1,Tarjeta,2024-02-06,10,Tuesday,2,128,4,5.0,No,0.9,No
+TXN000186,CUST000590,22,M,Cuernavaca,Deportes,Running,958.44,2,1479.83,22.8,Tarjeta,2024-10-20,20,Sunday,10,0,9,4.0,Sí,0.9,No
+TXN000187,CUST000333,44,F,León,Belleza,Cabello,642.69,2,970.46,24.5,Efectivo,2024-11-12,15,Tuesday,11,83,6,4.3,No,1.1,No
+TXN000188,CUST000411,18,F,Veracruz,Deportes,Running,474.48,7,3321.36,0.0,Tarjeta,2024-02-10,20,Saturday,2,0,14,4.2,No,0.9,Sí
+TXN000189,CUST000342,28,M,León,Ropa,Accesorios,901.81,3,1772.06,34.5,PayPal,2024-02-09,18,Friday,2,0,11,4.3,No,0.9,Sí
+TXN000190,CUST000795,34,M,Mexicali,Deportes,Fútbol,158.79,3,386.81,18.8,Tarjeta,2024-06-28,12,Friday,6,88,7,4.8,No,1.0,No
+TXN000191,CUST000617,21,F,Tijuana,Deportes,Running,790.97,1,790.97,0.0,Tarjeta,2024-12-07,17,Saturday,12,144,10,2.7,No,0.8,No
+TXN000192,CUST000579,18,M,Oaxaca,Ropa,Vestidos,327.49,2,451.94,31.0,Tarjeta,2024-06-14,11,Friday,6,78,10,4.0,No,0.8,No
+TXN000193,CUST000311,41,F,Querétaro,Libros,Académicos,137.73,2,275.46,0.0,Tarjeta,2024-11-01,22,Friday,11,74,3,4.6,No,1.0,No
+TXN000194,CUST000294,19,Other,Monterrey,Electrónicos,Smartphones,3305.52,2,6611.04,0.0,Tarjeta,2024-11-26,13,Tuesday,11,0,5,4.3,No,1.4,No
+TXN000195,CUST000595,46,Other,Cancún,Deportes,Natación,740.21,3,2220.63,0.0,Efectivo,2024-01-22,1,Monday,1,0,8,3.3,No,1.3,No
+TXN000196,CUST000514,44,F,Tijuana,Deportes,Running,1245.4,3,2723.69,27.1,PayPal,2024-02-01,9,Thursday,2,0,8,3.7,No,0.9,No
+TXN000197,CUST000087,47,M,Veracruz,Electrónicos,Tablets,3290.82,2,6581.64,0.0,Tarjeta,2024-11-29,22,Friday,11,0,6,5.0,No,1.4,No
+TXN000198,CUST000163,34,M,Mexicali,Deportes,Running,653.43,4,2015.18,22.9,Tarjeta,2024-07-09,7,Tuesday,7,0,8,4.4,No,1.0,No
+TXN000199,CUST000054,39,M,Mérida,Electrónicos,Audífonos,911.78,3,1633.0,40.3,Transferencia,2024-02-03,20,Saturday,2,0,7,5.0,No,0.7,Sí
+TXN000200,CUST000259,18,F,Oaxaca,Deportes,Natación,500.61,3,1501.83,0.0,PayPal,2024-03-17,21,Sunday,3,0,8,4.3,No,1.0,No
+TXN000201,CUST000672,32,F,Aguascalientes,Electrónicos,Smartwatches,2905.49,3,8716.47,0.0,Tarjeta,2024-03-07,2,Thursday,3,0,2,5.0,No,0.9,No
+TXN000202,CUST000386,26,F,Mérida,Belleza,Cuidado personal,243.17,2,439.65,9.6,Transferencia,2024-03-06,17,Wednesday,3,124,11,3.4,No,1.1,No
+TXN000203,CUST000372,41,M,San Luis Potosí,Ropa,Vestidos,542.7,7,3798.9,0.0,PayPal,2024-04-02,12,Tuesday,4,0,10,4.3,No,1.3,Sí
+TXN000204,CUST000141,32,F,Tijuana,Hogar,Limpieza,1310.53,3,3931.59,0.0,Tarjeta,2024-02-09,17,Friday,2,0,4,3.6,No,0.9,No
+TXN000205,CUST000553,22,M,Veracruz,Electrónicos,Audífonos,343.7,1,343.7,0.0,Transferencia,2024-01-20,8,Saturday,1,149,3,5.0,No,0.8,Sí
+TXN000206,CUST000158,26,M,León,Electrónicos,Smartwatches,2345.05,3,7035.15,0.0,PayPal,2024-04-02,14,Tuesday,4,0,3,3.8,No,0.9,No
+TXN000207,CUST000045,51,F,Cuernavaca,Libros,No ficción,482.84,1,482.84,0.0,Tarjeta,2024-07-05,15,Friday,7,148,7,2.8,No,1.0,Sí
+TXN000208,CUST000460,24,F,Torreón,Electrónicos,Laptops,2024.32,2,4048.64,0.0,PayPal,2024-10-05,13,Saturday,10,0,6,3.9,No,1.1,No
+TXN000209,CUST000473,52,M,San Luis Potosí,Electrónicos,Tablets,3497.24,3,10491.72,0.0,Transferencia,2024-07-14,9,Sunday,7,0,8,5.0,No,1.0,Sí
+TXN000210,CUST000620,33,M,Tijuana,Ropa,Camisetas,1288.32,3,3864.96,0.0,Tarjeta,2024-05-08,16,Wednesday,5,0,8,4.9,No,1.1,No
+TXN000211,CUST000106,49,M,Veracruz,Belleza,Cabello,152.66,3,457.98,0.0,Transferencia,2024-03-08,16,Friday,3,135,5,3.9,No,1.1,No
+TXN000212,CUST000094,32,M,Torreón,Libros,Ficción,542.94,4,1698.32,21.8,Transferencia,2024-08-18,16,Sunday,8,0,9,5.0,No,1.2,Sí
+TXN000213,CUST000242,29,F,Aguascalientes,Deportes,Fitness,827.22,2,1376.49,16.8,Tarjeta,2024-02-11,18,Sunday,2,0,4,4.2,No,0.9,No
+TXN000214,CUST000666,27,M,Mérida,Electrónicos,Laptops,1901.47,6,7849.27,31.2,Transferencia,2024-03-15,10,Friday,3,0,8,4.0,No,0.9,Sí
+TXN000215,CUST000143,18,M,Villahermosa,Electrónicos,Smartwatches,3001.37,3,8094.69,10.1,PayPal,2024-08-17,18,Saturday,8,0,2,5.0,Sí,1.0,No
+TXN000216,CUST000221,29,M,Tijuana,Electrónicos,Smartwatches,4646.55,8,37172.4,0.0,Tarjeta,2024-10-07,15,Monday,10,0,2,4.7,No,1.1,No
+TXN000217,CUST000244,48,F,San Luis Potosí,Libros,Técnicos,163.77,4,655.08,0.0,Tarjeta,2024-03-09,16,Saturday,3,84,10,2.8,No,1.1,No
+TXN000218,CUST000017,51,M,Veracruz,Libros,Académicos,476.61,5,2383.05,0.0,PayPal,2024-10-25,10,Friday,10,0,12,3.8,No,1.1,No
+TXN000219,CUST000585,39,M,Cuernavaca,Belleza,Skincare,134.88,4,539.52,0.0,Tarjeta,2024-04-05,21,Friday,4,116,4,2.7,No,1.0,No
+TXN000220,CUST000558,58,F,Veracruz,Deportes,Running,743.17,4,2972.68,0.0,Transferencia,2024-09-16,2,Monday,9,0,3,4.7,No,0.9,No
+TXN000221,CUST000383,53,F,Querétaro,Libros,Ficción,156.34,4,538.43,13.9,Tarjeta,2024-01-09,5,Tuesday,1,150,4,4.8,No,0.9,No
+TXN000222,CUST000753,25,F,Mérida,Libros,Ficción,713.76,5,2590.95,27.4,Efectivo,2024-03-09,16,Saturday,3,0,8,4.4,No,1.1,No
+TXN000223,CUST000180,49,M,Saltillo,Hogar,Cocina,1554.64,2,3109.28,0.0,Tarjeta,2024-12-22,9,Sunday,12,0,4,4.1,No,1.0,No
+TXN000224,CUST000469,18,M,Guadalajara,Electrónicos,Laptops,1210.8,3,3083.91,15.1,Tarjeta,2024-05-30,8,Thursday,5,0,2,4.8,No,1.0,No
+TXN000225,CUST000324,51,M,San Luis Potosí,Ropa,Zapatos,346.44,3,1039.32,0.0,Tarjeta,2024-09-20,20,Friday,9,0,11,2.8,No,1.1,Sí
+TXN000226,CUST000038,37,M,Juárez,Deportes,Fitness,818.41,1,818.41,0.0,PayPal,2024-05-26,12,Sunday,5,112,7,5.0,No,1.2,No
+TXN000227,CUST000377,41,F,Cuernavaca,Libros,Infantiles,732.21,2,1212.54,17.2,PayPal,2024-07-23,19,Tuesday,7,0,5,5.0,No,1.0,No
+TXN000228,CUST000510,49,M,Mexicali,Libros,Infantiles,175.16,3,423.01,19.5,PayPal,2024-09-27,13,Friday,9,147,5,4.5,No,1.3,No
+TXN000229,CUST000329,38,M,Puebla,Deportes,Basketball,421.24,6,2527.44,0.0,Tarjeta,2024-02-10,8,Saturday,2,0,7,3.3,No,0.9,Sí
+TXN000230,CUST000735,28,M,Cuernavaca,Hogar,Limpieza,454.57,3,1363.71,0.0,Transferencia,2024-03-26,0,Tuesday,3,0,14,4.2,No,1.2,No
+TXN000231,CUST000362,41,F,Oaxaca,Ropa,Vestidos,341.83,2,295.34,56.8,PayPal,2024-08-10,13,Saturday,8,77,4,5.0,No,0.8,No
+TXN000232,CUST000416,27,F,Mexicali,Ropa,Pantalones,1229.05,1,1229.05,0.0,Tarjeta,2024-09-19,9,Thursday,9,0,5,4.5,No,1.1,No
+TXN000233,CUST000695,63,F,Saltillo,Hogar,Cocina,145.88,2,244.49,16.2,Tarjeta,2024-01-18,10,Thursday,1,116,8,4.7,No,1.1,No
+TXN000234,CUST000581,28,F,Guadalajara,Ropa,Vestidos,628.91,3,1381.09,26.8,PayPal,2024-11-09,21,Saturday,11,0,1,5.0,No,1.0,Sí
+TXN000235,CUST000543,36,F,Mexicali,Electrónicos,Audífonos,1715.51,3,3257.75,36.7,Transferencia,2024-07-22,21,Monday,7,0,2,5.0,Sí,1.0,No
+TXN000236,CUST000191,24,M,Villahermosa,Belleza,Cuidado personal,354.74,2,595.25,16.1,Tarjeta,2024-09-22,10,Sunday,9,103,14,4.4,No,1.0,No
+TXN000237,CUST000627,29,F,San Luis Potosí,Electrónicos,Tablets,1286.79,2,1968.79,23.5,Transferencia,2024-12-21,17,Saturday,12,0,3,4.4,No,1.6,Sí
+TXN000238,CUST000463,40,F,León,Libros,Ficción,491.19,5,2455.95,0.0,Tarjeta,2024-12-31,17,Tuesday,12,0,8,5.0,No,0.9,No
+TXN000239,CUST000727,28,M,Monterrey,Ropa,Vestidos,395.01,3,1185.03,0.0,Tarjeta,2024-10-08,8,Tuesday,10,0,2,4.4,No,1.2,No
+TXN000240,CUST000521,45,M,Torreón,Libros,No ficción,541.73,2,1026.04,5.3,Transferencia,2024-03-03,20,Sunday,3,0,10,3.5,Sí,1.1,No
+TXN000241,CUST000568,37,M,Chihuahua,Electrónicos,Smartwatches,4127.81,3,10773.58,13.0,Tarjeta,2024-07-07,15,Sunday,7,0,2,4.1,Sí,1.0,No
+TXN000242,CUST000408,34,M,Villahermosa,Electrónicos,Tablets,661.73,5,3308.65,0.0,Tarjeta,2024-09-26,11,Thursday,9,0,8,4.5,No,1.1,No
+TXN000243,CUST000129,27,M,Mérida,Electrónicos,Smartwatches,2899.79,4,11599.16,0.0,Tarjeta,2024-11-30,21,Saturday,11,0,8,5.0,No,1.4,Sí
+TXN000244,CUST000656,37,F,Chihuahua,Electrónicos,Laptops,2067.1,2,4134.2,0.0,Tarjeta,2024-04-03,12,Wednesday,4,0,8,4.5,Sí,0.9,No
+TXN000245,CUST000128,42,F,Veracruz,Electrónicos,Laptops,1558.39,2,3116.78,0.0,Tarjeta,2024-03-19,7,Tuesday,3,0,7,4.3,No,0.9,No
+TXN000246,CUST000532,55,F,San Luis Potosí,Electrónicos,Audífonos,1571.93,3,4003.71,15.1,Transferencia,2024-02-10,14,Saturday,2,0,6,3.9,No,0.7,No
+TXN000247,CUST000641,37,F,San Luis Potosí,Ropa,Accesorios,737.62,2,1475.24,0.0,Transferencia,2024-11-10,14,Sunday,11,0,12,4.1,No,1.0,Sí
+TXN000248,CUST000158,18,F,León,Electrónicos,Smartwatches,5777.41,1,5777.41,0.0,Tarjeta,2024-12-03,10,Tuesday,12,0,6,3.6,Sí,1.6,Sí
+TXN000249,CUST000030,53,M,Monterrey,Libros,Técnicos,258.96,1,206.91,20.1,PayPal,2024-01-24,17,Wednesday,1,50,2,4.5,No,0.9,No
+TXN000250,CUST000427,40,M,Oaxaca,Hogar,Decoración,323.69,2,647.38,0.0,Tarjeta,2024-11-23,12,Saturday,11,150,11,2.6,No,1.0,No
+TXN000251,CUST000310,21,M,Villahermosa,Electrónicos,Tablets,3660.48,2,6706.0,8.4,PayPal,2024-05-05,15,Sunday,5,0,2,4.9,No,1.0,No
+TXN000252,CUST000162,35,M,Saltillo,Libros,Infantiles,722.12,3,1568.44,27.6,PayPal,2024-07-31,12,Wednesday,7,0,8,4.2,No,1.0,No
+TXN000253,CUST000321,33,F,Mérida,Libros,No ficción,111.92,3,335.76,0.0,Transferencia,2024-06-25,9,Tuesday,6,135,11,3.0,Sí,1.0,No
+TXN000254,CUST000248,34,M,Saltillo,Ropa,Pantalones,769.69,2,1286.92,16.4,Tarjeta,2024-03-08,12,Friday,3,0,7,4.0,No,1.2,No
+TXN000255,CUST000631,30,M,Cuernavaca,Ropa,Pantalones,355.45,2,710.9,0.0,Tarjeta,2024-05-07,12,Tuesday,5,143,14,3.5,No,1.1,No
+TXN000256,CUST000782,46,F,León,Libros,Técnicos,706.76,1,706.76,0.0,Tarjeta,2024-09-12,23,Thursday,9,109,10,3.8,Sí,1.3,No
+TXN000257,CUST000403,42,F,Veracruz,Libros,No ficción,389.81,3,837.31,28.4,Transferencia,2024-08-22,17,Thursday,8,115,3,5.0,Sí,1.2,No
+TXN000258,CUST000507,52,M,Oaxaca,Libros,Infantiles,173.63,3,478.7,8.1,PayPal,2024-11-30,22,Saturday,11,71,4,4.4,No,1.0,No
+TXN000259,CUST000271,29,F,Mexicali,Hogar,Limpieza,985.88,3,2348.37,20.6,Tarjeta,2024-07-25,19,Thursday,7,0,3,5.0,No,0.9,No
+TXN000260,CUST000200,47,M,Mexicali,Libros,Académicos,409.95,1,362.81,11.5,PayPal,2024-10-10,3,Thursday,10,134,10,3.6,No,1.1,No
+TXN000261,CUST000287,52,M,Oaxaca,Ropa,Accesorios,1071.75,2,1927.01,10.1,Tarjeta,2024-12-14,15,Saturday,12,0,4,2.9,No,1.1,Sí
+TXN000262,CUST000348,32,M,Cancún,Deportes,Fútbol,1533.56,4,5410.4,11.8,PayPal,2024-07-06,9,Saturday,7,0,11,3.9,No,1.0,No
+TXN000263,CUST000042,49,M,Guadalajara,Libros,No ficción,149.8,4,599.2,0.0,PayPal,2024-01-20,12,Saturday,1,50,4,5.0,No,0.9,No
+TXN000264,CUST000153,30,M,Oaxaca,Deportes,Fútbol,638.26,3,1914.78,0.0,Tarjeta,2024-09-20,14,Friday,9,0,12,3.6,No,0.9,No
+TXN000265,CUST000403,18,M,Oaxaca,Electrónicos,Smartwatches,1450.32,6,8701.92,0.0,PayPal,2024-06-02,11,Sunday,6,0,6,5.0,No,1.0,Sí
+TXN000266,CUST000577,49,M,San Luis Potosí,Electrónicos,Smartphones,3061.54,6,16918.07,7.9,Tarjeta,2024-08-31,11,Saturday,8,0,7,5.0,No,1.0,Sí
+TXN000267,CUST000427,47,M,Chihuahua,Electrónicos,Smartphones,4109.47,1,4109.47,0.0,PayPal,2024-06-06,7,Thursday,6,0,4,4.6,No,1.0,Sí
+TXN000268,CUST000795,18,F,Chihuahua,Libros,Técnicos,289.1,6,1734.6,0.0,PayPal,2024-10-25,16,Friday,10,0,11,3.8,No,1.1,Sí
+TXN000269,CUST000635,42,F,Aguascalientes,Hogar,Cocina,748.51,3,1708.85,23.9,Tarjeta,2024-03-16,13,Saturday,3,0,14,3.1,Sí,1.2,No
+TXN000270,CUST000020,37,Other,Saltillo,Ropa,Zapatos,372.24,3,993.88,11.0,Tarjeta,2024-06-09,21,Sunday,6,122,11,2.7,No,0.8,No
+TXN000271,CUST000483,54,M,Guadalajara,Deportes,Fútbol,930.3,4,3721.2,0.0,Tarjeta,2024-12-27,11,Friday,12,0,5,3.4,No,0.8,No
+TXN000272,CUST000679,21,F,Villahermosa,Electrónicos,Tablets,685.15,3,2055.45,0.0,Transferencia,2024-09-26,15,Thursday,9,0,3,4.4,No,1.1,No
+TXN000273,CUST000546,18,M,Mérida,Electrónicos,Audífonos,2188.18,2,4376.36,0.0,PayPal,2024-10-06,13,Sunday,10,0,3,4.3,No,1.1,Sí
+TXN000274,CUST000286,40,M,Cancún,Belleza,Maquillaje,152.9,3,458.7,0.0,PayPal,2024-06-01,21,Saturday,6,108,15,3.8,No,1.0,No
+TXN000275,CUST000213,51,F,Villahermosa,Electrónicos,Smartwatches,4174.66,3,12523.98,0.0,Efectivo,2024-06-11,15,Tuesday,6,0,8,4.1,No,1.0,No
+TXN000276,CUST000295,19,M,Puebla,Electrónicos,Tablets,3936.1,6,23616.6,0.0,PayPal,2024-10-20,22,Sunday,10,0,5,4.0,No,1.1,Sí
+TXN000277,CUST000792,18,F,Tijuana,Ropa,Vestidos,250.42,2,500.84,0.0,Tarjeta,2024-05-31,13,Friday,5,102,14,4.0,No,1.1,Sí
+TXN000278,CUST000207,28,M,Cancún,Electrónicos,Smartwatches,2395.21,2,4790.42,0.0,PayPal,2024-05-18,6,Saturday,5,0,3,4.3,Sí,1.0,No
+TXN000279,CUST000759,47,F,Chihuahua,Belleza,Maquillaje,747.36,1,533.62,28.6,Tarjeta,2024-05-02,20,Thursday,5,137,6,4.6,No,1.2,No
+TXN000280,CUST000054,18,M,Puebla,Belleza,Fragancias,165.14,1,129.14,21.8,PayPal,2024-07-30,16,Tuesday,7,87,3,5.0,No,1.0,Sí
+TXN000281,CUST000162,18,M,Cuernavaca,Electrónicos,Tablets,1446.34,2,2892.68,0.0,Tarjeta,2024-11-30,7,Saturday,11,0,3,4.7,No,1.4,Sí
+TXN000282,CUST000295,42,F,Mérida,Hogar,Decoración,567.64,5,2838.2,0.0,Tarjeta,2024-05-26,12,Sunday,5,0,6,5.0,No,1.0,Sí
+TXN000283,CUST000741,27,F,Guadalajara,Ropa,Zapatos,1367.87,2,2735.74,0.0,PayPal,2024-03-30,14,Saturday,3,0,2,5.0,No,1.2,No
+TXN000284,CUST000038,36,M,Aguascalientes,Deportes,Fitness,1197.15,3,2812.11,21.7,Tarjeta,2024-09-14,13,Saturday,9,0,12,3.9,No,0.9,Sí
+TXN000285,CUST000344,48,F,San Luis Potosí,Ropa,Accesorios,602.99,4,1328.99,44.9,Transferencia,2024-08-20,19,Tuesday,8,0,5,3.3,No,0.8,No
+TXN000286,CUST000480,31,M,Querétaro,Ropa,Vestidos,1077.45,3,2343.45,27.5,Tarjeta,2024-04-08,21,Monday,4,0,10,5.0,No,1.3,Sí
+TXN000287,CUST000736,24,F,León,Ropa,Vestidos,530.55,5,2652.75,0.0,Transferencia,2024-01-08,19,Monday,1,0,15,3.4,Sí,0.8,No
+TXN000288,CUST000626,19,M,Aguascalientes,Electrónicos,Smartphones,1338.78,1,1203.56,10.1,PayPal,2024-08-06,9,Tuesday,8,0,2,5.0,No,1.0,Sí
+TXN000289,CUST000144,26,M,Villahermosa,Libros,No ficción,689.36,3,1673.08,19.1,PayPal,2024-06-14,17,Friday,6,0,9,3.9,No,1.0,No
+TXN000290,CUST000772,23,F,Querétaro,Electrónicos,Smartwatches,1520.6,3,3033.6,33.5,Tarjeta,2024-06-17,19,Monday,6,0,7,5.0,No,1.0,No
+TXN000291,CUST000242,18,Other,Guadalajara,Hogar,Decoración,1818.9,2,3637.8,0.0,Transferencia,2024-12-07,17,Saturday,12,0,2,4.6,No,1.0,Sí
+TXN000292,CUST000515,18,F,San Luis Potosí,Electrónicos,Smartphones,3408.54,4,13634.16,0.0,Transferencia,2024-12-19,19,Thursday,12,0,4,4.4,No,1.6,No
+TXN000293,CUST000227,30,F,Torreón,Ropa,Zapatos,234.88,7,1445.22,12.1,Efectivo,2024-03-09,17,Saturday,3,0,14,3.9,No,1.2,Sí
+TXN000294,CUST000383,21,F,Cuernavaca,Hogar,Muebles,640.71,6,3844.26,0.0,Tarjeta,2024-12-25,21,Wednesday,12,0,15,4.5,No,1.0,Sí
+TXN000295,CUST000681,47,F,Juárez,Ropa,Accesorios,329.43,2,658.86,0.0,PayPal,2024-05-06,20,Monday,5,80,11,4.0,No,1.1,No
+TXN000296,CUST000721,42,F,Mexicali,Deportes,Natación,889.99,5,4102.85,7.8,Transferencia,2024-02-09,12,Friday,2,0,11,2.8,No,0.9,No
+TXN000297,CUST000208,47,M,Chihuahua,Ropa,Accesorios,518.82,4,1680.98,19.0,Tarjeta,2024-10-05,14,Saturday,10,0,13,4.7,No,1.2,No
+TXN000298,CUST000598,35,F,Villahermosa,Electrónicos,Smartwatches,3049.38,3,5882.25,35.7,Tarjeta,2024-02-16,16,Friday,2,0,2,5.0,No,0.7,Sí
+TXN000299,CUST000526,18,F,Cuernavaca,Ropa,Accesorios,575.95,1,347.3,39.7,Tarjeta,2024-08-21,10,Wednesday,8,129,13,3.5,No,0.8,No
+TXN000300,CUST000741,26,M,Ciudad de México,Electrónicos,Laptops,4181.26,4,16725.04,0.0,Efectivo,2024-07-26,4,Friday,7,0,1,5.0,No,1.0,Sí
+TXN000301,CUST000718,50,M,Monterrey,Hogar,Decoración,2067.84,6,12407.04,0.0,Efectivo,2024-10-04,14,Friday,10,0,1,4.4,No,1.0,No
+TXN000302,CUST000484,23,M,Guadalajara,Ropa,Pantalones,1245.49,2,2490.98,0.0,Tarjeta,2024-05-26,6,Sunday,5,0,4,5.0,No,1.1,No
+TXN000303,CUST000392,18,M,Saltillo,Ropa,Zapatos,711.13,1,459.39,35.4,Tarjeta,2024-07-12,11,Friday,7,139,5,4.8,No,0.7,No
+TXN000304,CUST000357,30,F,Puebla,Electrónicos,Tablets,676.03,4,2704.12,0.0,Tarjeta,2024-04-01,20,Monday,4,0,7,4.4,No,0.9,No
+TXN000305,CUST000004,53,F,Ciudad de México,Belleza,Fragancias,537.83,3,1613.49,0.0,Tarjeta,2024-06-01,17,Saturday,6,0,5,4.4,No,1.0,Sí
+TXN000306,CUST000389,35,F,Torreón,Deportes,Fútbol,244.22,1,215.4,11.8,Efectivo,2024-05-06,22,Monday,5,84,3,3.3,No,1.2,No
+TXN000307,CUST000430,30,M,Oaxaca,Ropa,Camisetas,191.16,4,764.64,0.0,Efectivo,2024-01-12,8,Friday,1,127,12,3.5,No,0.8,Sí
+TXN000308,CUST000050,49,M,Torreón,Hogar,Cocina,757.99,2,1515.98,0.0,Tarjeta,2024-01-23,9,Tuesday,1,0,15,3.7,No,1.1,No
+TXN000309,CUST000058,46,F,Tijuana,Libros,Académicos,918.66,1,669.7,27.1,PayPal,2024-09-14,11,Saturday,9,143,8,3.5,No,1.3,No
+TXN000310,CUST000792,30,F,Mérida,Electrónicos,Audífonos,1929.36,1,1929.36,0.0,Tarjeta,2024-05-01,13,Wednesday,5,0,7,4.3,No,1.0,Sí
+TXN000311,CUST000424,40,M,San Luis Potosí,Belleza,Fragancias,710.62,2,1421.24,0.0,Tarjeta,2024-05-24,21,Friday,5,0,3,4.6,No,1.2,No
+TXN000312,CUST000659,50,M,Aguascalientes,Belleza,Cabello,483.37,4,1933.48,0.0,Efectivo,2024-09-25,11,Wednesday,9,0,9,3.7,Sí,1.0,No
+TXN000313,CUST000386,28,M,León,Belleza,Fragancias,850.57,6,3822.46,25.1,PayPal,2024-10-02,20,Wednesday,10,0,6,2.7,No,1.0,Sí
+TXN000314,CUST000725,33,F,Tijuana,Hogar,Muebles,1547.36,2,3094.72,0.0,PayPal,2024-08-25,19,Sunday,8,0,9,3.8,No,1.1,No
+TXN000315,CUST000138,24,F,Aguascalientes,Ropa,Vestidos,417.37,1,245.41,41.2,PayPal,2024-05-04,10,Saturday,5,80,10,1.9,No,1.1,No
+TXN000316,CUST000095,37,M,Cancún,Deportes,Natación,1960.87,2,3921.74,0.0,Tarjeta,2024-04-13,21,Saturday,4,0,4,5.0,No,1.2,Sí
+TXN000317,CUST000780,47,F,Chihuahua,Hogar,Jardinería,689.87,3,2069.61,0.0,Transferencia,2024-12-09,8,Monday,12,0,8,3.8,No,1.0,No
+TXN000318,CUST000016,61,M,Juárez,Ropa,Camisetas,578.47,5,2892.35,0.0,Transferencia,2024-04-07,5,Sunday,4,0,15,3.8,No,1.3,No
+TXN000319,CUST000249,30,F,Oaxaca,Hogar,Cocina,678.57,4,2714.28,0.0,PayPal,2024-12-26,17,Thursday,12,0,6,3.9,No,1.0,Sí
+TXN000320,CUST000795,32,F,San Luis Potosí,Ropa,Zapatos,256.65,3,484.3,37.1,Efectivo,2024-07-13,21,Saturday,7,115,7,5.0,No,0.7,Sí
+TXN000321,CUST000526,18,F,Villahermosa,Electrónicos,Audífonos,2171.23,2,4342.46,0.0,PayPal,2024-08-31,22,Saturday,8,0,4,4.4,No,1.0,Sí
+TXN000322,CUST000047,18,F,Chihuahua,Ropa,Camisetas,310.49,2,452.07,27.2,Tarjeta,2024-04-23,7,Tuesday,4,144,12,4.1,No,1.3,No
+TXN000323,CUST000303,49,M,Tijuana,Hogar,Limpieza,1264.95,1,1264.95,0.0,Tarjeta,2024-04-10,12,Wednesday,4,0,12,3.3,No,1.0,No
+TXN000324,CUST000512,54,M,Cancún,Deportes,Basketball,454.87,1,377.09,17.1,PayPal,2024-12-01,21,Sunday,12,132,14,4.3,No,0.8,No
+TXN000325,CUST000503,18,M,Saltillo,Libros,Académicos,773.71,2,1205.44,22.1,PayPal,2024-03-27,21,Wednesday,3,0,14,3.9,No,1.1,No
+TXN000326,CUST000189,37,F,Cancún,Ropa,Accesorios,954.41,4,3149.55,17.5,Transferencia,2024-11-24,9,Sunday,11,0,4,3.8,No,1.0,No
+TXN000327,CUST000685,18,F,Guadalajara,Electrónicos,Tablets,1729.74,3,3798.51,26.8,Tarjeta,2024-01-04,2,Thursday,1,0,2,5.0,No,0.8,Sí
+TXN000328,CUST000155,50,F,Ciudad de México,Electrónicos,Audífonos,3031.0,6,14803.4,18.6,PayPal,2024-04-21,18,Sunday,4,0,5,4.3,No,0.9,No
+TXN000329,CUST000676,42,M,Villahermosa,Hogar,Decoración,1950.65,3,4289.48,26.7,Efectivo,2024-01-13,9,Saturday,1,0,14,4.5,No,1.1,Sí
+TXN000330,CUST000294,26,F,Ciudad de México,Ropa,Zapatos,842.09,2,1684.18,0.0,PayPal,2024-09-14,12,Saturday,9,0,2,4.1,No,1.1,Sí
+TXN000331,CUST000099,36,F,Veracruz,Electrónicos,Audífonos,2368.42,1,1629.47,31.2,Tarjeta,2024-03-23,17,Saturday,3,0,5,4.3,Sí,0.9,Sí
+TXN000332,CUST000416,36,M,Saltillo,Hogar,Cocina,1119.45,4,4477.8,0.0,Transferencia,2024-10-16,6,Wednesday,10,0,6,4.4,No,1.0,Sí
+TXN000333,CUST000083,25,F,Guadalajara,Ropa,Zapatos,362.78,3,685.65,37.0,Tarjeta,2024-02-17,11,Saturday,2,50,5,4.7,No,0.9,Sí
+TXN000334,CUST000653,30,F,Ciudad de México,Hogar,Cocina,904.19,2,1314.69,27.3,PayPal,2024-12-25,13,Wednesday,12,0,4,4.0,No,1.0,No
+TXN000335,CUST000340,38,M,Chihuahua,Electrónicos,Smartphones,419.17,2,549.95,34.4,Transferencia,2024-02-18,1,Sunday,2,142,5,4.1,No,0.7,No
+TXN000336,CUST000077,33,F,Querétaro,Hogar,Muebles,1956.2,4,7824.8,0.0,Tarjeta,2024-10-05,22,Saturday,10,0,5,4.9,No,1.0,No
+TXN000337,CUST000323,18,M,Ciudad de México,Ropa,Zapatos,328.57,2,657.14,0.0,Tarjeta,2024-04-16,11,Tuesday,4,50,3,5.0,No,1.3,No
+TXN000338,CUST000247,33,F,Chihuahua,Belleza,Cuidado personal,891.16,2,1579.14,11.4,PayPal,2024-07-18,13,Thursday,7,0,15,3.7,No,1.0,No
+TXN000339,CUST000706,38,F,Monterrey,Ropa,Vestidos,1538.86,5,6155.44,20.0,Tarjeta,2024-09-13,19,Friday,9,0,4,3.2,No,1.1,No
+TXN000340,CUST000078,18,M,Mérida,Deportes,Natación,488.3,2,976.6,0.0,Tarjeta,2024-11-05,10,Tuesday,11,111,3,4.1,No,0.9,Sí
+TXN000341,CUST000462,36,M,Villahermosa,Belleza,Cabello,570.94,3,1712.82,0.0,Tarjeta,2024-04-26,13,Friday,4,0,9,5.0,No,1.0,Sí
+TXN000342,CUST000697,30,Other,Chihuahua,Belleza,Fragancias,439.05,3,1008.94,23.4,Tarjeta,2024-12-04,5,Wednesday,12,0,12,4.1,No,1.2,No
+TXN000343,CUST000253,18,M,Monterrey,Ropa,Pantalones,366.44,4,995.25,32.1,Tarjeta,2024-02-17,15,Saturday,2,50,3,4.1,No,0.9,No
+TXN000344,CUST000094,29,F,Ciudad de México,Deportes,Running,1569.59,1,1117.55,28.8,Tarjeta,2024-06-06,6,Thursday,6,0,3,5.0,No,1.0,Sí
+TXN000345,CUST000090,49,F,León,Electrónicos,Tablets,1581.24,4,6324.96,0.0,Tarjeta,2024-08-08,20,Thursday,8,0,6,3.1,No,1.0,No
+TXN000346,CUST000027,32,M,Monterrey,Hogar,Muebles,1804.03,1,1804.03,0.0,Tarjeta,2024-06-30,18,Sunday,6,0,3,4.6,No,0.9,Sí
+TXN000347,CUST000013,18,F,San Luis Potosí,Deportes,Fitness,745.19,4,2980.76,0.0,Tarjeta,2024-07-30,21,Tuesday,7,0,11,2.8,No,1.0,No
+TXN000348,CUST000249,40,M,Chihuahua,Hogar,Cocina,1666.38,1,1486.41,10.8,Tarjeta,2024-09-28,13,Saturday,9,0,7,5.0,No,1.0,Sí
+TXN000349,CUST000150,35,M,Monterrey,Ropa,Zapatos,404.61,4,1141.0,29.5,PayPal,2024-03-26,20,Tuesday,3,0,1,4.1,No,1.2,No
+TXN000350,CUST000253,27,F,Villahermosa,Electrónicos,Smartwatches,2990.3,3,8011.01,10.7,Transferencia,2024-10-31,8,Thursday,10,0,2,5.0,No,1.1,Sí
+TXN000351,CUST000007,18,M,Aguascalientes,Hogar,Muebles,1061.85,2,2123.7,0.0,PayPal,2024-06-19,10,Wednesday,6,0,8,5.0,No,0.9,Sí
+TXN000352,CUST000441,36,F,Oaxaca,Deportes,Natación,803.03,2,1606.06,0.0,Tarjeta,2024-03-10,21,Sunday,3,0,6,4.8,No,1.0,Sí
+TXN000353,CUST000182,47,F,Aguascalientes,Belleza,Cabello,198.15,6,1188.9,0.0,Transferencia,2024-06-12,12,Wednesday,6,0,13,4.3,No,1.0,Sí
+TXN000354,CUST000590,30,M,Torreón,Ropa,Zapatos,827.81,4,2288.07,30.9,Transferencia,2024-06-15,17,Saturday,6,0,15,5.0,No,0.8,Sí
+TXN000355,CUST000117,24,M,Chihuahua,Deportes,Natación,1474.53,1,1474.53,0.0,Transferencia,2024-04-12,17,Friday,4,0,5,3.4,No,1.2,No
+TXN000356,CUST000564,29,F,Ciudad de México,Libros,No ficción,1089.2,2,1609.84,26.1,Tarjeta,2024-08-24,13,Saturday,8,0,3,3.9,No,1.2,No
+TXN000357,CUST000071,24,F,Cuernavaca,Ropa,Vestidos,360.05,1,328.73,8.7,Transferencia,2024-12-10,15,Tuesday,12,89,14,3.7,No,1.1,Sí
+TXN000358,CUST000387,21,F,Monterrey,Electrónicos,Smartwatches,655.49,2,1310.98,0.0,Tarjeta,2024-08-17,8,Saturday,8,0,4,3.5,No,1.0,Sí
+TXN000359,CUST000709,45,Other,Cuernavaca,Deportes,Fitness,764.69,3,2294.07,0.0,Transferencia,2024-10-05,19,Saturday,10,0,8,4.5,No,0.9,No
+TXN000360,CUST000550,45,M,Oaxaca,Belleza,Skincare,286.41,3,785.34,8.6,PayPal,2024-11-22,19,Friday,11,101,13,2.4,No,1.1,No
+TXN000361,CUST000171,20,M,Oaxaca,Deportes,Running,758.43,2,1516.86,0.0,PayPal,2024-01-23,12,Tuesday,1,0,8,4.7,No,1.3,No
+TXN000362,CUST000441,38,M,Puebla,Libros,Ficción,664.13,5,2902.25,12.6,Tarjeta,2024-01-06,7,Saturday,1,0,11,3.5,No,0.9,Sí
+TXN000363,CUST000572,32,F,Chihuahua,Electrónicos,Smartwatches,1375.67,4,3813.36,30.7,PayPal,2024-12-18,17,Wednesday,12,0,4,3.9,No,1.6,No
+TXN000364,CUST000791,46,F,Chihuahua,Libros,Técnicos,665.95,3,1844.02,7.7,Efectivo,2024-12-19,19,Thursday,12,0,3,4.6,No,0.9,No
+TXN000365,CUST000303,53,M,Cuernavaca,Hogar,Limpieza,1529.94,3,4589.82,0.0,Efectivo,2024-02-16,10,Friday,2,0,10,2.6,No,0.9,Sí
+TXN000366,CUST000534,51,M,Villahermosa,Libros,Infantiles,614.71,4,2326.06,5.4,Tarjeta,2024-06-27,21,Thursday,6,0,14,4.0,No,1.0,No
+TXN000367,CUST000327,26,F,Monterrey,Belleza,Skincare,1136.41,2,2272.82,0.0,Tarjeta,2024-06-07,7,Friday,6,0,1,4.1,No,1.0,No
+TXN000368,CUST000169,29,M,Torreón,Ropa,Pantalones,831.35,2,1662.7,0.0,Tarjeta,2024-09-21,5,Saturday,9,0,8,5.0,No,1.1,No
+TXN000369,CUST000474,43,F,Torreón,Libros,No ficción,296.77,1,255.22,14.0,Efectivo,2024-07-26,14,Friday,7,125,9,4.3,Sí,1.0,No
+TXN000370,CUST000629,51,M,Juárez,Libros,Infantiles,581.6,2,1100.39,5.4,Tarjeta,2024-08-18,20,Sunday,8,0,6,4.1,No,1.2,No
+TXN000371,CUST000771,43,M,Monterrey,Hogar,Limpieza,2050.9,2,4101.8,0.0,PayPal,2024-10-25,2,Friday,10,0,4,3.6,Sí,1.0,No
+TXN000372,CUST000687,48,M,Villahermosa,Hogar,Limpieza,1385.47,2,2770.94,0.0,Transferencia,2024-09-27,16,Friday,9,0,12,1.6,No,1.0,Sí
+TXN000373,CUST000117,18,F,Mexicali,Deportes,Running,900.79,3,2702.37,0.0,Transferencia,2024-06-29,21,Saturday,6,0,13,3.2,No,1.0,Sí
+TXN000374,CUST000305,55,F,Oaxaca,Hogar,Limpieza,459.6,4,1573.67,14.4,PayPal,2024-11-01,7,Friday,11,0,7,3.9,Sí,1.0,No
+TXN000375,CUST000383,52,M,Tijuana,Ropa,Zapatos,1342.13,5,5985.9,10.8,Tarjeta,2024-09-18,22,Wednesday,9,0,5,4.2,No,1.1,Sí
+TXN000376,CUST000434,19,F,León,Deportes,Natación,185.58,6,1113.48,0.0,Tarjeta,2024-09-06,10,Friday,9,0,13,4.1,No,0.9,Sí
+TXN000377,CUST000178,18,M,Cancún,Libros,No ficción,685.43,2,1030.89,24.8,Tarjeta,2024-03-26,16,Tuesday,3,0,10,3.4,No,1.1,No
+TXN000378,CUST000368,18,M,Ciudad de México,Deportes,Fútbol,746.46,3,1603.4,28.4,Transferencia,2024-09-05,20,Thursday,9,0,4,5.0,No,0.9,No
+TXN000379,CUST000518,41,F,Villahermosa,Ropa,Zapatos,131.02,1,77.83,40.6,Tarjeta,2024-07-28,8,Sunday,7,126,10,3.3,Sí,0.7,No
+TXN000380,CUST000579,43,F,Ciudad de México,Libros,No ficción,126.92,4,507.68,0.0,Tarjeta,2024-04-27,16,Saturday,4,50,2,5.0,No,1.0,Sí
+TXN000381,CUST000580,38,M,Villahermosa,Belleza,Cuidado personal,780.68,6,3808.16,18.7,Tarjeta,2024-10-08,14,Tuesday,10,0,15,4.6,No,1.0,Sí
+TXN000382,CUST000376,48,F,Cancún,Electrónicos,Tablets,793.15,4,3172.6,0.0,Tarjeta,2024-01-22,16,Monday,1,0,5,4.0,Sí,0.8,No
+TXN000383,CUST000670,43,M,Torreón,Libros,Ficción,528.16,1,434.68,17.7,Efectivo,2024-06-01,20,Saturday,6,114,4,4.8,No,1.0,No
+TXN000384,CUST000121,42,F,Torreón,Hogar,Muebles,899.99,2,1799.98,0.0,PayPal,2024-04-17,13,Wednesday,4,0,14,3.4,No,1.0,No
+TXN000385,CUST000439,43,F,León,Hogar,Cocina,1884.71,2,3769.42,0.0,PayPal,2024-11-15,11,Friday,11,0,12,3.1,No,1.0,Sí
+TXN000386,CUST000288,18,M,Oaxaca,Belleza,Maquillaje,236.7,2,473.4,0.0,Transferencia,2024-10-02,12,Wednesday,10,107,7,4.7,No,1.0,No
+TXN000387,CUST000527,44,M,Puebla,Libros,Infantiles,331.53,3,994.59,0.0,PayPal,2024-03-10,9,Sunday,3,105,13,2.1,Sí,1.1,No
+TXN000388,CUST000136,43,F,Torreón,Ropa,Vestidos,918.06,1,918.06,0.0,Efectivo,2024-03-15,0,Friday,3,120,10,3.3,Sí,1.2,No
+TXN000389,CUST000648,42,F,Querétaro,Hogar,Jardinería,878.16,1,811.42,7.6,Efectivo,2024-11-17,12,Sunday,11,81,9,4.6,No,1.0,No
+TXN000390,CUST000285,48,M,Mexicali,Hogar,Limpieza,1616.27,5,8081.35,0.0,Tarjeta,2024-08-20,6,Tuesday,8,0,15,3.8,No,1.1,No
+TXN000391,CUST000096,26,F,Saltillo,Electrónicos,Audífonos,2075.93,2,4151.86,0.0,Tarjeta,2024-11-21,8,Thursday,11,0,8,4.7,No,1.4,Sí
+TXN000392,CUST000224,28,F,Cuernavaca,Hogar,Jardinería,372.4,2,744.8,0.0,Tarjeta,2024-04-18,22,Thursday,4,106,8,4.3,No,1.0,No
+TXN000393,CUST000134,42,M,Chihuahua,Electrónicos,Audífonos,1044.7,2,2089.4,0.0,Tarjeta,2024-09-05,20,Thursday,9,0,8,4.6,Sí,1.1,No
+TXN000394,CUST000102,37,M,Saltillo,Belleza,Fragancias,374.79,1,374.79,0.0,Tarjeta,2024-01-12,13,Friday,1,124,6,3.9,No,0.9,No
+TXN000395,CUST000136,18,F,San Luis Potosí,Libros,Académicos,721.35,2,1333.05,7.6,Tarjeta,2024-03-22,16,Friday,3,0,8,3.6,No,1.1,Sí
+TXN000396,CUST000381,50,F,León,Deportes,Running,1241.57,3,3724.71,0.0,Transferencia,2024-01-27,14,Saturday,1,0,14,2.1,No,1.3,No
+TXN000397,CUST000240,42,M,Cuernavaca,Libros,Ficción,256.71,4,760.89,25.9,Tarjeta,2024-12-06,9,Friday,12,79,5,5.0,No,0.9,Sí
+TXN000398,CUST000532,32,Other,Saltillo,Libros,Ficción,428.45,2,856.9,0.0,PayPal,2024-01-05,14,Friday,1,85,9,4.5,No,0.9,Sí
+TXN000399,CUST000490,19,M,Monterrey,Libros,Infantiles,683.39,5,3123.09,8.6,Efectivo,2024-04-27,12,Saturday,4,0,1,5.0,No,1.0,No
+TXN000400,CUST000377,44,F,San Luis Potosí,Hogar,Cocina,821.23,3,2463.69,0.0,Tarjeta,2024-03-11,12,Monday,3,0,13,3.3,Sí,1.2,Sí
+TXN000401,CUST000544,51,M,Chihuahua,Hogar,Muebles,607.03,2,1214.06,0.0,PayPal,2024-01-05,16,Friday,1,0,10,3.7,No,1.1,Sí
+TXN000402,CUST000219,18,M,Tijuana,Electrónicos,Tablets,4646.71,3,13940.13,0.0,Tarjeta,2024-07-29,19,Monday,7,0,2,5.0,No,1.0,No
+TXN000403,CUST000144,32,M,Puebla,Electrónicos,Audífonos,3186.32,4,12745.28,0.0,Tarjeta,2024-10-28,14,Monday,10,0,4,3.4,No,1.1,Sí
+TXN000404,CUST000254,44,Other,Querétaro,Hogar,Decoración,1506.56,3,4519.68,0.0,Tarjeta,2024-11-30,12,Saturday,11,0,13,3.5,No,1.0,No
+TXN000405,CUST000211,50,F,Veracruz,Hogar,Muebles,426.65,5,1894.33,11.2,PayPal,2024-11-06,13,Wednesday,11,0,9,4.2,No,1.0,No
+TXN000406,CUST000056,54,M,Torreón,Deportes,Fútbol,896.58,3,2689.74,0.0,PayPal,2024-09-10,20,Tuesday,9,0,12,3.9,Sí,0.9,Sí
+TXN000407,CUST000013,32,F,Mexicali,Electrónicos,Audífonos,3810.56,3,11431.68,0.0,Tarjeta,2024-06-15,9,Saturday,6,0,3,5.0,No,1.0,Sí
+TXN000408,CUST000789,43,F,Monterrey,Hogar,Decoración,242.9,4,971.6,0.0,Transferencia,2024-01-09,18,Tuesday,1,50,1,4.8,No,1.1,Sí
+TXN000409,CUST000408,35,F,Veracruz,Hogar,Muebles,279.15,2,558.3,0.0,PayPal,2024-05-26,15,Sunday,5,124,14,4.3,No,1.0,Sí
+TXN000410,CUST000656,34,M,Cancún,Hogar,Muebles,1033.49,3,2675.71,13.7,PayPal,2024-10-02,10,Wednesday,10,0,4,4.8,No,1.0,Sí
+TXN000411,CUST000524,25,F,Juárez,Libros,Técnicos,585.65,2,958.12,18.2,PayPal,2024-03-20,8,Wednesday,3,145,13,3.7,No,1.1,No
+TXN000412,CUST000666,63,M,Monterrey,Ropa,Zapatos,1078.3,2,1841.74,14.6,Tarjeta,2024-06-07,22,Friday,6,0,2,4.7,Sí,0.8,Sí
+TXN000413,CUST000089,31,M,Cuernavaca,Libros,Infantiles,103.01,5,515.05,0.0,Transferencia,2024-02-29,19,Thursday,2,77,7,4.2,No,1.0,No
+TXN000414,CUST000674,35,M,León,Libros,Ficción,220.0,2,440.0,0.0,Tarjeta,2024-03-02,23,Saturday,3,71,5,5.0,No,1.1,No
+TXN000415,CUST000356,29,F,Veracruz,Hogar,Limpieza,85.77,4,256.97,25.1,Tarjeta,2024-09-21,22,Saturday,9,86,14,4.4,No,1.0,No
+TXN000416,CUST000276,24,F,Puebla,Ropa,Zapatos,467.69,4,778.24,58.4,Tarjeta,2024-01-16,10,Tuesday,1,78,7,4.5,No,0.8,No
+TXN000417,CUST000591,38,M,Monterrey,Ropa,Zapatos,965.35,1,965.35,0.0,Tarjeta,2024-09-11,21,Wednesday,9,50,1,3.8,No,1.1,No
+TXN000418,CUST000581,40,M,León,Hogar,Muebles,1656.02,3,4968.06,0.0,Transferencia,2024-07-12,9,Friday,7,0,4,4.6,No,0.9,Sí
+TXN000419,CUST000522,18,M,Ciudad de México,Libros,Ficción,802.12,3,1799.96,25.2,Tarjeta,2024-01-23,14,Tuesday,1,0,4,4.4,No,0.9,Sí
+TXN000420,CUST000154,36,F,León,Ropa,Accesorios,725.46,2,1450.92,0.0,Transferencia,2024-01-19,14,Friday,1,0,14,2.6,No,0.8,No
+TXN000421,CUST000430,32,F,Torreón,Hogar,Cocina,1349.86,2,2699.72,0.0,PayPal,2024-06-13,17,Thursday,6,0,14,2.9,No,0.9,Sí
+TXN000422,CUST000080,18,F,Chihuahua,Ropa,Pantalones,402.09,2,350.62,56.4,Transferencia,2024-07-12,17,Friday,7,136,3,5.0,No,0.7,No
+TXN000423,CUST000071,23,M,Saltillo,Ropa,Vestidos,490.91,7,2298.93,33.1,Tarjeta,2024-05-24,8,Friday,5,0,11,3.5,No,1.1,Sí
+TXN000424,CUST000378,48,M,Juárez,Electrónicos,Smartwatches,931.32,3,2793.96,0.0,PayPal,2024-05-29,11,Wednesday,5,0,7,3.8,No,1.0,No
+TXN000425,CUST000476,42,M,Mexicali,Libros,No ficción,623.83,3,1871.49,0.0,Transferencia,2024-10-29,15,Tuesday,10,0,11,2.1,No,1.1,Sí
+TXN000426,CUST000252,18,M,Tijuana,Libros,Infantiles,117.14,5,492.57,15.9,Tarjeta,2024-01-04,10,Thursday,1,139,8,3.9,No,0.9,No
+TXN000427,CUST000711,31,F,Ciudad de México,Electrónicos,Smartphones,2275.07,3,6825.21,0.0,Transferencia,2024-06-20,15,Thursday,6,0,4,5.0,No,1.0,No
+TXN000428,CUST000745,37,F,San Luis Potosí,Hogar,Cocina,201.4,3,604.2,0.0,Tarjeta,2024-02-23,0,Friday,2,100,9,3.7,No,0.9,Sí
+TXN000429,CUST000062,38,Other,Tijuana,Ropa,Pantalones,280.1,4,1120.4,0.0,Transferencia,2025-01-03,7,Friday,1,0,11,4.2,No,0.8,No
+TXN000430,CUST000382,22,M,Saltillo,Electrónicos,Smartwatches,2366.34,3,4429.79,37.6,Transferencia,2024-02-13,21,Tuesday,2,0,8,4.8,No,0.7,No
+TXN000431,CUST000607,37,F,Chihuahua,Ropa,Zapatos,392.63,1,292.9,25.4,Tarjeta,2024-02-01,5,Thursday,2,86,6,5.0,No,0.9,No
+TXN000432,CUST000323,32,M,Aguascalientes,Libros,Académicos,535.25,1,401.97,24.9,Tarjeta,2024-12-24,13,Tuesday,12,104,6,3.7,Sí,0.9,Sí
+TXN000433,CUST000208,40,F,Tijuana,Hogar,Decoración,538.7,4,1771.25,17.8,Efectivo,2024-10-26,21,Saturday,10,0,5,5.0,No,1.0,Sí
+TXN000434,CUST000322,30,F,Cuernavaca,Electrónicos,Smartwatches,3846.75,2,7693.5,0.0,PayPal,2024-03-02,13,Saturday,3,0,8,3.5,No,0.9,No
+TXN000435,CUST000316,48,M,Saltillo,Belleza,Skincare,636.63,2,1152.3,9.5,Efectivo,2024-05-15,15,Wednesday,5,0,15,2.6,No,1.2,Sí
+TXN000436,CUST000722,24,F,Oaxaca,Electrónicos,Laptops,2758.73,3,6347.84,23.3,Transferencia,2024-01-27,21,Saturday,1,0,3,5.0,No,0.8,No
+TXN000437,CUST000406,28,M,Veracruz,Hogar,Limpieza,1750.07,2,3500.14,0.0,PayPal,2024-01-26,11,Friday,1,0,5,3.4,Sí,1.1,No
+TXN000438,CUST000415,26,M,Saltillo,Deportes,Natación,1027.95,3,2763.13,10.4,Tarjeta,2024-10-11,11,Friday,10,0,10,3.0,Sí,0.9,No
+TXN000439,CUST000144,44,F,Puebla,Hogar,Cocina,506.23,5,2202.1,13.0,Tarjeta,2024-01-12,7,Friday,1,0,9,4.2,No,1.1,Sí
+TXN000440,CUST000646,18,F,Monterrey,Ropa,Accesorios,1438.68,2,2445.76,15.0,Tarjeta,2024-10-25,21,Friday,10,0,1,4.7,Sí,1.2,Sí
+TXN000441,CUST000067,32,M,Juárez,Electrónicos,Laptops,4676.72,4,15302.23,18.2,Tarjeta,2024-11-26,20,Tuesday,11,0,8,5.0,No,1.4,No
+TXN000442,CUST000340,30,M,Puebla,Deportes,Fitness,879.84,2,1585.47,9.9,Efectivo,2024-01-22,14,Monday,1,0,12,5.0,No,1.3,Sí
+TXN000443,CUST000742,38,M,Aguascalientes,Ropa,Camisetas,322.66,1,195.21,39.5,PayPal,2024-09-11,15,Wednesday,9,124,5,4.7,No,1.1,No
+TXN000444,CUST000192,31,F,Querétaro,Electrónicos,Tablets,1335.85,1,1335.85,0.0,Tarjeta,2024-05-23,10,Thursday,5,0,2,5.0,No,1.0,No
+TXN000445,CUST000632,44,M,Torreón,Ropa,Vestidos,995.32,6,5470.28,8.4,Tarjeta,2024-11-27,23,Wednesday,11,0,11,3.0,No,1.0,No
+TXN000446,CUST000090,40,M,Querétaro,Deportes,Natación,507.64,4,1851.87,8.8,Tarjeta,2024-07-19,21,Friday,7,0,15,3.0,No,1.0,Sí
+TXN000447,CUST000020,34,F,Aguascalientes,Hogar,Muebles,964.58,8,7716.64,0.0,Tarjeta,2024-12-31,15,Tuesday,12,0,8,3.4,No,1.0,Sí
+TXN000448,CUST000515,20,M,Mérida,Ropa,Vestidos,520.06,4,1246.06,40.1,PayPal,2024-07-17,13,Wednesday,7,0,8,4.7,No,0.7,Sí
+TXN000449,CUST000031,18,M,Querétaro,Electrónicos,Tablets,3868.58,1,3868.58,0.0,Transferencia,2024-01-30,10,Tuesday,1,0,8,4.9,No,0.8,No
+TXN000450,CUST000239,36,M,León,Electrónicos,Laptops,409.17,2,818.34,0.0,Efectivo,2024-02-21,14,Wednesday,2,104,6,4.7,No,0.7,Sí
+TXN000451,CUST000755,42,F,Guadalajara,Electrónicos,Tablets,2758.89,3,8276.67,0.0,PayPal,2024-04-22,13,Monday,4,0,2,5.0,No,0.9,No
+TXN000452,CUST000607,34,F,Mérida,Libros,Técnicos,126.84,4,454.09,10.5,PayPal,2024-12-23,13,Monday,12,115,12,2.7,No,0.9,Sí
+TXN000453,CUST000577,30,Other,Juárez,Libros,No ficción,345.65,5,1728.25,0.0,Tarjeta,2024-09-09,18,Monday,9,0,4,4.6,Sí,1.3,Sí
+TXN000454,CUST000617,33,M,Torreón,Electrónicos,Smartwatches,1917.95,4,7671.8,0.0,Tarjeta,2024-01-11,10,Thursday,1,0,4,5.0,No,0.8,Sí
+TXN000455,CUST000207,43,M,Tijuana,Belleza,Cabello,577.69,2,863.07,25.3,Tarjeta,2024-06-23,14,Sunday,6,88,12,4.4,No,1.0,Sí
+TXN000456,CUST000146,33,M,Puebla,Hogar,Limpieza,425.6,3,1276.8,0.0,PayPal,2024-09-26,10,Thursday,9,0,8,4.6,No,1.0,No
+TXN000457,CUST000679,38,F,Aguascalientes,Deportes,Basketball,373.19,4,1064.34,28.7,Tarjeta,2024-11-02,12,Saturday,11,0,5,4.0,No,0.9,Sí
+TXN000458,CUST000448,27,F,Villahermosa,Ropa,Vestidos,746.24,2,1110.41,25.6,Tarjeta,2024-11-28,11,Thursday,11,0,11,3.6,No,1.0,No
+TXN000459,CUST000629,45,M,Mexicali,Libros,Técnicos,265.39,1,265.39,0.0,Transferencia,2024-04-24,5,Wednesday,4,118,7,4.7,No,1.0,Sí
+TXN000460,CUST000302,18,M,Tijuana,Deportes,Natación,391.08,2,782.16,0.0,PayPal,2024-03-31,22,Sunday,3,142,3,4.4,No,1.0,No
+TXN000461,CUST000326,34,F,Oaxaca,Ropa,Camisetas,998.85,2,1997.7,0.0,PayPal,2024-04-23,14,Tuesday,4,0,5,3.9,No,1.3,No
+TXN000462,CUST000080,36,F,Torreón,Deportes,Basketball,299.37,3,824.46,8.2,Tarjeta,2024-06-26,13,Wednesday,6,81,14,3.6,No,1.0,Sí
+TXN000463,CUST000747,46,M,Mérida,Belleza,Skincare,125.52,4,410.2,18.3,Transferencia,2024-08-16,13,Friday,8,101,14,3.4,Sí,1.0,Sí
+TXN000464,CUST000263,43,M,Puebla,Deportes,Running,1020.64,1,1020.64,0.0,PayPal,2024-01-06,10,Saturday,1,0,9,3.6,No,1.3,No
+TXN000465,CUST000388,43,M,Mexicali,Libros,Infantiles,413.93,3,1241.79,0.0,PayPal,2024-10-06,13,Sunday,10,0,12,3.4,No,1.1,No
+TXN000466,CUST000704,41,Other,Torreón,Belleza,Skincare,865.36,3,2596.08,0.0,Tarjeta,2024-03-24,15,Sunday,3,0,8,3.9,No,1.1,Sí
+TXN000467,CUST000108,38,F,Monterrey,Electrónicos,Laptops,3466.0,1,3466.0,0.0,Tarjeta,2024-06-29,13,Saturday,6,0,5,4.7,No,1.0,No
+TXN000468,CUST000096,35,F,Mérida,Ropa,Accesorios,1320.24,3,3960.72,0.0,Tarjeta,2024-10-31,6,Thursday,10,0,14,3.8,Sí,1.2,Sí
+TXN000469,CUST000670,38,M,León,Electrónicos,Tablets,4284.51,3,9485.91,26.2,Transferencia,2024-11-06,10,Wednesday,11,0,2,5.0,No,1.4,Sí
+TXN000470,CUST000195,65,M,Cuernavaca,Ropa,Accesorios,933.4,3,2301.76,17.8,PayPal,2024-12-22,17,Sunday,12,0,7,3.8,No,1.1,No
+TXN000471,CUST000099,30,M,Guadalajara,Electrónicos,Smartwatches,617.06,2,1234.12,0.0,PayPal,2024-07-20,8,Saturday,7,0,4,3.1,Sí,1.0,Sí
+TXN000472,CUST000370,50,F,Ciudad de México,Ropa,Pantalones,268.92,6,939.07,41.8,Transferencia,2024-08-10,12,Saturday,8,50,2,4.5,No,0.8,Sí
+TXN000473,CUST000299,18,M,Monterrey,Libros,Ficción,112.21,3,263.58,21.7,Transferencia,2024-08-30,1,Friday,8,50,4,3.5,No,1.2,No
+TXN000474,CUST000677,18,M,Querétaro,Ropa,Accesorios,545.55,2,863.06,20.9,PayPal,2024-02-16,11,Friday,2,117,9,4.0,No,0.9,No
+TXN000475,CUST000457,42,F,Guadalajara,Libros,Académicos,404.42,5,1864.38,7.8,Transferencia,2024-05-14,15,Tuesday,5,0,3,3.9,No,1.0,No
+TXN000476,CUST000155,23,F,Puebla,Electrónicos,Smartwatches,1415.46,4,5095.66,10.0,Tarjeta,2024-02-13,7,Tuesday,2,0,8,3.8,No,0.7,Sí
+TXN000477,CUST000567,49,F,Guadalajara,Libros,Técnicos,108.28,3,245.25,24.5,Transferencia,2024-07-17,10,Wednesday,7,50,5,4.5,No,1.0,No
+TXN000478,CUST000487,38,M,Chihuahua,Deportes,Fitness,399.45,4,1597.8,0.0,PayPal,2024-04-30,18,Tuesday,4,0,14,3.5,Sí,1.2,No
+TXN000479,CUST000585,33,F,Veracruz,Electrónicos,Smartwatches,3242.55,4,11517.54,11.2,PayPal,2024-10-19,14,Saturday,10,0,8,4.1,No,1.1,Sí
+TXN000480,CUST000172,54,F,Juárez,Electrónicos,Smartphones,1064.09,2,2128.18,0.0,Tarjeta,2024-04-13,23,Saturday,4,0,5,3.8,No,0.9,No
+TXN000481,CUST000643,23,F,Tijuana,Libros,Académicos,363.4,2,526.93,27.5,Tarjeta,2024-10-31,12,Thursday,10,78,4,4.9,No,1.1,No
+TXN000482,CUST000407,18,F,Cancún,Belleza,Cabello,631.91,6,3791.46,0.0,Tarjeta,2024-06-15,15,Saturday,6,0,3,4.3,No,1.0,No
+TXN000483,CUST000639,33,F,Chihuahua,Electrónicos,Smartphones,545.51,3,1636.53,0.0,PayPal,2024-09-24,11,Tuesday,9,0,3,4.5,No,1.1,No
+TXN000484,CUST000597,44,F,Puebla,Libros,Técnicos,606.01,2,1212.02,0.0,PayPal,2024-02-24,16,Saturday,2,0,15,4.0,No,1.0,No
+TXN000485,CUST000549,30,F,Mexicali,Hogar,Muebles,1093.51,1,1093.51,0.0,Efectivo,2024-08-03,5,Saturday,8,0,3,5.0,No,1.1,No
+TXN000486,CUST000413,62,F,Tijuana,Electrónicos,Tablets,5181.75,3,9358.24,39.8,PayPal,2024-11-12,12,Tuesday,11,0,4,4.9,No,1.4,No
+TXN000487,CUST000051,19,Other,Villahermosa,Deportes,Basketball,157.77,3,406.1,14.2,PayPal,2024-05-17,10,Friday,5,108,7,3.6,No,1.2,No
+TXN000488,CUST000504,38,F,Puebla,Belleza,Maquillaje,465.03,4,1860.12,0.0,Transferencia,2024-04-26,0,Friday,4,0,14,3.4,No,1.0,No
+TXN000489,CUST000329,37,F,Querétaro,Electrónicos,Smartwatches,3393.76,3,10181.28,0.0,Tarjeta,2024-08-01,19,Thursday,8,0,3,4.4,No,1.0,Sí
+TXN000490,CUST000417,23,F,Villahermosa,Electrónicos,Audífonos,2170.21,2,4340.42,0.0,PayPal,2024-09-21,6,Saturday,9,0,6,4.7,No,1.1,Sí
+TXN000491,CUST000068,46,F,San Luis Potosí,Ropa,Pantalones,297.74,2,595.48,0.0,Tarjeta,2024-12-29,2,Sunday,12,137,12,4.5,Sí,1.1,Sí
+TXN000492,CUST000198,35,F,Juárez,Hogar,Decoración,85.4,2,170.8,0.0,PayPal,2024-02-03,15,Saturday,2,95,7,4.2,No,0.9,No
+TXN000493,CUST000476,30,F,Veracruz,Deportes,Fitness,372.75,1,372.75,0.0,Tarjeta,2024-07-22,23,Monday,7,100,8,3.4,No,1.0,Sí
+TXN000494,CUST000457,43,M,León,Electrónicos,Smartwatches,1307.81,4,5231.24,0.0,Tarjeta,2024-08-30,12,Friday,8,0,4,4.7,No,1.0,Sí
+TXN000495,CUST000265,53,M,Monterrey,Libros,Ficción,234.83,3,588.95,16.4,PayPal,2024-05-25,15,Saturday,5,50,2,4.6,No,1.0,No
+TXN000496,CUST000799,46,F,Juárez,Hogar,Cocina,1512.48,1,1512.48,0.0,Tarjeta,2024-04-23,1,Tuesday,4,0,9,4.2,No,1.0,Sí
+TXN000497,CUST000800,46,M,Ciudad de México,Hogar,Cocina,714.24,2,1428.48,0.0,Tarjeta,2024-08-30,16,Friday,8,0,5,4.7,No,1.1,No
+TXN000498,CUST000230,19,M,Querétaro,Libros,Académicos,500.59,3,1501.77,0.0,PayPal,2024-11-07,5,Thursday,11,0,14,2.4,No,1.0,No
+TXN000499,CUST000434,46,M,Aguascalientes,Libros,Infantiles,150.05,6,744.55,17.3,Transferencia,2024-06-27,10,Thursday,6,129,7,4.8,No,1.0,Sí
+TXN000500,CUST000639,18,M,Aguascalientes,Libros,Ficción,356.32,4,1352.59,5.1,PayPal,2024-10-26,10,Saturday,10,0,13,3.9,No,1.1,Sí
+TXN000501,CUST000384,56,F,Cancún,Ropa,Accesorios,1306.67,3,3920.01,0.0,Tarjeta,2024-11-27,15,Wednesday,11,0,7,3.7,No,1.0,Sí
+TXN000502,CUST000494,28,F,Monterrey,Hogar,Limpieza,823.54,2,1647.08,0.0,Transferencia,2024-06-21,16,Friday,6,0,3,4.6,No,0.9,Sí
+TXN000503,CUST000729,33,F,San Luis Potosí,Electrónicos,Laptops,2792.52,2,5585.04,0.0,Tarjeta,2024-04-06,21,Saturday,4,0,3,4.9,No,0.9,No
+TXN000504,CUST000615,33,F,Aguascalientes,Electrónicos,Audífonos,2210.74,3,6632.22,0.0,Efectivo,2024-12-04,8,Wednesday,12,0,7,3.4,Sí,1.6,No
+TXN000505,CUST000510,44,F,San Luis Potosí,Ropa,Zapatos,976.74,6,4887.61,16.6,Tarjeta,2024-05-12,11,Sunday,5,0,3,5.0,No,1.1,Sí
+TXN000506,CUST000586,24,M,Juárez,Libros,No ficción,683.24,3,2049.72,0.0,Tarjeta,2024-06-24,18,Monday,6,0,13,2.9,No,1.0,No
+TXN000507,CUST000688,32,F,Mexicali,Electrónicos,Laptops,3194.32,5,15971.6,0.0,Transferencia,2024-09-16,12,Monday,9,0,6,5.0,No,1.1,No
+TXN000508,CUST000100,36,F,Villahermosa,Ropa,Vestidos,444.32,5,2221.6,0.0,Transferencia,2024-03-06,4,Wednesday,3,0,11,2.3,No,1.2,No
+TXN000509,CUST000188,23,F,Mérida,Electrónicos,Laptops,5614.0,3,16842.0,0.0,PayPal,2024-12-07,10,Saturday,12,0,4,4.1,No,1.6,No
+TXN000510,CUST000340,60,M,Mexicali,Belleza,Fragancias,554.13,3,1662.39,0.0,PayPal,2024-05-13,18,Monday,5,0,10,4.2,Sí,1.2,Sí
+TXN000511,CUST000650,28,F,Chihuahua,Hogar,Muebles,638.61,5,2327.73,27.1,PayPal,2024-10-24,20,Thursday,10,0,6,5.0,No,1.0,No
+TXN000512,CUST000698,39,F,Aguascalientes,Belleza,Cabello,922.71,2,1845.42,0.0,PayPal,2024-09-28,20,Saturday,9,0,5,4.2,Sí,1.0,No
+TXN000513,CUST000206,34,F,Mérida,Libros,Infantiles,329.47,3,808.52,18.2,PayPal,2024-07-28,11,Sunday,7,93,15,2.7,Sí,1.0,No
+TXN000514,CUST000341,38,M,León,Electrónicos,Smartphones,959.87,4,3839.48,0.0,Efectivo,2024-06-09,12,Sunday,6,0,3,4.1,No,1.0,No
+TXN000515,CUST000173,18,M,Chihuahua,Deportes,Running,119.24,2,238.48,0.0,Transferencia,2024-03-22,14,Friday,3,81,5,4.4,No,1.0,No
+TXN000516,CUST000649,28,F,Cuernavaca,Ropa,Zapatos,629.42,3,1888.26,0.0,PayPal,2024-07-25,17,Thursday,7,0,9,4.6,Sí,0.7,No
+TXN000517,CUST000547,41,F,Juárez,Hogar,Decoración,525.94,1,525.94,0.0,Tarjeta,2024-07-10,0,Wednesday,7,137,6,3.9,Sí,0.9,No
+TXN000518,CUST000005,25,M,Torreón,Belleza,Cabello,261.82,2,523.64,0.0,Tarjeta,2024-04-25,17,Thursday,4,83,9,3.9,No,1.0,No
+TXN000519,CUST000314,26,M,León,Ropa,Camisetas,468.95,2,815.04,13.1,Tarjeta,2024-02-03,19,Saturday,2,107,10,3.5,No,0.9,No
+TXN000520,CUST000611,18,F,Veracruz,Ropa,Zapatos,319.84,4,1279.36,0.0,PayPal,2024-06-21,8,Friday,6,0,5,4.9,No,0.8,No
+TXN000521,CUST000502,18,M,Mexicali,Deportes,Fútbol,1185.37,2,2370.74,0.0,Tarjeta,2024-04-06,17,Saturday,4,0,15,3.7,No,1.2,Sí
+TXN000522,CUST000234,18,F,Torreón,Electrónicos,Laptops,2496.85,4,9987.4,0.0,PayPal,2024-03-08,22,Friday,3,0,6,3.6,No,0.9,No
+TXN000523,CUST000127,41,M,Mexicali,Libros,Ficción,485.99,1,453.43,6.7,PayPal,2024-12-30,15,Monday,12,102,15,3.1,No,0.9,Sí
+TXN000524,CUST000050,35,M,Oaxaca,Ropa,Camisetas,322.51,3,967.53,0.0,PayPal,2024-01-25,6,Thursday,1,72,3,5.0,No,0.8,Sí
+TXN000525,CUST000427,41,F,Saltillo,Deportes,Fitness,427.11,1,427.11,0.0,Tarjeta,2024-07-13,9,Saturday,7,130,14,3.9,Sí,1.0,Sí
+TXN000526,CUST000712,24,F,Ciudad de México,Ropa,Camisetas,176.94,4,485.52,31.4,PayPal,2024-06-03,9,Monday,6,50,3,3.7,No,0.8,No
+TXN000527,CUST000718,33,F,Tijuana,Deportes,Fitness,807.15,6,4842.9,0.0,Efectivo,2024-08-02,13,Friday,8,0,12,4.4,No,1.0,Sí
+TXN000528,CUST000117,43,M,Puebla,Hogar,Cocina,171.49,2,342.98,0.0,Tarjeta,2024-09-11,14,Wednesday,9,103,11,4.0,No,1.0,Sí
+TXN000529,CUST000367,39,M,Cuernavaca,Electrónicos,Laptops,2163.44,1,1893.01,12.5,Tarjeta,2024-05-31,13,Friday,5,0,5,3.9,No,1.0,No
+TXN000530,CUST000705,41,M,Villahermosa,Ropa,Camisetas,555.47,3,1666.41,0.0,Tarjeta,2024-06-21,22,Friday,6,0,12,4.5,No,0.8,No
+TXN000531,CUST000153,25,F,Monterrey,Electrónicos,Smartphones,5538.77,7,38771.39,0.0,Tarjeta,2024-09-18,13,Wednesday,9,0,1,5.0,No,1.1,Sí
+TXN000532,CUST000660,18,M,Torreón,Belleza,Cabello,569.39,2,919.0,19.3,Tarjeta,2024-08-21,10,Wednesday,8,76,4,4.6,No,1.0,No
+TXN000533,CUST000041,26,Other,San Luis Potosí,Ropa,Vestidos,257.46,2,270.85,47.4,Tarjeta,2024-07-03,12,Wednesday,7,84,4,4.3,No,0.7,No
+TXN000534,CUST000047,42,M,Ciudad de México,Ropa,Pantalones,1080.26,1,742.14,31.3,Transferencia,2024-03-11,13,Monday,3,50,4,3.9,No,1.2,Sí
+TXN000535,CUST000275,39,M,Monterrey,Belleza,Maquillaje,1174.35,2,1925.93,18.0,Tarjeta,2024-07-09,11,Tuesday,7,0,4,3.8,No,1.0,No
+TXN000536,CUST000279,26,M,Aguascalientes,Electrónicos,Tablets,5606.85,1,5606.85,0.0,Transferencia,2024-12-19,10,Thursday,12,0,7,3.6,No,1.6,No
+TXN000537,CUST000171,36,F,Puebla,Electrónicos,Smartphones,2346.49,6,14078.94,0.0,Tarjeta,2024-03-08,9,Friday,3,0,8,4.6,No,0.9,Sí
+TXN000538,CUST000427,18,M,Chihuahua,Belleza,Cuidado personal,333.87,2,667.74,0.0,PayPal,2024-09-04,18,Wednesday,9,93,12,3.1,No,1.0,Sí
+TXN000539,CUST000368,21,F,Oaxaca,Libros,No ficción,120.87,2,241.74,0.0,Transferencia,2024-01-15,13,Monday,1,132,4,3.8,No,0.9,Sí
+TXN000540,CUST000452,47,F,Guadalajara,Electrónicos,Audífonos,2288.26,5,11441.3,0.0,Tarjeta,2024-02-02,17,Friday,2,0,1,5.0,No,0.7,No
+TXN000541,CUST000695,51,M,Veracruz,Hogar,Cocina,225.11,2,450.22,0.0,Transferencia,2024-10-22,15,Tuesday,10,113,11,3.6,No,1.0,Sí
+TXN000542,CUST000718,30,F,Oaxaca,Deportes,Fútbol,1004.7,2,2009.4,0.0,Tarjeta,2024-02-18,12,Sunday,2,0,13,3.9,No,0.9,Sí
+TXN000543,CUST000395,42,M,Tijuana,Libros,Técnicos,750.94,2,1249.56,16.8,Transferencia,2024-10-12,20,Saturday,10,0,13,3.4,No,1.1,No
+TXN000544,CUST000518,59,F,Villahermosa,Electrónicos,Smartphones,2087.7,4,8350.8,0.0,Tarjeta,2024-09-10,20,Tuesday,9,0,4,4.5,No,1.1,Sí
+TXN000545,CUST000285,18,F,Guadalajara,Electrónicos,Tablets,3714.98,4,14859.92,0.0,Tarjeta,2024-09-21,1,Saturday,9,0,1,4.1,No,1.1,Sí
+TXN000546,CUST000587,49,M,Saltillo,Deportes,Running,864.87,1,733.41,15.2,Transferencia,2024-02-15,11,Thursday,2,85,10,3.7,No,0.9,No
+TXN000547,CUST000019,32,F,Puebla,Deportes,Running,459.75,2,708.01,23.0,Tarjeta,2024-07-25,9,Thursday,7,140,3,5.0,No,1.0,No
+TXN000548,CUST000619,18,F,Oaxaca,Ropa,Vestidos,596.17,2,1192.34,0.0,PayPal,2024-11-22,13,Friday,11,0,11,3.1,Sí,1.0,No
+TXN000549,CUST000688,56,M,Saltillo,Ropa,Camisetas,843.08,2,1686.16,0.0,PayPal,2024-06-23,18,Sunday,6,0,10,4.0,No,0.8,Sí
+TXN000550,CUST000786,29,F,Oaxaca,Ropa,Vestidos,400.97,3,1202.91,0.0,PayPal,2024-11-03,14,Sunday,11,0,4,4.5,Sí,1.0,No
+TXN000551,CUST000675,36,M,Torreón,Hogar,Limpieza,693.21,3,2079.63,0.0,Transferencia,2024-01-02,18,Tuesday,1,0,8,4.5,No,1.1,No
+TXN000552,CUST000047,46,M,León,Libros,Ficción,538.76,3,1186.35,26.6,Tarjeta,2024-09-14,18,Saturday,9,0,6,3.8,No,1.3,Sí
+TXN000553,CUST000403,27,M,Juárez,Electrónicos,Laptops,3176.94,1,3176.94,0.0,PayPal,2024-08-22,7,Thursday,8,0,2,4.1,No,1.0,Sí
+TXN000554,CUST000048,18,M,Chihuahua,Electrónicos,Tablets,2235.75,2,4471.5,0.0,Tarjeta,2024-03-04,10,Monday,3,0,6,5.0,No,0.9,No
+TXN000555,CUST000138,26,M,Villahermosa,Hogar,Muebles,1073.9,2,2147.8,0.0,Tarjeta,2024-01-03,12,Wednesday,1,0,11,2.8,No,1.1,Sí
+TXN000556,CUST000600,24,F,Villahermosa,Ropa,Pantalones,289.57,2,579.14,0.0,PayPal,2024-09-17,11,Tuesday,9,92,14,2.8,No,1.1,No
+TXN000557,CUST000107,21,F,Aguascalientes,Deportes,Basketball,136.12,3,408.36,0.0,Tarjeta,2024-12-02,14,Monday,12,119,9,5.0,No,0.8,No
+TXN000558,CUST000710,54,M,Torreón,Hogar,Limpieza,1554.14,1,1554.14,0.0,Tarjeta,2024-05-20,9,Monday,5,0,10,3.5,No,1.0,Sí
+TXN000559,CUST000142,29,F,Cuernavaca,Deportes,Natación,488.47,1,455.25,6.8,Tarjeta,2024-11-04,21,Monday,11,140,8,4.9,No,0.9,No
+TXN000560,CUST000567,19,M,Juárez,Electrónicos,Laptops,1594.84,4,6379.36,0.0,Transferencia,2024-04-12,15,Friday,4,0,4,5.0,No,0.9,Sí
+TXN000561,CUST000689,40,M,Tijuana,Libros,No ficción,733.48,1,733.48,0.0,PayPal,2024-12-29,17,Sunday,12,111,14,3.4,Sí,0.9,Sí
+TXN000562,CUST000361,31,M,Cancún,Hogar,Jardinería,1872.94,4,7491.76,0.0,Efectivo,2024-09-02,11,Monday,9,0,11,3.3,No,1.0,Sí
+TXN000563,CUST000433,39,M,Ciudad de México,Belleza,Maquillaje,779.14,2,1355.7,13.0,PayPal,2024-09-28,20,Saturday,9,0,1,4.1,No,1.0,No
+TXN000564,CUST000769,46,M,León,Electrónicos,Laptops,1554.62,3,4663.86,0.0,Tarjeta,2024-05-26,21,Sunday,5,0,7,5.0,No,1.0,No
+TXN000565,CUST000209,35,F,Cancún,Deportes,Basketball,1254.19,4,5016.76,0.0,PayPal,2024-01-17,13,Wednesday,1,0,4,4.3,No,1.3,No
+TXN000566,CUST000692,32,F,Cancún,Hogar,Muebles,1864.5,2,3729.0,0.0,Tarjeta,2024-04-24,22,Wednesday,4,0,11,4.3,No,1.0,No
+TXN000567,CUST000713,27,F,San Luis Potosí,Deportes,Fitness,540.5,4,2162.0,0.0,Transferencia,2024-12-20,20,Friday,12,0,9,3.8,No,0.8,No
+TXN000568,CUST000702,18,F,Mérida,Electrónicos,Smartphones,2716.46,3,6291.32,22.8,PayPal,2024-10-09,1,Wednesday,10,0,4,4.9,No,1.1,No
+TXN000569,CUST000800,46,F,Saltillo,Deportes,Basketball,531.73,3,1595.19,0.0,Tarjeta,2024-04-25,16,Thursday,4,0,11,4.8,No,1.2,Sí
+TXN000570,CUST000202,43,F,Juárez,Deportes,Running,1563.69,2,2705.18,13.5,Tarjeta,2024-05-30,13,Thursday,5,0,13,4.5,Sí,1.2,Sí
+TXN000571,CUST000178,19,Other,Veracruz,Electrónicos,Tablets,3511.58,2,5112.86,27.2,PayPal,2024-03-02,13,Saturday,3,0,4,4.7,No,0.9,Sí
+TXN000572,CUST000134,24,M,León,Electrónicos,Audífonos,1536.96,3,3794.75,17.7,PayPal,2024-10-26,14,Saturday,10,0,5,3.7,No,1.1,Sí
+TXN000573,CUST000159,23,Other,Guadalajara,Ropa,Accesorios,1194.51,1,757.32,36.6,Tarjeta,2024-03-19,18,Tuesday,3,50,5,4.6,No,1.2,No
+TXN000574,CUST000309,29,Other,Villahermosa,Ropa,Camisetas,203.72,3,611.16,0.0,PayPal,2024-10-20,11,Sunday,10,110,11,3.0,Sí,1.2,Sí
+TXN000575,CUST000189,26,M,Veracruz,Belleza,Maquillaje,336.11,2,672.22,0.0,Transferencia,2024-02-04,8,Sunday,2,138,9,3.9,Sí,1.2,Sí
+TXN000576,CUST000227,29,F,Juárez,Ropa,Vestidos,1007.47,3,2463.26,18.5,PayPal,2024-12-05,8,Thursday,12,0,7,5.0,No,1.1,Sí
+TXN000577,CUST000771,20,M,Oaxaca,Ropa,Zapatos,628.15,4,2512.6,0.0,Tarjeta,2024-09-28,18,Saturday,9,0,15,5.0,No,1.1,Sí
+TXN000578,CUST000010,25,F,Puebla,Electrónicos,Laptops,5001.38,7,35009.66,0.0,Transferencia,2024-12-08,16,Sunday,12,0,6,3.9,No,1.6,No
+TXN000579,CUST000250,40,M,Guadalajara,Deportes,Running,1054.4,4,4217.6,0.0,PayPal,2024-12-15,13,Sunday,12,0,1,4.8,No,0.8,Sí
+TXN000580,CUST000554,19,Other,San Luis Potosí,Ropa,Accesorios,466.01,3,1398.03,0.0,Tarjeta,2024-01-13,13,Saturday,1,0,8,3.9,No,0.8,No
+TXN000581,CUST000521,54,M,Saltillo,Belleza,Skincare,807.65,2,1615.3,0.0,Tarjeta,2024-09-06,11,Friday,9,0,13,4.4,No,1.0,Sí
+TXN000582,CUST000527,32,M,Monterrey,Electrónicos,Smartphones,3229.9,6,11550.12,40.4,Transferencia,2024-02-23,20,Friday,2,0,2,5.0,No,0.7,Sí
+TXN000583,CUST000435,40,M,Puebla,Libros,Infantiles,368.13,3,1104.39,0.0,PayPal,2024-04-15,14,Monday,4,0,4,4.5,No,1.0,No
+TXN000584,CUST000158,39,F,Ciudad de México,Belleza,Cabello,1138.2,2,2110.22,7.3,PayPal,2024-08-23,15,Friday,8,0,1,5.0,Sí,1.0,Sí
+TXN000585,CUST000258,40,F,Cancún,Hogar,Cocina,1486.74,3,4460.22,0.0,Tarjeta,2024-02-06,2,Tuesday,2,0,9,4.0,No,0.9,No
+TXN000586,CUST000646,58,M,Aguascalientes,Libros,Académicos,463.49,2,870.43,6.1,Tarjeta,2024-08-09,16,Friday,8,85,11,3.6,Sí,1.2,Sí
+TXN000587,CUST000738,47,M,Oaxaca,Ropa,Accesorios,696.71,3,1726.45,17.4,Tarjeta,2024-02-02,10,Friday,2,0,4,4.0,No,0.9,No
+TXN000588,CUST000515,22,F,Puebla,Deportes,Basketball,588.61,1,588.61,0.0,Transferencia,2024-05-28,12,Tuesday,5,106,15,2.8,No,1.2,Sí
+TXN000589,CUST000391,29,F,Aguascalientes,Deportes,Fitness,308.66,8,2469.28,0.0,PayPal,2024-12-04,10,Wednesday,12,0,11,3.6,No,0.8,No
+TXN000590,CUST000765,35,F,Aguascalientes,Electrónicos,Audífonos,1459.88,4,5839.52,0.0,Tarjeta,2024-10-11,20,Friday,10,0,8,5.0,No,1.1,No
+TXN000591,CUST000664,50,M,Mexicali,Libros,Técnicos,499.53,5,2497.65,0.0,Tarjeta,2024-01-06,18,Saturday,1,0,5,4.8,No,0.9,No
+TXN000592,CUST000006,41,Other,Chihuahua,Hogar,Jardinería,1048.85,6,6293.1,0.0,Transferencia,2024-11-01,11,Friday,11,0,4,3.3,No,1.0,No
+TXN000593,CUST000767,41,M,Mexicali,Libros,Infantiles,178.46,5,892.3,0.0,Tarjeta,2024-04-18,19,Thursday,4,135,5,4.5,No,1.0,No
+TXN000594,CUST000227,33,F,Oaxaca,Ropa,Pantalones,414.28,5,1590.84,23.2,Efectivo,2024-05-09,14,Thursday,5,0,13,3.8,No,1.1,Sí
+TXN000595,CUST000056,25,M,Cancún,Electrónicos,Smartwatches,2596.02,2,4086.14,21.3,PayPal,2024-08-24,10,Saturday,8,0,7,5.0,No,1.0,Sí
+TXN000596,CUST000101,35,M,Juárez,Deportes,Running,167.78,5,838.9,0.0,Efectivo,2024-10-24,12,Thursday,10,115,5,3.2,No,0.9,No
+TXN000597,CUST000241,26,F,Puebla,Ropa,Accesorios,1080.01,3,3013.23,7.0,Tarjeta,2024-05-25,18,Saturday,5,0,6,5.0,No,1.1,Sí
+TXN000598,CUST000462,31,M,Mérida,Hogar,Muebles,1364.58,2,2464.43,9.7,Tarjeta,2024-11-11,20,Monday,11,0,12,3.3,No,1.0,Sí
+TXN000599,CUST000324,46,F,Cuernavaca,Hogar,Decoración,1630.11,6,9780.66,0.0,Transferencia,2024-03-27,17,Wednesday,3,0,15,3.4,No,1.2,Sí
+TXN000600,CUST000758,30,M,Cuernavaca,Electrónicos,Laptops,1547.64,2,3095.28,0.0,PayPal,2024-05-21,12,Tuesday,5,0,4,4.6,No,1.0,No
+TXN000601,CUST000474,33,M,Saltillo,Deportes,Running,1326.03,6,7956.18,0.0,PayPal,2024-07-02,7,Tuesday,7,0,5,4.1,No,1.0,Sí
+TXN000602,CUST000084,25,F,Querétaro,Hogar,Cocina,1624.89,3,4874.67,0.0,Transferencia,2024-03-12,15,Tuesday,3,0,13,3.1,Sí,1.2,No
+TXN000603,CUST000078,28,M,Ciudad de México,Libros,Técnicos,1210.52,5,6052.6,0.0,Tarjeta,2024-09-16,19,Monday,9,0,5,4.6,No,1.3,Sí
+TXN000604,CUST000038,19,M,Cancún,Electrónicos,Smartwatches,2735.63,2,5471.26,0.0,Transferencia,2024-05-13,21,Monday,5,0,8,4.7,No,1.0,Sí
+TXN000605,CUST000402,51,F,Torreón,Electrónicos,Audífonos,2457.95,3,5257.56,28.7,PayPal,2024-10-28,21,Monday,10,0,6,5.0,No,1.1,No
+TXN000606,CUST000407,30,M,Mexicali,Electrónicos,Smartphones,658.83,2,1317.66,0.0,Tarjeta,2024-09-14,14,Saturday,9,0,8,5.0,No,1.1,Sí
+TXN000607,CUST000629,28,M,León,Ropa,Pantalones,741.73,3,1880.29,15.5,Tarjeta,2024-09-20,12,Friday,9,0,5,5.0,No,1.1,Sí
+TXN000608,CUST000580,27,M,Tijuana,Deportes,Basketball,378.26,3,798.89,29.6,PayPal,2024-09-04,20,Wednesday,9,132,6,5.0,No,0.9,Sí
+TXN000609,CUST000379,36,M,Torreón,Ropa,Accesorios,403.69,2,807.38,0.0,Tarjeta,2024-01-22,12,Monday,1,116,9,4.4,No,0.8,No
+TXN000610,CUST000466,27,F,Guadalajara,Ropa,Vestidos,999.81,3,1544.71,48.5,PayPal,2024-01-21,19,Sunday,1,0,5,4.7,No,0.8,No
+TXN000611,CUST000281,19,M,Querétaro,Electrónicos,Smartwatches,1681.2,4,6724.8,0.0,Tarjeta,2024-10-23,10,Wednesday,10,0,5,4.5,No,1.1,No
+TXN000612,CUST000375,47,M,Chihuahua,Ropa,Camisetas,913.77,4,3655.08,0.0,Tarjeta,2024-11-30,14,Saturday,11,0,9,3.6,No,1.0,No
+TXN000613,CUST000229,29,M,Veracruz,Libros,Académicos,294.62,6,1767.72,0.0,Tarjeta,2024-07-26,14,Friday,7,0,8,4.4,No,1.0,Sí
+TXN000614,CUST000494,37,F,Oaxaca,Libros,Técnicos,129.26,3,387.78,0.0,Transferencia,2024-01-04,9,Thursday,1,126,5,5.0,No,0.9,Sí
+TXN000615,CUST000527,24,F,Querétaro,Ropa,Pantalones,602.87,3,1070.7,40.8,Tarjeta,2024-04-18,20,Thursday,4,0,8,4.2,No,1.3,Sí
+TXN000616,CUST000122,32,M,Torreón,Deportes,Basketball,875.83,3,2627.49,0.0,Transferencia,2024-07-31,3,Wednesday,7,0,10,3.3,No,1.0,No
+TXN000617,CUST000491,21,F,Juárez,Deportes,Fitness,491.78,3,1311.58,11.1,Tarjeta,2024-11-02,23,Saturday,11,0,5,4.8,No,0.9,No
+TXN000618,CUST000165,44,M,Tijuana,Belleza,Cuidado personal,1189.67,3,3233.52,9.4,Transferencia,2024-11-18,12,Monday,11,0,5,4.3,No,1.1,No
+TXN000619,CUST000185,61,Other,Veracruz,Hogar,Muebles,655.68,2,1311.36,0.0,PayPal,2024-07-26,9,Friday,7,0,13,2.0,Sí,0.9,No
+TXN000620,CUST000737,30,M,San Luis Potosí,Hogar,Jardinería,1194.5,2,1865.81,21.9,Transferencia,2024-02-17,14,Saturday,2,0,9,4.5,No,0.9,No
+TXN000621,CUST000597,43,Other,León,Hogar,Muebles,558.25,3,1674.75,0.0,PayPal,2024-11-15,12,Friday,11,0,14,4.6,No,1.0,Sí
+TXN000622,CUST000465,44,M,Oaxaca,Hogar,Jardinería,924.62,4,3498.76,5.4,Tarjeta,2024-11-02,21,Saturday,11,0,3,5.0,No,1.0,Sí
+TXN000623,CUST000517,44,F,Cuernavaca,Belleza,Maquillaje,430.86,5,2154.3,0.0,Transferencia,2024-03-17,15,Sunday,3,0,12,3.8,No,1.1,No
+TXN000624,CUST000545,25,F,Veracruz,Ropa,Camisetas,1070.71,1,835.15,22.0,Transferencia,2024-03-01,9,Friday,3,86,12,3.7,No,1.2,No
+TXN000625,CUST000002,28,F,Cuernavaca,Ropa,Camisetas,798.75,3,2396.25,0.0,Transferencia,2024-09-24,12,Tuesday,9,0,9,3.6,No,1.1,No
+TXN000626,CUST000494,36,F,Aguascalientes,Libros,Técnicos,607.09,2,1214.18,0.0,PayPal,2024-06-28,18,Friday,6,0,15,3.3,No,1.0,Sí
+TXN000627,CUST000590,34,M,Puebla,Hogar,Cocina,1831.46,3,5494.38,0.0,PayPal,2024-08-10,15,Saturday,8,0,4,4.2,No,1.1,Sí
+TXN000628,CUST000557,18,F,Cuernavaca,Hogar,Cocina,234.72,3,628.81,10.7,Tarjeta,2024-05-11,0,Saturday,5,70,12,3.1,No,1.0,No
+TXN000629,CUST000533,34,F,Ciudad de México,Libros,No ficción,671.91,2,1343.82,0.0,PayPal,2024-07-11,10,Thursday,7,0,3,4.0,No,1.0,No
+TXN000630,CUST000110,42,F,Tijuana,Hogar,Limpieza,892.55,3,2219.77,17.1,PayPal,2024-08-06,14,Tuesday,8,0,11,1.9,No,1.1,Sí
+TXN000631,CUST000375,55,M,Oaxaca,Libros,Infantiles,77.69,2,155.38,0.0,Efectivo,2024-05-21,20,Tuesday,5,122,11,4.0,No,1.0,Sí
+TXN000632,CUST000495,18,F,León,Electrónicos,Tablets,4073.28,3,9348.18,23.5,Tarjeta,2024-07-08,20,Monday,7,0,4,5.0,No,1.0,No
+TXN000633,CUST000793,33,M,Aguascalientes,Ropa,Camisetas,365.09,7,2555.63,0.0,Tarjeta,2024-03-11,14,Monday,3,0,10,3.8,No,1.2,No
+TXN000634,CUST000166,31,M,Puebla,Electrónicos,Smartwatches,3772.77,3,11318.31,0.0,Transferencia,2024-04-19,23,Friday,4,0,4,3.9,No,0.9,No
+TXN000635,CUST000629,38,M,Guadalajara,Libros,Infantiles,190.28,5,951.4,0.0,PayPal,2024-03-23,0,Saturday,3,50,1,5.0,No,1.1,Sí
+TXN000636,CUST000149,45,M,Villahermosa,Hogar,Decoración,1469.52,1,1469.52,0.0,Tarjeta,2024-11-03,15,Sunday,11,0,8,4.3,Sí,1.0,Sí
+TXN000637,CUST000039,39,F,Aguascalientes,Libros,Técnicos,486.94,3,1460.82,0.0,Tarjeta,2024-07-24,13,Wednesday,7,0,7,3.5,No,1.0,No
+TXN000638,CUST000612,35,F,Guadalajara,Deportes,Running,1227.15,2,2454.3,0.0,Tarjeta,2024-03-30,8,Saturday,3,0,2,4.9,No,1.0,No
+TXN000639,CUST000531,38,M,San Luis Potosí,Hogar,Muebles,408.26,3,1083.93,11.5,Tarjeta,2024-04-12,14,Friday,4,0,3,4.9,No,1.0,No
+TXN000640,CUST000671,28,M,Ciudad de México,Deportes,Fitness,295.34,2,590.68,0.0,Transferencia,2024-03-21,10,Thursday,3,50,4,3.9,No,1.0,Sí
+TXN000641,CUST000405,30,F,Aguascalientes,Hogar,Decoración,1301.23,2,2602.46,0.0,Tarjeta,2024-11-01,1,Friday,11,0,11,3.5,No,1.0,No
+TXN000642,CUST000573,45,F,Chihuahua,Electrónicos,Audífonos,2202.67,5,11013.35,0.0,Tarjeta,2024-06-27,10,Thursday,6,0,4,5.0,No,1.0,No
+TXN000643,CUST000200,30,M,Saltillo,Electrónicos,Smartwatches,3803.36,2,5963.67,21.6,PayPal,2024-07-25,11,Thursday,7,0,3,5.0,No,1.0,Sí
+TXN000644,CUST000110,50,M,Cancún,Hogar,Muebles,203.42,5,870.64,14.4,PayPal,2024-02-07,16,Wednesday,2,84,15,1.6,No,0.9,Sí
+TXN000645,CUST000264,32,F,Cancún,Ropa,Zapatos,1486.83,2,2973.66,0.0,Tarjeta,2024-10-26,14,Saturday,10,0,15,3.3,No,1.2,No
+TXN000646,CUST000348,22,M,Saltillo,Electrónicos,Tablets,5133.77,1,5133.77,0.0,Transferencia,2024-12-14,15,Saturday,12,0,8,3.6,Sí,1.6,Sí
+TXN000647,CUST000120,41,M,Querétaro,Hogar,Cocina,1397.43,4,5589.72,0.0,PayPal,2024-02-04,10,Sunday,2,0,6,5.0,No,0.9,Sí
+TXN000648,CUST000423,45,M,Mexicali,Libros,Técnicos,309.99,2,539.38,13.0,Efectivo,2024-09-21,10,Saturday,9,103,6,3.9,No,1.3,No
+TXN000649,CUST000409,40,Other,Mérida,Electrónicos,Smartwatches,2265.08,4,9060.32,0.0,PayPal,2024-02-08,17,Thursday,2,0,5,3.8,No,0.7,No
+TXN000650,CUST000224,40,F,Chihuahua,Electrónicos,Laptops,2242.77,2,4485.54,0.0,PayPal,2024-05-17,21,Friday,5,0,7,4.5,No,1.0,Sí
+TXN000651,CUST000195,48,M,Villahermosa,Hogar,Cocina,1693.82,2,3387.64,0.0,Tarjeta,2024-04-12,16,Friday,4,0,7,4.7,No,1.0,Sí
+TXN000652,CUST000208,32,M,Torreón,Deportes,Fitness,508.84,3,1070.09,29.9,Transferencia,2024-11-12,10,Tuesday,11,0,4,4.7,No,0.9,Sí
+TXN000653,CUST000680,32,F,Villahermosa,Ropa,Zapatos,417.91,2,570.87,31.7,PayPal,2024-11-15,9,Friday,11,110,10,4.1,No,1.0,Sí
+TXN000654,CUST000589,29,M,Querétaro,Hogar,Jardinería,1296.16,3,3888.48,0.0,Transferencia,2024-09-14,11,Saturday,9,0,12,2.4,Sí,1.0,No
+TXN000655,CUST000539,37,M,Cuernavaca,Deportes,Fitness,1169.53,3,3508.59,0.0,Tarjeta,2024-09-01,20,Sunday,9,0,9,3.5,No,0.9,No
+TXN000656,CUST000795,25,F,León,Libros,Ficción,394.01,4,1576.04,0.0,Transferencia,2024-08-22,12,Thursday,8,0,10,3.4,No,1.2,Sí
+TXN000657,CUST000009,18,Other,Ciudad de México,Ropa,Pantalones,951.19,4,3363.41,11.6,Transferencia,2024-12-11,22,Wednesday,12,0,1,4.9,No,1.1,No
+TXN000658,CUST000628,60,F,Querétaro,Electrónicos,Smartwatches,3518.48,2,6065.86,13.8,Tarjeta,2024-04-05,22,Friday,4,0,4,4.6,No,0.9,No
+TXN000659,CUST000628,42,F,Mérida,Ropa,Pantalones,629.15,2,697.1,44.6,Tarjeta,2024-07-06,9,Saturday,7,96,9,3.6,No,0.7,Sí
+TXN000660,CUST000382,18,F,Mexicali,Libros,Académicos,152.14,4,534.32,12.2,PayPal,2024-07-24,14,Wednesday,7,143,5,5.0,No,1.0,Sí
+TXN000661,CUST000703,50,F,Torreón,Libros,Académicos,505.4,8,4043.2,0.0,Tarjeta,2024-02-21,12,Wednesday,2,0,11,2.7,No,1.0,No
+TXN000662,CUST000391,43,F,Juárez,Belleza,Maquillaje,818.36,6,4910.16,0.0,Tarjeta,2024-03-15,18,Friday,3,0,3,5.0,No,1.1,Sí
+TXN000663,CUST000512,32,F,Tijuana,Ropa,Vestidos,963.2,1,963.2,0.0,PayPal,2024-11-18,21,Monday,11,108,7,4.3,No,1.0,Sí
+TXN000664,CUST000582,21,M,Guadalajara,Electrónicos,Smartphones,1142.03,1,1047.24,8.3,Transferencia,2024-07-26,3,Friday,7,0,3,4.1,No,1.0,No
+TXN000665,CUST000645,47,M,Puebla,Hogar,Limpieza,651.72,4,2606.88,0.0,Transferencia,2024-08-18,14,Sunday,8,0,11,3.0,No,1.1,No
+TXN000666,CUST000264,38,F,Mexicali,Libros,Infantiles,83.75,1,63.9,23.7,Efectivo,2024-01-11,19,Thursday,1,147,6,5.0,No,0.9,Sí
+TXN000667,CUST000666,36,M,Cancún,Ropa,Vestidos,989.32,8,6917.33,12.6,Tarjeta,2024-03-30,13,Saturday,3,0,13,3.2,No,1.2,Sí
+TXN000668,CUST000794,56,F,Saltillo,Hogar,Jardinería,549.42,1,549.42,0.0,Tarjeta,2024-02-10,10,Saturday,2,129,13,4.5,No,0.9,No
+TXN000669,CUST000172,44,M,Mérida,Belleza,Cuidado personal,847.38,4,3389.52,0.0,Tarjeta,2024-08-03,20,Saturday,8,0,4,4.7,No,1.0,Sí
+TXN000670,CUST000352,34,F,Torreón,Hogar,Limpieza,1488.63,3,4465.89,0.0,Transferencia,2024-06-09,20,Sunday,6,0,12,3.6,No,0.9,No
+TXN000671,CUST000278,61,M,Saltillo,Hogar,Muebles,1120.11,7,7840.77,0.0,Tarjeta,2024-07-04,11,Thursday,7,0,10,4.1,No,0.9,No
+TXN000672,CUST000189,44,F,Ciudad de México,Electrónicos,Audífonos,1347.87,5,6739.35,0.0,PayPal,2024-03-05,14,Tuesday,3,0,1,4.9,No,0.9,Sí
+TXN000673,CUST000407,25,M,Puebla,Ropa,Accesorios,530.55,5,2398.09,9.6,Transferencia,2024-02-24,21,Saturday,2,0,15,4.1,No,0.9,Sí
+TXN000674,CUST000784,37,M,Monterrey,Belleza,Cabello,198.95,4,795.8,0.0,Tarjeta,2024-02-23,0,Friday,2,50,1,5.0,No,1.2,No
+TXN000675,CUST000400,28,F,San Luis Potosí,Electrónicos,Laptops,1225.1,2,2450.2,0.0,Efectivo,2024-04-27,13,Saturday,4,0,5,4.4,No,0.9,No
+TXN000676,CUST000135,44,M,Veracruz,Ropa,Camisetas,231.89,4,548.19,40.9,Transferencia,2024-03-28,13,Thursday,3,115,8,3.9,No,1.2,No
+TXN000677,CUST000479,21,M,Cancún,Electrónicos,Laptops,5143.18,1,5143.18,0.0,Tarjeta,2024-05-19,14,Sunday,5,0,7,4.1,No,1.0,Sí
+TXN000678,CUST000606,24,M,Oaxaca,Electrónicos,Smartwatches,2611.54,3,5546.91,29.2,Transferencia,2024-08-21,12,Wednesday,8,0,7,4.1,No,1.0,No
+TXN000679,CUST000318,42,M,Mexicali,Ropa,Camisetas,675.57,2,1043.08,22.8,Transferencia,2024-09-03,15,Tuesday,9,0,8,5.0,No,1.1,Sí
+TXN000680,CUST000160,33,M,San Luis Potosí,Ropa,Camisetas,588.91,4,2355.64,0.0,Transferencia,2024-01-06,12,Saturday,1,0,15,4.2,No,0.8,No
+TXN000681,CUST000353,43,F,San Luis Potosí,Deportes,Natación,785.79,2,1491.43,5.1,Transferencia,2024-08-28,11,Wednesday,8,0,10,3.0,No,1.0,No
+TXN000682,CUST000489,27,F,San Luis Potosí,Hogar,Jardinería,1614.63,4,6458.52,0.0,Tarjeta,2024-01-05,20,Friday,1,0,12,3.8,No,1.1,No
+TXN000683,CUST000008,29,M,Cancún,Ropa,Pantalones,198.8,2,246.51,38.0,PayPal,2024-07-10,19,Wednesday,7,141,9,3.8,No,0.7,No
+TXN000684,CUST000168,50,M,Aguascalientes,Libros,No ficción,185.79,2,264.19,28.9,PayPal,2024-07-12,8,Friday,7,124,13,4.4,No,1.0,Sí
+TXN000685,CUST000783,29,F,Oaxaca,Libros,Académicos,182.22,6,909.64,16.8,Tarjeta,2024-12-21,20,Saturday,12,138,15,3.7,No,0.9,No
+TXN000686,CUST000193,46,F,Monterrey,Electrónicos,Laptops,2755.53,2,3554.63,35.5,Transferencia,2024-04-03,15,Wednesday,4,0,4,4.6,No,0.9,No
+TXN000687,CUST000279,25,F,Oaxaca,Electrónicos,Laptops,3897.22,3,7143.6,38.9,PayPal,2024-09-13,11,Friday,9,0,6,4.5,Sí,1.1,Sí
+TXN000688,CUST000105,23,F,San Luis Potosí,Ropa,Pantalones,623.42,3,1870.26,0.0,Tarjeta,2024-05-17,20,Friday,5,0,14,3.5,Sí,1.1,No
+TXN000689,CUST000093,29,F,Tijuana,Electrónicos,Audífonos,668.41,4,2673.64,0.0,PayPal,2024-01-08,13,Monday,1,0,8,4.9,No,0.8,No
+TXN000690,CUST000381,29,M,Saltillo,Deportes,Basketball,156.48,3,376.02,19.9,Tarjeta,2024-12-22,11,Sunday,12,88,3,5.0,No,0.8,Sí
+TXN000691,CUST000402,25,F,Monterrey,Ropa,Zapatos,1526.56,2,1871.56,38.7,Tarjeta,2024-10-05,9,Saturday,10,0,3,5.0,No,1.2,Sí
+TXN000692,CUST000013,35,F,Puebla,Ropa,Pantalones,404.0,3,1212.0,0.0,Tarjeta,2025-01-04,10,Saturday,1,0,3,4.8,No,0.8,Sí
+TXN000693,CUST000753,54,F,Puebla,Libros,No ficción,918.96,2,1837.92,0.0,Tarjeta,2024-09-23,16,Monday,9,0,13,3.1,No,1.3,Sí
+TXN000694,CUST000331,41,M,León,Libros,Técnicos,389.89,4,1559.56,0.0,Tarjeta,2024-11-18,11,Monday,11,0,7,4.1,No,1.0,No
+TXN000695,CUST000306,39,F,Juárez,Deportes,Fitness,556.16,3,1668.48,0.0,PayPal,2024-07-03,8,Wednesday,7,0,6,5.0,No,1.0,Sí
+TXN000696,CUST000242,31,F,Cuernavaca,Deportes,Fitness,752.19,6,3840.68,14.9,Transferencia,2024-06-15,22,Saturday,6,0,7,4.3,No,1.0,Sí
+TXN000697,CUST000406,18,F,Torreón,Electrónicos,Smartphones,1877.35,6,11264.1,0.0,Transferencia,2024-01-05,21,Friday,1,0,7,3.6,No,0.8,Sí
+TXN000698,CUST000611,55,F,Tijuana,Libros,No ficción,381.88,1,350.18,8.3,Transferencia,2024-07-09,16,Tuesday,7,81,13,4.1,No,1.0,Sí
+TXN000699,CUST000778,42,M,Guadalajara,Libros,Académicos,74.59,1,74.59,0.0,PayPal,2024-01-31,11,Wednesday,1,50,5,4.3,No,0.9,No
+TXN000700,CUST000129,18,F,Villahermosa,Ropa,Accesorios,552.89,5,2764.45,0.0,Transferencia,2024-04-29,16,Monday,4,0,15,3.8,No,1.3,Sí
+TXN000701,CUST000450,44,F,Juárez,Hogar,Jardinería,1591.57,4,6366.28,0.0,Tarjeta,2024-01-11,23,Thursday,1,0,5,4.2,No,1.1,Sí
+TXN000702,CUST000041,39,M,Villahermosa,Deportes,Running,384.4,2,768.8,0.0,PayPal,2024-12-27,13,Friday,12,139,14,3.9,No,0.8,Sí
+TXN000703,CUST000581,54,M,León,Libros,Académicos,641.44,5,2815.92,12.2,PayPal,2024-10-05,11,Saturday,10,0,10,3.7,No,1.1,Sí
+TXN000704,CUST000614,20,M,Cancún,Libros,Ficción,259.47,1,259.47,0.0,PayPal,2024-03-23,17,Saturday,3,127,7,4.4,No,1.1,No
+TXN000705,CUST000555,45,F,Mexicali,Electrónicos,Laptops,2677.39,2,5354.78,0.0,Tarjeta,2024-08-24,17,Saturday,8,0,6,3.9,No,1.0,No
+TXN000706,CUST000795,46,F,Oaxaca,Hogar,Limpieza,390.84,10,3908.4,0.0,Transferencia,2024-05-02,3,Thursday,5,0,13,3.3,No,1.0,Sí
+TXN000707,CUST000397,56,Other,Juárez,Electrónicos,Tablets,3144.13,2,6288.26,0.0,Transferencia,2024-09-25,10,Wednesday,9,0,3,5.0,No,1.1,No
+TXN000708,CUST000331,33,F,Cuernavaca,Electrónicos,Smartphones,2518.53,2,5037.06,0.0,Tarjeta,2024-11-24,12,Sunday,11,0,2,3.5,Sí,1.4,Sí
+TXN000709,CUST000133,46,M,León,Libros,No ficción,326.41,4,1101.96,15.6,Efectivo,2024-01-17,18,Wednesday,1,0,6,5.0,No,0.9,No
+TXN000710,CUST000585,29,F,Aguascalientes,Deportes,Natación,612.71,2,1225.42,0.0,Transferencia,2024-12-02,10,Monday,12,0,7,3.2,Sí,0.8,Sí
+TXN000711,CUST000227,31,M,Oaxaca,Libros,Infantiles,374.17,7,2619.19,0.0,Transferencia,2024-02-09,12,Friday,2,0,4,3.5,No,1.0,Sí
+TXN000712,CUST000655,23,M,Guadalajara,Hogar,Muebles,1823.73,2,3647.46,0.0,PayPal,2024-07-03,7,Wednesday,7,0,4,3.7,No,0.9,Sí
+TXN000713,CUST000726,22,F,Guadalajara,Libros,Ficción,64.43,3,193.29,0.0,Transferencia,2024-11-15,13,Friday,11,50,1,4.0,No,1.0,No
+TXN000714,CUST000532,18,F,Puebla,Deportes,Fútbol,244.94,2,489.88,0.0,Tarjeta,2024-02-21,14,Wednesday,2,94,6,5.0,No,0.9,Sí
+TXN000715,CUST000255,30,M,Chihuahua,Hogar,Cocina,1777.74,4,7110.96,0.0,Tarjeta,2024-11-16,10,Saturday,11,0,11,3.5,No,1.0,No
+TXN000716,CUST000109,33,M,Chihuahua,Electrónicos,Tablets,3591.22,2,7182.44,0.0,Tarjeta,2024-07-02,11,Tuesday,7,0,3,4.9,No,1.0,No
+TXN000717,CUST000564,31,M,Aguascalientes,Electrónicos,Laptops,2003.51,3,6010.53,0.0,Tarjeta,2024-09-15,0,Sunday,9,0,6,5.0,No,1.1,Sí
+TXN000718,CUST000361,50,M,Mérida,Electrónicos,Audífonos,4153.81,2,8307.62,0.0,Tarjeta,2024-10-08,18,Tuesday,10,0,5,4.7,No,1.1,Sí
+TXN000719,CUST000441,43,M,Mérida,Belleza,Maquillaje,497.96,5,2489.8,0.0,Tarjeta,2024-11-07,13,Thursday,11,0,6,4.0,No,1.1,Sí
+TXN000720,CUST000564,33,M,Querétaro,Deportes,Running,1257.52,2,2105.09,16.3,Tarjeta,2024-07-03,21,Wednesday,7,0,9,4.7,Sí,1.0,Sí
+TXN000721,CUST000036,38,M,San Luis Potosí,Hogar,Decoración,322.33,2,644.66,0.0,Tarjeta,2024-11-01,21,Friday,11,108,3,5.0,No,1.0,No
+TXN000722,CUST000228,37,F,Juárez,Ropa,Accesorios,519.94,1,397.23,23.6,PayPal,2024-06-15,9,Saturday,6,143,12,4.8,No,0.8,No
+TXN000723,CUST000039,34,F,Saltillo,Hogar,Limpieza,1484.85,2,2969.7,0.0,Transferencia,2024-07-06,13,Saturday,7,0,6,4.7,No,0.9,Sí
+TXN000724,CUST000308,32,M,Monterrey,Libros,Infantiles,1037.66,2,2075.32,0.0,Transferencia,2024-10-19,21,Saturday,10,0,2,5.0,No,1.1,Sí
+TXN000725,CUST000741,32,F,Mérida,Ropa,Pantalones,187.88,1,160.64,14.5,Tarjeta,2024-09-04,23,Wednesday,9,143,4,4.3,No,1.1,Sí
+TXN000726,CUST000308,24,F,Guadalajara,Deportes,Fitness,663.5,2,1327.0,0.0,PayPal,2024-10-22,11,Tuesday,10,0,3,5.0,No,0.9,Sí
+TXN000727,CUST000445,33,F,Cuernavaca,Ropa,Pantalones,1062.88,3,3188.64,0.0,PayPal,2024-03-02,21,Saturday,3,0,12,4.5,No,1.2,No
+TXN000728,CUST000650,41,F,Aguascalientes,Libros,Ficción,405.36,4,1483.62,8.5,Transferencia,2024-01-28,18,Sunday,1,0,12,2.2,Sí,0.9,Sí
+TXN000729,CUST000515,53,M,Torreón,Libros,Infantiles,726.43,7,5085.01,0.0,Transferencia,2024-03-23,18,Saturday,3,0,12,3.9,No,1.1,Sí
+TXN000730,CUST000228,37,F,Cuernavaca,Hogar,Cocina,1738.46,7,9066.07,25.5,Transferencia,2024-05-28,7,Tuesday,5,0,4,4.5,No,1.0,Sí
+TXN000731,CUST000764,18,F,Guadalajara,Ropa,Camisetas,584.14,2,1051.45,10.0,Transferencia,2024-10-07,11,Monday,10,0,4,4.0,No,1.2,Sí
+TXN000732,CUST000134,39,F,Tijuana,Deportes,Running,1319.88,3,3959.64,0.0,PayPal,2024-09-03,19,Tuesday,9,0,12,2.9,Sí,0.9,Sí
+TXN000733,CUST000631,46,M,Veracruz,Ropa,Zapatos,938.68,6,3683.38,34.6,Tarjeta,2024-05-11,12,Saturday,5,0,12,3.9,Sí,1.1,Sí
+TXN000734,CUST000688,33,F,Cuernavaca,Electrónicos,Laptops,1188.76,2,1752.23,26.3,Tarjeta,2024-08-04,10,Sunday,8,0,6,4.4,No,1.0,Sí
+TXN000735,CUST000789,18,M,San Luis Potosí,Libros,Académicos,373.61,3,1120.83,0.0,Transferencia,2024-03-27,23,Wednesday,3,0,15,3.5,No,1.1,Sí
+TXN000736,CUST000150,54,M,Saltillo,Electrónicos,Laptops,1489.85,1,1294.68,13.1,PayPal,2024-01-23,21,Tuesday,1,0,4,4.1,No,0.8,Sí
+TXN000737,CUST000746,18,F,Monterrey,Belleza,Maquillaje,1181.46,2,2362.92,0.0,Tarjeta,2024-02-27,11,Tuesday,2,0,2,4.1,No,1.2,No
+TXN000738,CUST000295,38,M,Ciudad de México,Electrónicos,Smartphones,2130.97,4,6546.34,23.2,PayPal,2024-06-24,5,Monday,6,0,4,4.6,Sí,1.0,Sí
+TXN000739,CUST000215,49,M,Cancún,Deportes,Fútbol,761.53,2,1523.06,0.0,PayPal,2024-04-18,8,Thursday,4,0,15,2.5,Sí,1.2,No
+TXN000740,CUST000495,31,M,Oaxaca,Deportes,Fitness,758.02,3,2274.06,0.0,Tarjeta,2024-03-13,12,Wednesday,3,0,13,3.1,No,1.0,Sí
+TXN000741,CUST000262,22,M,León,Electrónicos,Audífonos,3300.76,2,5901.76,10.6,Tarjeta,2024-01-31,18,Wednesday,1,0,7,4.8,No,0.8,No
+TXN000742,CUST000055,32,M,Saltillo,Deportes,Fitness,383.43,4,1533.72,0.0,Tarjeta,2024-12-01,0,Sunday,12,0,7,2.9,No,0.8,No
+TXN000743,CUST000676,29,F,Mexicali,Libros,No ficción,656.31,5,3281.55,0.0,Tarjeta,2024-03-02,15,Saturday,3,0,11,3.4,No,1.1,Sí
+TXN000744,CUST000102,58,M,Mérida,Electrónicos,Smartwatches,493.76,3,1481.28,0.0,Transferencia,2024-09-05,14,Thursday,9,0,3,4.2,No,1.1,Sí
+TXN000745,CUST000469,20,F,Cancún,Deportes,Natación,1978.15,3,5934.45,0.0,Tarjeta,2025-01-03,23,Friday,1,0,10,4.3,No,1.3,Sí
+TXN000746,CUST000161,47,M,Ciudad de México,Hogar,Limpieza,464.36,2,928.72,0.0,Tarjeta,2024-06-26,18,Wednesday,6,50,3,4.8,No,0.9,Sí
+TXN000747,CUST000514,29,M,Querétaro,Hogar,Limpieza,1454.32,4,5817.28,0.0,Transferencia,2024-02-01,11,Thursday,2,0,3,4.6,No,0.9,Sí
+TXN000748,CUST000287,51,F,Torreón,Belleza,Fragancias,255.4,1,255.4,0.0,Transferencia,2024-03-18,15,Monday,3,81,14,3.5,No,1.1,Sí
+TXN000749,CUST000695,28,Other,Oaxaca,Ropa,Pantalones,896.68,6,3480.91,35.3,Transferencia,2024-11-16,21,Saturday,11,0,12,4.6,No,1.0,Sí
+TXN000750,CUST000320,35,F,Oaxaca,Belleza,Maquillaje,672.91,4,2411.71,10.4,Tarjeta,2024-06-17,9,Monday,6,0,5,4.1,No,1.0,No
+TXN000751,CUST000701,27,M,Juárez,Ropa,Accesorios,618.94,2,1237.88,0.0,Transferencia,2024-03-11,6,Monday,3,0,9,4.4,No,1.2,No
+TXN000752,CUST000789,26,M,Tijuana,Belleza,Maquillaje,697.91,2,1395.82,0.0,PayPal,2024-12-01,21,Sunday,12,0,11,3.9,No,1.2,Sí
+TXN000753,CUST000737,42,F,Puebla,Ropa,Vestidos,1473.37,2,2946.74,0.0,PayPal,2024-04-04,17,Thursday,4,0,5,4.1,No,1.3,Sí
+TXN000754,CUST000784,20,F,Mérida,Ropa,Vestidos,426.53,4,847.94,50.3,Tarjeta,2024-07-30,23,Tuesday,7,105,5,4.4,No,0.7,Sí
+TXN000755,CUST000110,36,F,Tijuana,Libros,Ficción,824.76,2,1649.52,0.0,PayPal,2024-04-04,14,Thursday,4,0,12,3.4,No,1.0,Sí
+TXN000756,CUST000621,45,M,Chihuahua,Hogar,Cocina,359.72,2,719.44,0.0,Tarjeta,2024-11-09,8,Saturday,11,99,13,2.8,Sí,1.0,No
+TXN000757,CUST000082,23,M,Villahermosa,Ropa,Accesorios,363.94,2,727.88,0.0,Tarjeta,2024-03-09,22,Saturday,3,130,14,3.5,No,1.2,No
+TXN000758,CUST000189,30,F,Aguascalientes,Ropa,Pantalones,239.45,8,1187.67,38.0,Tarjeta,2024-09-08,20,Sunday,9,0,3,5.0,No,1.1,Sí
+TXN000759,CUST000016,27,F,Querétaro,Electrónicos,Laptops,794.95,1,531.03,33.2,PayPal,2024-08-02,15,Friday,8,126,8,4.8,No,1.0,Sí
+TXN000760,CUST000705,35,M,Mérida,Libros,No ficción,766.55,2,1320.0,13.9,PayPal,2024-08-22,20,Thursday,8,0,15,2.2,Sí,1.2,Sí
+TXN000761,CUST000753,29,M,Aguascalientes,Belleza,Cuidado personal,718.08,6,4308.48,0.0,Efectivo,2024-06-09,15,Sunday,6,0,11,3.8,No,1.0,Sí
+TXN000762,CUST000722,39,F,Guadalajara,Belleza,Skincare,589.73,2,1179.46,0.0,Tarjeta,2024-09-28,22,Saturday,9,0,2,5.0,No,1.0,Sí
+TXN000763,CUST000406,32,F,Guadalajara,Electrónicos,Tablets,4294.85,3,12884.55,0.0,PayPal,2024-10-12,15,Saturday,10,0,1,5.0,No,1.1,Sí
+TXN000764,CUST000451,23,M,Aguascalientes,Libros,Académicos,557.56,2,786.16,29.5,Tarjeta,2024-06-04,19,Tuesday,6,124,7,3.9,No,1.0,No
+TXN000765,CUST000056,40,M,Veracruz,Hogar,Jardinería,1511.26,1,1511.26,0.0,Transferencia,2024-03-13,13,Wednesday,3,0,10,4.0,Sí,1.2,Sí
+TXN000766,CUST000513,43,M,Puebla,Hogar,Muebles,681.62,4,2402.03,11.9,Tarjeta,2024-04-02,7,Tuesday,4,0,9,4.7,No,1.0,No
+TXN000767,CUST000026,49,F,León,Electrónicos,Laptops,3783.61,2,7567.22,0.0,Tarjeta,2024-08-20,1,Tuesday,8,0,2,4.2,No,1.0,No
+TXN000768,CUST000709,29,F,León,Electrónicos,Audífonos,2944.31,2,4180.92,29.0,Tarjeta,2024-03-09,14,Saturday,3,0,7,3.6,No,0.9,Sí
+TXN000769,CUST000524,48,F,Oaxaca,Libros,Infantiles,70.65,3,211.95,0.0,PayPal,2024-03-22,15,Friday,3,75,15,2.5,Sí,1.1,Sí
+TXN000770,CUST000344,31,F,Chihuahua,Hogar,Cocina,1365.02,3,4095.06,0.0,PayPal,2024-12-03,21,Tuesday,12,0,5,4.0,No,1.0,Sí
+TXN000771,CUST000053,29,F,Cuernavaca,Electrónicos,Audífonos,1544.78,1,1544.78,0.0,Transferencia,2024-06-06,1,Thursday,6,0,5,2.9,No,1.0,No
+TXN000772,CUST000186,18,M,Puebla,Hogar,Cocina,2263.06,2,3928.67,13.2,Tarjeta,2024-03-08,6,Friday,3,0,15,4.3,No,1.2,Sí
+TXN000773,CUST000470,34,F,Villahermosa,Hogar,Muebles,1057.7,1,1057.7,0.0,PayPal,2024-09-12,9,Thursday,9,0,12,2.4,No,1.0,No
+TXN000774,CUST000244,31,Other,Juárez,Electrónicos,Tablets,654.87,1,654.87,0.0,Efectivo,2024-10-28,9,Monday,10,80,6,4.9,No,1.1,Sí
+TXN000775,CUST000251,48,F,Cancún,Hogar,Muebles,766.46,4,3065.84,0.0,Tarjeta,2024-05-22,19,Wednesday,5,0,6,4.9,Sí,1.0,Sí
+TXN000776,CUST000152,33,F,Guadalajara,Electrónicos,Audífonos,6349.47,4,15314.92,39.7,Tarjeta,2024-11-30,9,Saturday,11,0,1,4.7,No,1.4,No
+TXN000777,CUST000618,46,F,San Luis Potosí,Ropa,Camisetas,132.51,3,286.22,28.0,Tarjeta,2024-06-18,7,Tuesday,6,92,5,4.0,No,0.8,No
+TXN000778,CUST000626,36,M,Oaxaca,Deportes,Fútbol,1079.04,5,5395.2,0.0,Tarjeta,2024-10-20,17,Sunday,10,0,14,4.0,No,0.9,Sí
+TXN000779,CUST000037,19,M,Monterrey,Belleza,Fragancias,951.63,2,1903.26,0.0,Tarjeta,2024-06-02,21,Sunday,6,0,4,4.0,No,1.0,No
+TXN000780,CUST000067,36,F,San Luis Potosí,Belleza,Maquillaje,242.69,3,571.53,21.5,Transferencia,2024-08-29,13,Thursday,8,105,8,4.7,No,1.0,Sí
+TXN000781,CUST000538,40,M,Juárez,Ropa,Camisetas,1087.48,3,3262.44,0.0,Transferencia,2024-12-27,13,Friday,12,0,13,3.1,No,1.1,No
+TXN000782,CUST000090,49,M,Villahermosa,Deportes,Natación,372.62,3,1117.86,0.0,Transferencia,2024-12-18,21,Wednesday,12,0,14,2.6,No,0.8,Sí
+TXN000783,CUST000624,36,F,Mérida,Belleza,Cuidado personal,313.25,4,1253.0,0.0,Efectivo,2024-05-12,17,Sunday,5,0,5,4.0,No,1.2,No
+TXN000784,CUST000509,45,F,Veracruz,Hogar,Cocina,982.74,2,1965.48,0.0,Tarjeta,2024-11-19,23,Tuesday,11,0,6,4.5,No,1.0,No
+TXN000785,CUST000199,44,M,Ciudad de México,Belleza,Skincare,572.08,3,1716.24,0.0,PayPal,2024-03-01,13,Friday,3,0,1,4.9,No,1.1,No
+TXN000786,CUST000213,33,F,Oaxaca,Ropa,Zapatos,682.46,4,1253.0,54.1,Efectivo,2024-07-31,16,Wednesday,7,0,8,5.0,No,0.7,Sí
+TXN000787,CUST000653,29,M,Juárez,Hogar,Cocina,665.83,3,1997.49,0.0,PayPal,2024-01-06,10,Saturday,1,0,7,4.2,No,1.1,Sí
+TXN000788,CUST000316,18,M,San Luis Potosí,Deportes,Fitness,412.23,7,2501.82,13.3,Tarjeta,2024-09-16,17,Monday,9,0,8,4.0,No,0.9,Sí
+TXN000789,CUST000742,28,M,Chihuahua,Electrónicos,Laptops,4756.7,2,6202.74,34.8,Tarjeta,2024-11-11,20,Monday,11,0,8,3.8,No,1.4,Sí
+TXN000790,CUST000689,24,M,Villahermosa,Belleza,Skincare,106.73,2,213.46,0.0,Efectivo,2024-08-30,12,Friday,8,131,5,4.1,No,1.0,Sí
+TXN000791,CUST000550,38,M,Mérida,Libros,Infantiles,718.09,4,2872.36,0.0,Transferencia,2024-08-24,5,Saturday,8,0,3,5.0,No,1.2,Sí
+TXN000792,CUST000307,21,M,Chihuahua,Ropa,Vestidos,156.72,1,156.72,0.0,Tarjeta,2024-12-13,11,Friday,12,72,6,5.0,No,1.1,Sí
+TXN000793,CUST000340,56,F,Mexicali,Ropa,Pantalones,189.24,1,135.87,28.2,PayPal,2024-02-03,17,Saturday,2,73,8,5.0,No,0.9,Sí
+TXN000794,CUST000642,34,M,Cancún,Ropa,Zapatos,1059.39,3,2202.47,30.7,Tarjeta,2024-03-25,21,Monday,3,0,4,5.0,No,1.2,Sí
+TXN000795,CUST000770,43,M,San Luis Potosí,Deportes,Basketball,212.73,2,425.46,0.0,Tarjeta,2024-12-27,14,Friday,12,104,9,5.0,No,0.8,Sí
+TXN000796,CUST000244,36,F,Mexicali,Electrónicos,Audífonos,1394.65,3,3782.29,9.6,PayPal,2024-08-19,3,Monday,8,0,4,4.6,No,1.0,Sí
+TXN000797,CUST000384,55,F,Guadalajara,Ropa,Camisetas,933.88,6,4701.15,16.1,Transferencia,2024-04-13,10,Saturday,4,0,1,3.8,No,1.3,Sí
+TXN000798,CUST000513,27,M,Tijuana,Electrónicos,Tablets,3043.57,2,6087.14,0.0,PayPal,2024-04-07,21,Sunday,4,0,6,4.6,No,0.9,Sí
+TXN000799,CUST000336,34,M,Tijuana,Electrónicos,Smartwatches,2107.82,6,12646.92,0.0,Tarjeta,2024-02-20,12,Tuesday,2,0,3,5.0,No,0.7,No
+TXN000800,CUST000038,42,F,Saltillo,Hogar,Muebles,792.82,1,646.15,18.5,Tarjeta,2024-07-17,19,Wednesday,7,109,3,4.5,No,0.9,Sí
+TXN000801,CUST000609,54,F,Monterrey,Hogar,Jardinería,1625.83,1,1625.83,0.0,Tarjeta,2024-06-19,15,Wednesday,6,0,1,5.0,No,0.9,Sí
+TXN000802,CUST000675,49,M,San Luis Potosí,Libros,Técnicos,313.73,4,1254.92,0.0,Tarjeta,2024-01-12,17,Friday,1,0,13,3.1,No,0.9,Sí
+TXN000803,CUST000329,53,F,Juárez,Libros,Infantiles,685.94,2,1371.88,0.0,Transferencia,2024-04-13,19,Saturday,4,0,7,4.8,No,1.0,Sí
+TXN000804,CUST000281,41,M,Puebla,Hogar,Muebles,1412.91,1,1412.91,0.0,Transferencia,2024-01-08,19,Monday,1,0,6,4.0,No,1.1,Sí
+TXN000805,CUST000563,36,M,Mérida,Belleza,Maquillaje,673.84,2,1347.68,0.0,PayPal,2024-05-18,11,Saturday,5,0,15,2.9,No,1.2,No
+TXN000806,CUST000251,28,M,León,Electrónicos,Audífonos,2066.65,3,6199.95,0.0,Transferencia,2024-02-06,7,Tuesday,2,0,2,4.4,No,0.7,Sí
+TXN000807,CUST000483,29,M,Guadalajara,Electrónicos,Tablets,965.9,2,1694.19,12.3,PayPal,2024-02-24,16,Saturday,2,0,4,3.6,No,0.7,Sí
+TXN000808,CUST000722,51,F,Oaxaca,Deportes,Running,827.69,3,2483.07,0.0,Efectivo,2024-10-30,9,Wednesday,10,0,7,4.8,No,0.9,Sí
+TXN000809,CUST000203,33,F,Cancún,Libros,Infantiles,85.36,3,232.01,9.4,Efectivo,2024-02-10,19,Saturday,2,81,15,4.5,No,1.0,No
+TXN000810,CUST000480,41,F,Puebla,Hogar,Limpieza,1242.0,5,6210.0,0.0,PayPal,2024-08-21,13,Wednesday,8,0,14,3.5,No,1.1,Sí
+TXN000811,CUST000482,43,M,Torreón,Electrónicos,Laptops,397.31,2,794.62,0.0,PayPal,2024-04-24,8,Wednesday,4,148,4,3.3,No,0.9,Sí
+TXN000812,CUST000402,24,M,León,Electrónicos,Audífonos,2907.16,2,5814.32,0.0,PayPal,2024-12-24,20,Tuesday,12,0,4,4.2,No,1.6,Sí
+TXN000813,CUST000031,20,M,Monterrey,Electrónicos,Smartphones,4992.36,4,12980.14,35.0,PayPal,2024-08-31,16,Saturday,8,0,4,4.6,No,1.0,Sí
+TXN000814,CUST000290,27,F,Mexicali,Hogar,Muebles,1476.74,5,5242.43,29.0,PayPal,2024-11-05,13,Tuesday,11,0,14,2.9,No,1.0,No
+TXN000815,CUST000334,41,M,Cancún,Libros,Ficción,129.79,5,648.95,0.0,Efectivo,2024-11-28,9,Thursday,11,138,10,4.8,No,1.0,No
+TXN000816,CUST000424,24,F,Torreón,Libros,No ficción,74.33,8,594.64,0.0,Efectivo,2024-11-13,22,Wednesday,11,131,9,4.2,Sí,1.0,Sí
+TXN000817,CUST000214,18,F,Chihuahua,Electrónicos,Tablets,2307.99,3,6923.97,0.0,Transferencia,2024-08-08,16,Thursday,8,0,4,4.2,No,1.0,No
+TXN000818,CUST000242,50,F,León,Hogar,Decoración,1143.61,4,4574.44,0.0,Tarjeta,2024-12-05,19,Thursday,12,0,14,3.5,No,1.0,Sí
+TXN000819,CUST000499,38,M,Puebla,Libros,Técnicos,292.77,6,1756.62,0.0,Transferencia,2024-10-30,3,Wednesday,10,0,11,2.0,Sí,1.1,No
+TXN000820,CUST000456,29,F,León,Deportes,Running,1203.49,2,2264.97,5.9,Transferencia,2024-06-06,9,Thursday,6,0,4,3.2,No,1.0,No
+TXN000821,CUST000611,35,M,Aguascalientes,Belleza,Skincare,112.41,3,310.93,7.8,Efectivo,2024-06-16,12,Sunday,6,87,12,2.7,No,1.0,Sí
+TXN000822,CUST000652,44,M,Ciudad de México,Electrónicos,Laptops,5132.59,4,20530.36,0.0,PayPal,2024-03-16,15,Saturday,3,0,3,5.0,No,0.9,No
+TXN000823,CUST000592,25,F,Saltillo,Deportes,Fútbol,1606.43,4,6425.72,0.0,Tarjeta,2024-04-10,4,Wednesday,4,0,8,4.6,No,1.2,No
+TXN000824,CUST000696,27,M,San Luis Potosí,Ropa,Vestidos,209.05,6,1254.3,0.0,PayPal,2024-08-10,12,Saturday,8,0,12,2.9,Sí,0.8,No
+TXN000825,CUST000523,37,Other,Aguascalientes,Hogar,Limpieza,2176.08,2,3242.36,25.5,Transferencia,2024-03-06,10,Wednesday,3,0,11,2.8,No,1.2,No
+TXN000826,CUST000001,24,Other,Cancún,Ropa,Camisetas,623.78,3,993.68,46.9,PayPal,2024-07-06,20,Saturday,7,145,9,4.1,No,0.7,No
+TXN000827,CUST000729,25,F,Aguascalientes,Deportes,Running,1346.83,2,2445.84,9.2,Transferencia,2024-07-26,7,Friday,7,0,6,4.0,No,1.0,Sí
+TXN000828,CUST000487,33,M,Tijuana,Electrónicos,Smartwatches,1693.84,4,6775.36,0.0,Tarjeta,2024-04-06,14,Saturday,4,0,4,4.1,No,0.9,Sí
+TXN000829,CUST000158,58,F,San Luis Potosí,Hogar,Decoración,497.69,2,995.38,0.0,Tarjeta,2024-12-13,2,Friday,12,88,14,2.5,No,1.0,Sí
+TXN000830,CUST000674,56,M,Cuernavaca,Libros,Infantiles,796.12,1,796.12,0.0,Tarjeta,2024-03-16,21,Saturday,3,147,9,4.8,No,1.1,Sí
+TXN000831,CUST000466,25,M,Veracruz,Deportes,Running,1020.37,1,879.56,13.8,Tarjeta,2024-08-05,10,Monday,8,98,5,4.2,No,1.0,Sí
+TXN000832,CUST000008,32,F,Chihuahua,Electrónicos,Laptops,2633.11,2,5266.22,0.0,PayPal,2024-09-12,15,Thursday,9,0,4,4.3,No,1.1,Sí
+TXN000833,CUST000560,18,M,Chihuahua,Libros,Ficción,251.78,1,251.78,0.0,Tarjeta,2024-07-06,5,Saturday,7,142,10,4.3,No,1.0,No
+TXN000834,CUST000116,35,F,Chihuahua,Electrónicos,Smartphones,4260.48,6,22111.89,13.5,PayPal,2024-09-03,0,Tuesday,9,0,7,3.2,No,1.1,No
+TXN000835,CUST000769,50,F,Querétaro,Belleza,Cuidado personal,274.3,3,822.9,0.0,Tarjeta,2024-08-26,13,Monday,8,81,6,4.6,No,1.0,Sí
+TXN000836,CUST000760,46,M,Monterrey,Hogar,Muebles,2170.4,2,4340.8,0.0,Tarjeta,2024-12-16,10,Monday,12,0,1,5.0,No,1.0,No
+TXN000837,CUST000548,49,M,Ciudad de México,Libros,Infantiles,1146.79,1,1047.02,8.7,PayPal,2024-08-28,18,Wednesday,8,0,4,4.0,No,1.2,No
+TXN000838,CUST000340,20,M,Cuernavaca,Ropa,Vestidos,674.74,3,1637.59,19.1,Tarjeta,2024-06-29,4,Saturday,6,0,3,5.0,No,0.8,Sí
+TXN000839,CUST000612,25,F,San Luis Potosí,Deportes,Natación,1060.55,2,1923.84,9.3,Transferencia,2024-10-19,15,Saturday,10,0,3,5.0,No,0.9,Sí
+TXN000840,CUST000299,40,F,Oaxaca,Hogar,Cocina,180.08,4,720.32,0.0,PayPal,2024-01-19,10,Friday,1,105,7,3.0,Sí,1.1,Sí
+TXN000841,CUST000288,36,M,Querétaro,Ropa,Camisetas,1374.51,2,2749.02,0.0,PayPal,2024-05-11,20,Saturday,5,0,12,2.9,Sí,1.1,Sí
+TXN000842,CUST000606,42,F,Tijuana,Belleza,Maquillaje,724.42,1,724.42,0.0,PayPal,2024-12-03,9,Tuesday,12,100,10,5.0,No,1.2,Sí
+TXN000843,CUST000541,36,F,Guadalajara,Ropa,Pantalones,558.04,3,1374.45,17.9,Transferencia,2024-06-24,14,Monday,6,0,2,5.0,No,0.8,No
+TXN000844,CUST000771,53,F,Cuernavaca,Hogar,Cocina,1396.39,3,3774.44,9.9,PayPal,2024-07-20,13,Saturday,7,0,14,3.2,No,0.9,Sí
+TXN000845,CUST000056,31,F,Querétaro,Deportes,Fitness,1425.02,3,3680.83,13.9,Tarjeta,2024-02-29,12,Thursday,2,0,9,4.7,No,0.9,Sí
+TXN000846,CUST000488,21,F,Cancún,Libros,Infantiles,574.75,6,3448.5,0.0,Transferencia,2024-04-29,8,Monday,4,0,5,4.5,No,1.0,No
+TXN000847,CUST000446,18,M,Ciudad de México,Hogar,Jardinería,506.1,2,1012.2,0.0,PayPal,2024-05-27,9,Monday,5,0,3,3.2,No,1.0,No
+TXN000848,CUST000700,27,M,Guadalajara,Belleza,Cabello,908.89,4,3635.56,0.0,Tarjeta,2024-02-19,9,Monday,2,0,4,4.2,No,1.2,No
+TXN000849,CUST000668,25,F,Querétaro,Libros,Académicos,609.38,4,2115.77,13.2,Transferencia,2024-06-20,7,Thursday,6,0,4,4.1,No,1.0,No
+TXN000850,CUST000599,37,M,Aguascalientes,Belleza,Maquillaje,717.54,6,4305.24,0.0,Transferencia,2024-08-24,15,Saturday,8,0,12,2.3,No,1.0,Sí
+TXN000851,CUST000533,41,F,Mérida,Libros,No ficción,113.71,3,293.37,14.0,PayPal,2024-12-12,19,Thursday,12,71,13,3.2,Sí,0.9,Sí
+TXN000852,CUST000070,45,F,Ciudad de México,Ropa,Zapatos,309.25,1,157.72,49.0,Transferencia,2024-08-02,12,Friday,8,50,3,5.0,No,0.8,No
+TXN000853,CUST000035,25,F,Ciudad de México,Belleza,Skincare,344.94,2,532.59,22.8,Transferencia,2024-11-13,12,Wednesday,11,50,5,4.7,No,1.1,No
+TXN000854,CUST000223,32,F,Oaxaca,Electrónicos,Smartphones,3433.96,4,13735.84,0.0,Transferencia,2024-11-22,21,Friday,11,0,2,4.2,Sí,1.4,No
+TXN000855,CUST000620,18,F,Tijuana,Electrónicos,Smartwatches,1678.02,4,6712.08,0.0,Transferencia,2024-07-11,6,Thursday,7,0,3,5.0,No,1.0,Sí
+TXN000856,CUST000713,18,M,León,Ropa,Vestidos,577.75,2,715.25,38.1,PayPal,2024-05-09,9,Thursday,5,79,13,2.9,No,1.1,Sí
+TXN000857,CUST000284,51,F,Cuernavaca,Electrónicos,Audífonos,2608.56,3,5869.26,25.0,Tarjeta,2024-12-20,6,Friday,12,0,8,5.0,Sí,1.6,No
+TXN000858,CUST000796,49,M,Guadalajara,Hogar,Decoración,1940.13,5,8051.54,17.0,PayPal,2024-07-14,22,Sunday,7,0,3,5.0,No,0.9,No
+TXN000859,CUST000072,42,M,Villahermosa,Electrónicos,Smartwatches,3705.81,5,18529.05,0.0,Tarjeta,2024-04-12,10,Friday,4,0,7,3.7,No,0.9,No
+TXN000860,CUST000148,33,F,Cancún,Electrónicos,Laptops,1183.33,3,3549.99,0.0,Transferencia,2024-08-08,13,Thursday,8,0,2,3.7,No,1.0,No
+TXN000861,CUST000733,32,M,Querétaro,Electrónicos,Smartphones,1927.89,2,2382.87,38.2,Tarjeta,2024-02-22,23,Thursday,2,0,6,3.8,No,0.7,No
+TXN000862,CUST000796,50,F,Saltillo,Libros,Infantiles,329.85,6,1622.86,18.0,Tarjeta,2024-01-10,17,Wednesday,1,0,13,4.8,Sí,0.9,Sí
+TXN000863,CUST000039,59,Other,Aguascalientes,Hogar,Cocina,197.37,5,986.85,0.0,Transferencia,2024-05-16,11,Thursday,5,120,12,4.6,Sí,1.0,Sí
+TXN000864,CUST000725,33,M,Villahermosa,Electrónicos,Smartphones,1620.47,6,9722.82,0.0,Tarjeta,2024-09-01,19,Sunday,9,0,2,5.0,No,1.1,Sí
+TXN000865,CUST000706,38,M,Villahermosa,Libros,Académicos,522.6,3,1439.24,8.2,Transferencia,2024-03-03,21,Sunday,3,0,7,4.4,No,1.1,Sí
+TXN000866,CUST000648,34,M,Monterrey,Electrónicos,Smartwatches,3242.87,2,6485.74,0.0,Tarjeta,2024-07-06,9,Saturday,7,0,3,5.0,No,1.0,Sí
+TXN000867,CUST000471,52,M,San Luis Potosí,Electrónicos,Laptops,3213.49,4,9897.55,23.0,Transferencia,2024-11-27,22,Wednesday,11,0,2,5.0,No,1.4,Sí
+TXN000868,CUST000677,25,F,Juárez,Libros,Ficción,498.25,1,498.25,0.0,Efectivo,2024-06-02,11,Sunday,6,115,10,4.0,Sí,1.0,Sí
+TXN000869,CUST000648,48,M,Saltillo,Electrónicos,Smartphones,1362.57,3,4087.71,0.0,PayPal,2024-04-12,1,Friday,4,0,6,5.0,No,0.9,Sí
+TXN000870,CUST000399,34,M,Monterrey,Hogar,Limpieza,1396.24,7,9773.68,0.0,Tarjeta,2024-10-03,23,Thursday,10,0,4,5.0,No,1.0,Sí
+TXN000871,CUST000017,18,M,Guadalajara,Electrónicos,Smartphones,3811.47,10,35294.21,7.4,PayPal,2024-06-22,22,Saturday,6,0,1,4.3,No,1.0,Sí
+TXN000872,CUST000217,30,M,Veracruz,Ropa,Accesorios,195.93,3,306.83,47.8,Tarjeta,2024-08-22,7,Thursday,8,144,6,4.9,No,0.8,Sí
+TXN000873,CUST000038,53,M,Tijuana,Hogar,Decoración,1063.26,9,9569.34,0.0,Tarjeta,2024-09-07,19,Saturday,9,0,12,2.5,Sí,1.0,Sí
+TXN000874,CUST000719,18,M,Tijuana,Ropa,Vestidos,743.58,3,2230.74,0.0,Transferencia,2024-01-12,11,Friday,1,0,4,4.3,No,0.8,No
+TXN000875,CUST000175,18,M,Chihuahua,Electrónicos,Smartphones,1168.21,4,3294.35,29.5,PayPal,2024-02-02,21,Friday,2,0,6,5.0,No,0.7,No
+TXN000876,CUST000226,35,M,Monterrey,Deportes,Running,1421.73,3,4265.19,0.0,PayPal,2024-04-13,9,Saturday,4,0,4,3.7,No,1.2,No
+TXN000877,CUST000701,42,M,Chihuahua,Belleza,Skincare,196.72,3,590.16,0.0,PayPal,2024-10-11,20,Friday,10,112,4,4.7,No,1.0,Sí
+TXN000878,CUST000145,43,M,Cuernavaca,Libros,Académicos,716.96,6,4301.76,0.0,Tarjeta,2024-03-27,5,Wednesday,3,0,10,3.3,No,1.1,No
+TXN000879,CUST000596,37,M,Guadalajara,Electrónicos,Smartphones,639.25,3,1917.75,0.0,PayPal,2024-03-09,17,Saturday,3,0,5,3.4,No,0.9,No
+TXN000880,CUST000162,48,M,Ciudad de México,Ropa,Camisetas,506.55,10,3996.68,21.1,Tarjeta,2024-09-06,16,Friday,9,0,2,5.0,No,1.1,Sí
+TXN000881,CUST000724,41,F,Chihuahua,Electrónicos,Tablets,3381.42,2,6762.84,0.0,Transferencia,2024-05-25,19,Saturday,5,0,8,3.3,No,1.0,Sí
+TXN000882,CUST000709,27,F,Tijuana,Ropa,Accesorios,498.86,3,1243.66,16.9,Tarjeta,2024-04-20,7,Saturday,4,0,6,5.0,No,1.3,Sí
+TXN000883,CUST000626,36,M,Guadalajara,Ropa,Pantalones,681.85,1,681.85,0.0,PayPal,2024-11-01,7,Friday,11,50,5,3.9,No,1.0,Sí
+TXN000884,CUST000643,52,F,San Luis Potosí,Hogar,Jardinería,1809.99,3,3877.0,28.6,Efectivo,2024-06-27,2,Thursday,6,0,6,4.7,No,0.9,Sí
+TXN000885,CUST000543,38,M,Puebla,Ropa,Accesorios,757.29,1,757.29,0.0,Transferencia,2024-11-12,12,Tuesday,11,129,15,3.4,No,1.0,Sí
+TXN000886,CUST000214,31,F,Querétaro,Libros,Infantiles,73.27,2,132.33,9.7,Tarjeta,2024-02-02,11,Friday,2,90,13,3.9,No,1.0,Sí
+TXN000887,CUST000056,53,F,Mexicali,Ropa,Pantalones,672.54,10,4371.51,35.0,PayPal,2024-05-25,9,Saturday,5,0,8,4.0,No,1.1,Sí
+TXN000888,CUST000777,28,F,Saltillo,Electrónicos,Smartwatches,2387.08,4,7361.75,22.9,Tarjeta,2024-01-26,19,Friday,1,0,8,3.8,Sí,0.8,No
+TXN000889,CUST000528,35,F,Puebla,Ropa,Zapatos,1002.8,5,4131.54,17.6,Tarjeta,2024-02-06,19,Tuesday,2,0,8,4.2,No,0.9,No
+TXN000890,CUST000766,18,F,Mérida,Electrónicos,Smartphones,3284.87,2,6569.74,0.0,Tarjeta,2024-04-27,23,Saturday,4,0,2,5.0,No,0.9,Sí
+TXN000891,CUST000423,21,F,Juárez,Ropa,Pantalones,591.6,1,353.78,40.2,Transferencia,2024-07-11,13,Thursday,7,144,10,4.9,Sí,0.7,Sí
+TXN000892,CUST000447,21,M,Tijuana,Deportes,Natación,1089.5,3,3268.5,0.0,Tarjeta,2024-04-20,8,Saturday,4,0,9,3.4,No,1.2,No
+TXN000893,CUST000469,45,M,Juárez,Ropa,Vestidos,961.58,1,863.5,10.2,Tarjeta,2024-11-19,18,Tuesday,11,86,3,5.0,No,1.0,Sí
+TXN000894,CUST000062,18,M,Querétaro,Libros,Infantiles,647.03,6,3882.18,0.0,Tarjeta,2024-03-16,10,Saturday,3,0,15,3.3,No,1.1,Sí
+TXN000895,CUST000303,44,M,Oaxaca,Deportes,Natación,416.04,1,416.04,0.0,Transferencia,2024-03-21,13,Thursday,3,143,11,3.3,No,1.0,Sí
+TXN000896,CUST000089,40,F,Cuernavaca,Deportes,Fútbol,1037.44,4,4149.76,0.0,Efectivo,2024-09-24,5,Tuesday,9,0,10,3.2,No,0.9,Sí
+TXN000897,CUST000748,42,M,Cuernavaca,Electrónicos,Smartwatches,739.54,3,1644.0,25.9,Tarjeta,2024-05-11,14,Saturday,5,0,6,4.2,No,1.0,No
+TXN000898,CUST000588,38,M,Ciudad de México,Libros,Ficción,640.19,6,3610.67,6.0,Tarjeta,2024-08-01,19,Thursday,8,0,4,3.8,No,1.2,No
+TXN000899,CUST000517,34,F,Guadalajara,Libros,Infantiles,151.4,6,908.4,0.0,Tarjeta,2024-08-05,22,Monday,8,50,1,5.0,No,1.2,Sí
+TXN000900,CUST000247,31,F,Monterrey,Ropa,Camisetas,753.6,7,5275.2,0.0,PayPal,2024-10-12,13,Saturday,10,0,4,4.8,No,1.2,Sí
+TXN000901,CUST000136,26,F,Mexicali,Electrónicos,Laptops,1258.47,3,3775.41,0.0,Tarjeta,2024-05-31,16,Friday,5,0,2,5.0,Sí,1.0,Sí
+TXN000902,CUST000686,33,F,San Luis Potosí,Electrónicos,Tablets,1164.73,4,4658.92,0.0,Transferencia,2024-03-23,5,Saturday,3,0,7,3.5,No,0.9,Sí
+TXN000903,CUST000466,35,F,Saltillo,Belleza,Fragancias,224.08,1,206.38,7.9,Tarjeta,2024-03-11,10,Monday,3,117,13,3.5,No,1.1,Sí
+TXN000904,CUST000649,36,Other,Ciudad de México,Ropa,Accesorios,614.78,1,539.16,12.3,Tarjeta,2024-11-23,12,Saturday,11,50,4,4.8,No,1.0,Sí
+TXN000905,CUST000715,24,M,Oaxaca,Electrónicos,Smartwatches,1657.06,7,11599.42,0.0,Efectivo,2024-10-04,13,Friday,10,0,8,4.2,No,1.1,Sí
+TXN000906,CUST000636,39,F,Mérida,Libros,Académicos,451.01,1,451.01,0.0,PayPal,2024-01-29,21,Monday,1,84,9,4.4,No,0.9,No
+TXN000907,CUST000634,25,F,Guadalajara,Libros,Académicos,63.6,1,50.37,20.8,PayPal,2024-07-06,14,Saturday,7,50,5,4.4,No,1.0,Sí
+TXN000908,CUST000575,34,M,Juárez,Libros,No ficción,654.01,4,2616.04,0.0,PayPal,2024-03-11,15,Monday,3,0,13,3.0,No,1.1,No
+TXN000909,CUST000771,43,Other,Chihuahua,Ropa,Pantalones,742.24,2,1484.48,0.0,Tarjeta,2024-12-25,14,Wednesday,12,0,15,4.6,No,1.1,Sí
+TXN000910,CUST000362,32,F,Querétaro,Ropa,Zapatos,606.06,3,1374.54,24.4,Efectivo,2024-09-14,14,Saturday,9,0,4,5.0,No,1.1,Sí
+TXN000911,CUST000464,40,M,Villahermosa,Hogar,Muebles,1397.38,2,2794.76,0.0,Tarjeta,2024-09-13,23,Friday,9,0,10,3.4,No,1.0,No
+TXN000912,CUST000695,42,F,Cancún,Ropa,Zapatos,1472.05,5,7360.25,0.0,PayPal,2024-05-29,6,Wednesday,5,0,15,3.4,No,1.1,Sí
+TXN000913,CUST000710,34,M,Monterrey,Ropa,Zapatos,1554.78,2,2114.5,32.0,PayPal,2024-04-06,12,Saturday,4,0,4,4.6,No,1.3,Sí
+TXN000914,CUST000296,18,M,Monterrey,Deportes,Fútbol,169.19,6,1015.14,0.0,PayPal,2024-03-01,10,Friday,3,0,2,4.2,No,1.0,No
+TXN000915,CUST000643,34,M,Ciudad de México,Belleza,Fragancias,802.49,3,2407.47,0.0,Tarjeta,2024-05-30,20,Thursday,5,0,5,3.5,No,1.2,Sí
+TXN000916,CUST000486,39,M,Mexicali,Hogar,Jardinería,1277.11,3,3831.33,0.0,Tarjeta,2024-08-03,11,Saturday,8,0,3,4.7,No,1.1,No
+TXN000917,CUST000065,39,F,Ciudad de México,Hogar,Muebles,393.33,3,1179.99,0.0,Tarjeta,2024-04-28,17,Sunday,4,0,4,2.7,No,1.0,No
+TXN000918,CUST000672,32,M,Mérida,Libros,Técnicos,759.64,3,2278.92,0.0,Tarjeta,2024-09-05,20,Thursday,9,0,11,3.7,No,1.3,Sí
+TXN000919,CUST000456,21,M,Saltillo,Ropa,Vestidos,467.07,2,839.79,10.1,Efectivo,2024-06-04,18,Tuesday,6,103,6,4.4,No,0.8,Sí
+TXN000920,CUST000296,37,F,Guadalajara,Libros,Académicos,204.0,1,179.93,11.8,Transferencia,2024-03-16,19,Saturday,3,50,2,5.0,No,1.1,Sí
+TXN000921,CUST000165,42,F,Cancún,Libros,No ficción,507.09,2,766.72,24.4,Transferencia,2024-05-31,13,Friday,5,84,3,5.0,No,1.0,Sí
+TXN000922,CUST000589,20,F,Tijuana,Ropa,Pantalones,432.23,3,888.23,31.5,PayPal,2024-08-16,10,Friday,8,74,13,2.9,No,0.8,Sí
+TXN000923,CUST000353,46,F,Tijuana,Libros,No ficción,765.32,3,1868.91,18.6,PayPal,2024-07-09,12,Tuesday,7,0,4,5.0,No,1.0,Sí
+TXN000924,CUST000415,50,F,Villahermosa,Libros,Infantiles,297.56,2,595.12,0.0,PayPal,2024-03-15,8,Friday,3,89,3,4.8,No,1.1,Sí
+TXN000925,CUST000560,20,F,Veracruz,Libros,Académicos,164.41,4,507.04,22.9,Transferencia,2024-06-18,7,Tuesday,6,107,15,5.0,No,1.0,Sí
+TXN000926,CUST000588,29,F,Tijuana,Belleza,Fragancias,298.23,2,596.46,0.0,Tarjeta,2024-10-16,12,Wednesday,10,84,14,2.9,No,1.0,Sí
+TXN000927,CUST000042,35,F,Tijuana,Belleza,Cuidado personal,616.86,1,500.89,18.8,PayPal,2024-12-13,11,Friday,12,73,9,4.5,No,1.2,Sí
+TXN000928,CUST000226,48,M,Saltillo,Hogar,Muebles,1424.96,3,4274.88,0.0,PayPal,2024-07-05,8,Friday,7,0,12,2.5,No,0.9,Sí
+TXN000929,CUST000786,30,M,Querétaro,Libros,Ficción,696.22,1,586.22,15.8,PayPal,2024-04-10,13,Wednesday,4,127,13,3.9,No,1.0,Sí
+TXN000930,CUST000090,26,F,Veracruz,Hogar,Cocina,841.97,4,3367.88,0.0,Transferencia,2024-07-20,12,Saturday,7,0,12,3.2,No,0.9,Sí
+TXN000931,CUST000058,27,Other,Mexicali,Electrónicos,Audífonos,662.01,3,1513.35,23.8,Transferencia,2024-07-27,20,Saturday,7,0,2,3.7,No,1.0,Sí
+TXN000932,CUST000360,18,F,San Luis Potosí,Deportes,Natación,760.24,3,2002.47,12.2,PayPal,2024-08-16,9,Friday,8,0,14,4.9,No,1.0,No
+TXN000933,CUST000760,18,F,Cuernavaca,Deportes,Basketball,743.27,3,2109.4,5.4,Tarjeta,2024-08-14,14,Wednesday,8,0,14,3.9,No,1.0,Sí
+TXN000934,CUST000435,26,M,Cuernavaca,Hogar,Muebles,1769.47,3,4490.91,15.4,Tarjeta,2024-03-12,19,Tuesday,3,0,6,3.6,No,1.2,Sí
+TXN000935,CUST000538,21,M,Mérida,Electrónicos,Smartwatches,1934.15,6,11604.9,0.0,Transferencia,2024-02-03,13,Saturday,2,0,2,4.4,Sí,0.7,Sí
+TXN000936,CUST000655,59,F,Querétaro,Libros,No ficción,646.66,3,1639.28,15.5,Tarjeta,2024-07-31,9,Wednesday,7,0,14,3.9,No,1.0,Sí
+TXN000937,CUST000141,52,F,Juárez,Deportes,Running,161.71,3,353.17,27.2,Tarjeta,2024-04-05,13,Friday,4,132,3,4.7,No,1.2,Sí
+TXN000938,CUST000310,30,M,Chihuahua,Libros,Infantiles,51.25,2,95.43,6.9,Transferencia,2024-06-04,9,Tuesday,6,70,5,5.0,No,1.0,Sí
+TXN000939,CUST000656,32,F,Villahermosa,Electrónicos,Audífonos,642.69,1,642.69,0.0,Tarjeta,2024-03-04,19,Monday,3,132,7,5.0,No,0.9,Sí
+TXN000940,CUST000030,36,F,Puebla,Belleza,Skincare,594.72,1,594.72,0.0,Tarjeta,2024-05-21,13,Tuesday,5,116,12,4.8,No,1.2,Sí
+TXN000941,CUST000447,65,M,Querétaro,Electrónicos,Smartphones,6204.25,2,12408.5,0.0,Tarjeta,2024-11-17,11,Sunday,11,0,7,4.5,No,1.4,Sí
+TXN000942,CUST000266,18,M,León,Ropa,Camisetas,1153.4,4,3049.59,33.9,Tarjeta,2024-10-24,21,Thursday,10,0,10,2.2,No,1.2,No
+TXN000943,CUST000139,50,M,Mexicali,Hogar,Jardinería,2184.95,1,2184.95,0.0,PayPal,2024-03-30,14,Saturday,3,0,8,3.8,Sí,1.2,No
+TXN000944,CUST000299,42,F,Veracruz,Ropa,Camisetas,1055.82,7,7390.74,0.0,Transferencia,2024-11-23,12,Saturday,11,0,15,2.9,No,1.0,Sí
+TXN000945,CUST000784,22,M,Puebla,Deportes,Fútbol,790.09,2,1580.18,0.0,PayPal,2024-11-02,15,Saturday,11,0,8,4.7,No,0.9,Sí
+TXN000946,CUST000702,48,F,San Luis Potosí,Hogar,Limpieza,1427.32,2,2083.89,27.0,PayPal,2024-05-18,11,Saturday,5,0,12,3.8,No,1.0,Sí
+TXN000947,CUST000148,18,F,Ciudad de México,Libros,Académicos,450.15,4,1800.6,0.0,PayPal,2024-03-11,8,Monday,3,0,4,4.3,No,1.1,Sí
+TXN000948,CUST000167,42,M,Puebla,Hogar,Cocina,1688.98,3,5066.94,0.0,Tarjeta,2024-04-26,17,Friday,4,0,11,4.5,No,1.0,No
+TXN000949,CUST000539,31,M,Cancún,Electrónicos,Smartphones,2432.74,4,9730.96,0.0,Efectivo,2024-12-30,3,Monday,12,0,2,4.9,No,1.6,Sí
+TXN000950,CUST000135,27,M,Ciudad de México,Electrónicos,Audífonos,2737.72,1,1771.3,35.3,PayPal,2024-09-02,8,Monday,9,0,4,4.7,No,1.1,Sí
+TXN000951,CUST000612,20,F,Veracruz,Ropa,Camisetas,537.84,1,412.52,23.3,Tarjeta,2024-06-29,5,Saturday,6,85,6,4.2,No,0.8,Sí
+TXN000952,CUST000711,47,F,Tijuana,Electrónicos,Laptops,3524.69,1,3524.69,0.0,Transferencia,2024-12-18,9,Wednesday,12,0,3,5.0,No,1.6,Sí
+TXN000953,CUST000081,43,M,Cuernavaca,Deportes,Fitness,718.92,4,2539.23,11.7,Efectivo,2024-12-19,23,Thursday,12,0,15,3.8,No,0.8,Sí
+TXN000954,CUST000442,23,F,Guadalajara,Deportes,Fitness,1442.41,3,3349.28,22.6,Efectivo,2024-04-10,20,Wednesday,4,0,5,4.1,No,1.2,Sí
+TXN000955,CUST000481,35,F,Puebla,Electrónicos,Smartphones,2901.97,3,7948.5,8.7,PayPal,2024-05-09,9,Thursday,5,0,7,3.4,Sí,1.0,Sí
+TXN000956,CUST000099,28,M,Puebla,Deportes,Fútbol,496.53,1,496.53,0.0,Tarjeta,2024-11-08,7,Friday,11,73,4,4.7,No,0.9,Sí
+TXN000957,CUST000765,35,M,Querétaro,Deportes,Basketball,857.14,2,1714.28,0.0,Tarjeta,2024-10-23,10,Wednesday,10,0,11,4.7,No,0.9,Sí
+TXN000958,CUST000628,37,F,Torreón,Hogar,Decoración,947.15,1,947.15,0.0,Efectivo,2024-09-15,7,Sunday,9,71,11,2.6,Sí,1.0,Sí
+TXN000959,CUST000197,48,M,San Luis Potosí,Hogar,Muebles,324.58,4,1217.82,6.2,Tarjeta,2024-03-28,8,Thursday,3,0,14,3.5,Sí,1.2,No
+TXN000960,CUST000220,40,F,Veracruz,Hogar,Jardinería,714.42,5,3572.1,0.0,Transferencia,2024-12-28,9,Saturday,12,0,12,2.6,Sí,1.0,No
+TXN000961,CUST000690,44,M,Puebla,Electrónicos,Tablets,2336.83,3,7010.49,0.0,Transferencia,2024-04-02,17,Tuesday,4,0,6,3.7,No,0.9,No
+TXN000962,CUST000116,21,F,Mérida,Electrónicos,Smartwatches,1046.21,3,2385.36,24.0,PayPal,2024-03-04,12,Monday,3,0,8,5.0,No,0.9,Sí
+TXN000963,CUST000296,38,F,Cancún,Libros,Ficción,568.32,7,3457.09,13.1,Efectivo,2024-01-27,19,Saturday,1,0,10,3.5,No,0.9,Sí
+TXN000964,CUST000320,41,M,Saltillo,Belleza,Cuidado personal,587.71,3,1763.13,0.0,PayPal,2024-04-25,23,Thursday,4,0,9,3.5,Sí,1.0,Sí
+TXN000965,CUST000072,39,M,Villahermosa,Electrónicos,Audífonos,4957.28,2,6979.85,29.6,Efectivo,2024-12-13,9,Friday,12,0,7,4.5,No,1.6,Sí
+TXN000966,CUST000108,26,F,Aguascalientes,Hogar,Decoración,1715.53,1,1327.82,22.6,Tarjeta,2024-08-12,12,Monday,8,0,9,4.7,No,1.1,Sí
+TXN000967,CUST000605,30,F,Puebla,Electrónicos,Smartphones,2734.13,5,13670.65,0.0,Tarjeta,2024-03-27,21,Wednesday,3,0,3,5.0,No,0.9,No
+TXN000968,CUST000610,33,M,Aguascalientes,Ropa,Zapatos,877.86,4,2173.58,38.1,Tarjeta,2024-03-09,11,Saturday,3,0,14,4.5,No,1.2,No
+TXN000969,CUST000608,20,M,Querétaro,Ropa,Vestidos,336.65,3,752.41,25.5,PayPal,2024-11-25,17,Monday,11,147,9,5.0,No,1.0,No
+TXN000970,CUST000524,37,M,Querétaro,Belleza,Fragancias,901.76,5,3435.71,23.8,Tarjeta,2024-03-16,8,Saturday,3,0,7,4.6,No,1.1,Sí
+TXN000971,CUST000237,18,M,Tijuana,Deportes,Fitness,1219.47,5,6097.35,0.0,PayPal,2024-01-19,18,Friday,1,0,3,4.5,No,1.3,No
+TXN000972,CUST000392,35,F,Oaxaca,Hogar,Limpieza,567.58,3,1534.17,9.9,Transferencia,2024-12-13,13,Friday,12,0,12,2.7,No,1.0,Sí
+TXN000973,CUST000779,19,F,Monterrey,Ropa,Accesorios,1348.16,2,2696.32,0.0,PayPal,2024-12-04,19,Wednesday,12,0,4,4.5,No,1.1,Sí
+TXN000974,CUST000678,35,M,Villahermosa,Deportes,Natación,793.95,6,4763.7,0.0,PayPal,2024-09-08,11,Sunday,9,0,11,3.1,No,0.9,Sí
+TXN000975,CUST000783,18,F,Guadalajara,Ropa,Camisetas,905.98,7,3912.93,38.3,Tarjeta,2024-08-08,13,Thursday,8,0,3,5.0,No,0.8,Sí
+TXN000976,CUST000454,46,F,Saltillo,Libros,Ficción,323.03,1,227.09,29.7,Transferencia,2024-01-19,12,Friday,1,108,14,3.2,Sí,0.9,No
+TXN000977,CUST000442,21,F,Tijuana,Deportes,Running,1091.62,3,3274.86,0.0,PayPal,2024-06-08,16,Saturday,6,0,4,4.5,No,1.0,Sí
+TXN000978,CUST000503,18,M,Cancún,Electrónicos,Tablets,5961.48,3,17884.44,0.0,Tarjeta,2024-12-16,7,Monday,12,0,8,5.0,No,1.6,Sí
+TXN000979,CUST000058,48,F,Aguascalientes,Libros,Infantiles,594.03,2,1188.06,0.0,Tarjeta,2024-05-14,14,Tuesday,5,0,8,4.0,No,1.0,Sí
+TXN000980,CUST000292,33,F,Mérida,Hogar,Decoración,325.8,5,1629.0,0.0,Tarjeta,2024-02-01,14,Thursday,2,0,5,3.4,No,0.9,No
+TXN000981,CUST000358,23,M,Chihuahua,Electrónicos,Audífonos,460.97,2,921.94,0.0,Transferencia,2024-01-14,20,Sunday,1,124,4,3.7,No,0.8,No
+TXN000982,CUST000422,27,Other,Mexicali,Hogar,Cocina,480.23,4,1920.92,0.0,Transferencia,2024-01-29,12,Monday,1,0,7,3.4,No,1.1,No
+TXN000983,CUST000705,40,F,Monterrey,Belleza,Skincare,606.73,6,3068.84,15.7,Efectivo,2024-06-05,13,Wednesday,6,0,1,3.9,No,1.0,Sí
+TXN000984,CUST000039,24,M,Saltillo,Ropa,Accesorios,1061.68,2,2123.36,0.0,Transferencia,2024-12-02,21,Monday,12,0,9,5.0,No,1.1,Sí
+TXN000985,CUST000713,29,M,Villahermosa,Electrónicos,Tablets,1765.22,3,5295.66,0.0,Tarjeta,2024-11-02,11,Saturday,11,0,4,4.8,No,1.4,Sí
+TXN000986,CUST000501,18,F,Puebla,Libros,No ficción,458.74,4,1603.76,12.6,Transferencia,2024-12-19,15,Thursday,12,0,11,3.3,No,0.9,No
+TXN000987,CUST000684,46,M,Mérida,Electrónicos,Audífonos,3077.09,3,9231.27,0.0,Tarjeta,2024-03-26,14,Tuesday,3,0,3,4.3,No,0.9,No
+TXN000988,CUST000078,37,F,Cancún,Deportes,Basketball,357.44,2,604.07,15.5,PayPal,2024-04-19,5,Friday,4,108,12,2.6,No,1.2,Sí
+TXN000989,CUST000232,25,F,Oaxaca,Electrónicos,Smartwatches,2392.74,3,4744.8,33.9,Transferencia,2024-02-17,6,Saturday,2,0,4,4.8,No,0.7,Sí
+TXN000990,CUST000581,34,F,Veracruz,Ropa,Zapatos,664.84,3,1258.54,36.9,Tarjeta,2024-08-31,12,Saturday,8,0,15,3.4,Sí,0.8,Sí
+TXN000991,CUST000310,40,F,Veracruz,Hogar,Muebles,153.27,3,459.81,0.0,Transferencia,2024-06-02,21,Sunday,6,123,9,4.6,No,0.9,Sí
+TXN000992,CUST000528,20,M,Saltillo,Electrónicos,Laptops,1246.95,4,4987.8,0.0,Tarjeta,2024-12-09,12,Monday,12,0,7,5.0,No,1.6,Sí
+TXN000993,CUST000192,38,Other,Chihuahua,Deportes,Fútbol,1252.52,2,2505.04,0.0,Tarjeta,2024-09-12,16,Thursday,9,0,14,3.5,No,0.9,Sí
+TXN000994,CUST000275,25,M,Cancún,Belleza,Fragancias,364.92,3,1094.76,0.0,PayPal,2024-11-10,7,Sunday,11,0,14,2.8,No,1.1,Sí
+TXN000995,CUST000535,41,M,Juárez,Hogar,Jardinería,1374.87,1,1097.15,20.2,Tarjeta,2024-07-05,18,Friday,7,0,5,3.3,No,0.9,No
+TXN000996,CUST000784,49,F,San Luis Potosí,Electrónicos,Tablets,1258.94,2,1848.12,26.6,Tarjeta,2024-08-10,10,Saturday,8,0,8,5.0,No,1.0,Sí
+TXN000997,CUST000650,23,M,Juárez,Electrónicos,Laptops,3420.77,5,15632.92,8.6,Transferencia,2024-08-03,15,Saturday,8,0,6,5.0,No,1.0,Sí
+TXN000998,CUST000245,28,M,Puebla,Electrónicos,Audífonos,2888.28,2,5776.56,0.0,Tarjeta,2024-03-22,13,Friday,3,0,6,4.7,No,0.9,Sí
+TXN000999,CUST000433,35,M,Guadalajara,Hogar,Cocina,2070.07,1,2070.07,0.0,PayPal,2024-04-13,16,Saturday,4,0,1,5.0,No,1.0,Sí
+TXN001000,CUST000285,45,M,Cancún,Electrónicos,Smartphones,795.05,3,2385.15,0.0,PayPal,2024-03-31,11,Sunday,3,0,5,4.3,No,0.9,Sí
