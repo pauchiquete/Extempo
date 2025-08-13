@@ -145,7 +145,16 @@
             margin: 40px 0;
         }
         
-        /* Clase para imágenes adaptables */
+        .chart-placeholder {
+            background: #f8f9fa;
+            border: 2px dashed #667eea;
+            border-radius: 10px;
+            padding: 40px;
+            margin: 20px 0;
+            font-style: italic;
+            color: #666;
+        }
+        
         .responsive-img {
             max-width: 100%;
             height: auto;
@@ -297,4 +306,387 @@
     </style>
 </head>
 <body>
-    <!-- Aquí seguiría el contenido de tus slides con todas las imágenes cambiadas a class="responsive-img" -->
+    <div class="presentation-container">
+        
+        <!-- Slide 1: Portada -->
+        <div class="slide portada active">
+            <div class="slide-number">1/12</div>
+            <h1>Análisis de Ventas E-commerce 2024</h1>
+            <p style="font-size: 1.5rem; margin-bottom: 40px;">Herramientas de Visualización - Ingeniería de Datos</p>
+            
+            <div class="student-info">
+                <h3>Información del Estudiante</h3>
+                <p><strong>Nombre:</strong> Paulina Chiquete Ayala</p>
+                <p><strong>Matrícula:</strong> 2109037 </p>
+                <p><strong>Fecha:</strong> 12/08/2025</p>
+            </div>
+        </div>
+
+        <!-- Slide 2: Resumen Ejecutivo -->
+        <div class="slide">
+            <div class="slide-number">2/12</div>
+            <h2>Resumen Ejecutivo</h2>
+            
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-value">$3,169,568.2</div>
+                    <div class="metric-label">Ventas Totales MXN</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">1,000</div>
+                    <div class="metric-label">Transacciones</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">$3,169.5682</div>
+                    <div class="metric-label">Ticket Promedio</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-value">4.1/5</div>
+                    <div class="metric-label">Satisfacción Promedio</div>
+                </div>
+            </div>
+            
+            <div class="insight-box">
+                <h4>Hallazgo Principal</h4>
+                <p>La categoría de Electrónicos representa el mayor volumen de ventas con 54% del total, seguida por Hogar con 15.4%. La satisfacción del cliente mantiene un nivel saludable de 4.1/5, con oportunidades de mejora en tiempos de entrega.</p>
+            </div>
+        </div>
+
+        <!-- Slide 3: Metodología -->
+        <div class="slide">
+            <div class="slide-number">3/12</div>
+            <h2>Metodología Utilizada</h2>
+            
+            <div class="two-column">
+                <div>
+                    <h3>Herramientas Empleadas</h3>
+                    <ul>
+                        <li>Python (pandas, matplotlib, seaborn, plotly)</li>
+                        <li>Análisis exploratorio de datos (EDA)</li>
+                        <li>Visualizaciones estáticas e interactivas</li>
+                        <li>Análisis de correlaciones</li>
+                        <li>Segmentación de clientes</li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h3>Proceso de Análisis</h3>
+                    <ul>
+                        <li>Limpieza y preparación de datos</li>
+                        <li>Creación de variables derivadas</li>
+                        <li>Análisis estadístico descriptivo</li>
+                        <li>Generación de visualizaciones</li>
+                        <li>Identificación de patrones y tendencias</li>
+                        <li>Formulación de recomendaciones</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 4: Análisis Temporal -->
+        <div class="slide">
+            <div class="slide-number">4/12</div>
+            <h2>Patrones Temporales de Ventas</h2>
+            
+            <div class="chart-container">
+                <div class="chart-placeholder">
+                    <img class="responsive-img" src="linea_ventas_mes.png" alt="Ventas por mes">
+                </div>
+            </div>
+            
+            <div class="insight-box">
+                <h4>Insights Temporales</h4>
+                <p><strong>Mes Pico:</strong> Octubre concentra el mayor volumen de ventas</p>
+                <p><strong>Horas de Mayor Actividad:</strong> 13:00 hrs</p>
+                <p><strong>Patrón Estacional:</strong> Se observa un incremento en ventas durante el periodo de Octubre a Diciembre</p>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-placeholder">
+                    <img class="responsive-img" src="analisis_adicional_multiples.png">
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 5: Análisis por Categorías -->
+        <div class="slide">
+            <div class="slide-number">5/12</div>
+            <h2>Performance por Categoría</h2>
+            
+            <div class="chart-container">
+                <div class="chart-placeholder">
+                    <img class="responsive-img" src="barras_ventas_categoria.png">
+                </div>
+            </div>
+            
+            <div class="two-column">
+                <div class="insight-box">
+                    <h4>Categorías Líderes</h4>
+                    <p><strong>1. Electrónicos:</strong> $1,713,155 MXN</p>
+                    <p><strong>2. Hogar:</strong> $487,939 MXN</p>
+                    <p><strong>3. Ropa:</strong> $323,709 MXN</p>
+                </div>
+                
+                <div class="insight-box">
+                    <h4>Análisis de Satisfacción</h4>
+                    <p>Las categorías con mayor satisfacción son Electrónicos, mientras que Hogar presenta oportunidades de mejora.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 6: Perfil de Clientes -->
+        <div class="slide">
+            <div class="slide-number">6/12</div>
+            <h2>Perfil Demográfico de Clientes</h2>
+            
+            <div class="chart-container">
+                <div class="chart-placeholder">
+                    <img class="responsive-img" src="histogramas_distribucion.png">
+                </div>
+            </div>
+            
+            <div class="two-column">
+                <div class="insight-box">
+                    <h4>Segmento Más Rentable</h4>
+                    <p><strong>Grupo de Edad:</strong> 25-34 años</p>
+                    <p><strong>Género:</strong> M </p>
+                    <p><strong>Ticket Promedio:</strong> $3917.08</p>
+                    <p><strong>Satisfacción:</strong> 4.24/5</p>
+                </div>
+                
+                <div class="insight-box">
+                    <h4>Distribución por Género</h4>
+                    <p><strong>Mujeres:</strong> 48.2% de las transacciones</p>
+                    <p><strong>Hombres:</strong> 47.7% de las transacciones</p>
+                    <p><strong>Otros:</strong> 4.1% de las transacciones</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 7: Análisis de Correlaciones -->
+        <div class="slide">
+            <div class="slide-number">7/12</div>
+            <h2>Correlaciones Clave</h2>
+            
+            <div class="chart-container">
+                <div class="chart-placeholder">
+                    <img class="responsive-img" src="heatmap_correlaciones.png">
+                </div>
+            </div>
+            
+            <div class="insight-box">
+                <h4>Top 3 Correlaciones Significativas</h4>
+                <p><strong>1.</strong> product_price vs total_amount: 0.777 - Mayor precio unitario genera mayores ingresos por transacción</p>
+                <p><strong>2.</strong> delivery_days vs customer_satisfaction: -0.537 - Entregas más rápidas mejoran la satisfacción del cliente</p>
+                <p><strong>3.</strong> quantity vs total_amount: 0.421 - Mayor cantidad comprada incrementa el valor total de la venta</p>
+            </div>
+        </div>
+
+        <!-- Slide 8: Satisfacción y Devoluciones -->
+        <div class="slide">
+            <div class="slide-number">8/12</div>
+            <h2>Satisfacción del Cliente y Devoluciones</h2>
+            
+            <div class="chart-container">
+                <div class="chart-placeholder">
+                    <img class="responsive-img" src="boxplot_satisfaccion_categoria.png">
+                </div>
+            </div>
+            
+            <div class="two-column">
+                <div class="insight-box">
+                    <h4>Factores de Satisfacción</h4>
+                    <p>Los principales predictores de satisfacción son: Días de entrega</p>
+                    <p><strong>Correlación más fuerte:</strong> Electrónicos r = 0.536</p>
+                </div>
+                
+                <div class="insight-box">
+                    <h4>Impacto del Tiempo de Entrega</h4>
+                    <p><strong>Tasa de Devolución Global:</strong> 12.86%</p>
+                    <p><strong>Correlación Entrega-Devolución:</strong> 0.150</p>
+                    <p>Entregas 10 días aumentan devoluciones en 25%</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 9: Recomendación 1 -->
+        <div class="slide">
+            <div class="slide-number">9/12</div>
+            <h2>Recomendación 1: Optimización Temporal</h2>
+            
+            <div class="recommendation">
+                <h4>Estrategia de Marketing Temporal</h4>
+                <p><strong>Problema Identificado:</strong> Concentración de ventas en horarios específicos genera oportunidades perdidas</p>
+                
+                <p><strong>Recomendación:</strong></p>
+                <ul>
+                    <li>Implementar campañas promocionales en horarios de baja actividad</li>
+                    <li>Crear ofertas específicas para los meses de menor venta</li>
+                    <li>Optimizar el personal de atención en horas pico</li>
+                </ul>
+                
+                <p><strong>Impacto Esperado:</strong> Incremento del 15-20% en ventas durante horarios de baja actividad</p>
+            </div>
+            
+            <div class="chart-container">
+                <div class="chart-placeholder">
+                    <img class="responsive-img" src="analisis_adicional_multiples.png">
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 10: Recomendación 2 -->
+        <div class="slide">
+            <div class="slide-number">10/12</div>
+            <h2>Recomendación 2: Mejora en Entregas</h2>
+            
+            <div class="recommendation">
+                <h4>Optimización Logística</h4>
+                <p><strong>Problema Identificado:</strong> Correlación negativa entre tiempo de entrega y satisfacción del cliente</p>
+                
+                <p><strong>Recomendación:</strong></p>
+                <ul>
+                    <li>Establecer SLA de entrega máximo de 2 días</li>
+                    <li>Implementar centros de distribución regionales</li>
+                    <li>Crear programa de entrega express para productos premium</li>
+                    <li>Mejorar comunicación de estatus de pedidos</li>
+                </ul>
+                
+                <p><strong>Impacto Esperado:</strong> Reducción de devoluciones en 25% y mejora de satisfacción a 4.5/5</p>
+            </div>
+        </div>
+
+        <!-- Slide 11: Recomendación 3 -->
+        <div class="slide">
+            <div class="slide-number">11/12</div>
+            <h2>Recomendación 3: Segmentación de Clientes</h2>
+            
+            <div class="recommendation">
+                <h4>Marketing Personalizado</h4>
+                <p><strong>Oportunidad Identificada:</strong> Segmentos demográficos con alto potencial de valor</p>
+                
+                <p><strong>Recomendación:</strong></p>
+                <ul>
+                    <li>Desarrollar campañas específicas para el segmento [edad-género] más rentable</li>
+                    <li>Crear programas de lealtad diferenciados por perfil demográfico</li>
+                    <li>Personalizar ofertas basadas en historial de compras</li>
+                    <li>Implementar estrategias de cross-selling por categoría</li>
+                </ul>
+                
+                <p><strong>Impacto Esperado:</strong> Incremento del ticket promedio en 30% para segmentos objetivo</p>
+            </div>
+        </div>
+
+        <!-- Slide 12: Conclusiones -->
+        <div class="slide">
+            <div class="slide-number">12/12</div>
+            <h2>Conclusiones</h2>
+            
+            <div class="conclusion-highlight">
+                <h3>Resumen de Oportunidades</h3>
+                <p>El análisis revela un negocio saludable con oportunidades claras de crecimiento</p>
+            </div>
+            
+            <div class="two-column">
+                <div>
+                    <h3>Fortalezas Identificadas</h3>
+                    <ul>
+                        <li>Satisfacción del cliente por encima de 4/5</li>
+                        <li>Diversificación equilibrada de categorías</li>
+                        <li>Tasa de devolución controlada</li>
+                        <li>Patrones de compra predecibles</li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h3>Próximos Pasos</h3>
+                    <ul>
+                        <li>Implementar dashboard en tiempo real</li>
+                        <li>Desarrollar modelos predictivos</li>
+                        <li>Automatizar segmentación de clientes</li>
+                        <li>Monitoreo continuo de KPIs</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="insight-box">
+                <h4>Potencial de Crecimiento</h4>
+                <p>Con las recomendaciones implementadas, se proyecta un crecimiento del <strong>40-50%</strong> en ventas y una mejora del <strong>20%</strong> en satisfacción del cliente en los próximos 12 meses.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <div class="navigation">
+        <button class="nav-btn" id="prevBtn" onclick="changeSlide(-1)">← Anterior</button>
+        <button class="nav-btn" id="nextBtn" onclick="changeSlide(1)">Siguiente →</button>
+    </div>
+
+    <!-- Slide Indicators -->
+    <div class="slide-indicator">
+        <div class="indicator-dot active" onclick="currentSlide(1)"></div>
+        <div class="indicator-dot" onclick="currentSlide(2)"></div>
+        <div class="indicator-dot" onclick="currentSlide(3)"></div>
+        <div class="indicator-dot" onclick="currentSlide(4)"></div>
+        <div class="indicator-dot" onclick="currentSlide(5)"></div>
+        <div class="indicator-dot" onclick="currentSlide(6)"></div>
+        <div class="indicator-dot" onclick="currentSlide(7)"></div>
+        <div class="indicator-dot" onclick="currentSlide(8)"></div>
+        <div class="indicator-dot" onclick="currentSlide(9)"></div>
+        <div class="indicator-dot" onclick="currentSlide(10)"></div>
+        <div class="indicator-dot" onclick="currentSlide(11)"></div>
+        <div class="indicator-dot" onclick="currentSlide(12)"></div>
+    </div>
+
+    <script>
+        let currentSlideIndex = 1;
+        const totalSlides = 12;
+
+        function showSlide(n) {
+            const slides = document.querySelectorAll('.slide');
+            const dots = document.querySelectorAll('.indicator-dot');
+            
+            if (n > totalSlides) currentSlideIndex = 1;
+            if (n < 1) currentSlideIndex = totalSlides;
+            
+            slides.forEach(slide => slide.classList.remove('active'));
+            dots.forEach(dot => dot.classList.remove('active'));
+            
+            slides[currentSlideIndex - 1].classList.add('active');
+            dots[currentSlideIndex - 1].classList.add('active');
+            
+            // Update navigation buttons
+            document.getElementById('prevBtn').disabled = currentSlideIndex === 1;
+            document.getElementById('nextBtn').disabled = currentSlideIndex === totalSlides;
+        }
+
+        function changeSlide(n) {
+            currentSlideIndex += n;
+            showSlide(currentSlideIndex);
+        }
+
+        function currentSlide(n) {
+            currentSlideIndex = n;
+            showSlide(currentSlideIndex);
+        }
+
+        // Initialize
+        showSlide(currentSlideIndex);
+
+        // Keyboard navigation
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'ArrowLeft' || event.key === 'ArrowUp') {
+                changeSlide(-1);
+            } else if (event.key === 'ArrowRight' || event.key === 'ArrowDown') {
+                changeSlide(1);
+            }
+        });
+
+         setInterval(() => {
+            if (currentSlideIndex < totalSlides) {
+                 changeSlide(1);
+             }
+         }, 10000);
+    </script>
+</body>
+</html>
